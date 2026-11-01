@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="pt-PT">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Português · 1000 palavras</title>
+  <meta name="theme-color" content="#0d6efd">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Português">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="vendor/bootstrap-5.3.3.min.css">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <nav class="navbar navbar-expand bg-body-tertiary border-bottom sticky-top">
+    <div class="container-fluid flex-wrap gap-2">
+      <button class="btn btn-sm btn-outline-secondary" type="button" id="sb-btn" aria-label="Toggle sections">☰</button>
+      <a class="navbar-brand me-2" href="#/">Português</a>
+      <ul class="navbar-nav me-auto">
+        <li class="nav-item"><a class="nav-link" href="#/verbos">Verbos</a></li>
+        <li class="nav-item"><a class="nav-link" href="#/praticar">Praticar</a></li>
+        <li class="nav-item"><a class="nav-link" href="#/flashcards">Flashcards</a></li>
+      </ul>
+      <label class="small text-muted d-none d-sm-inline" for="tense">Tempo</label>
+      <select id="tense" class="form-select form-select-sm w-auto"></select>
+    </div>
+  </nav>
+
+  <div class="container-fluid">
+    <div class="row">
+      <aside class="col-md-3 col-xl-2 border-end p-0" id="sidebar-wrap">
+        <div id="sidebar" class="sidebar"></div>
+      </aside>
+      <main class="col-md-9 col-xl-10 py-3 px-3 px-md-4" id="main"></main>
+    </div>
+  </div>
+
+  <script src="data/data.js"></script>
+  <script src="js/util.js"></script>
+  <script src="js/practice.js"></script>
+  <script src="js/flashcards.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

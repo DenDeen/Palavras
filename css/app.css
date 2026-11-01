@@ -1,0 +1,40 @@
+.sidebar { position: sticky; top: 56px; max-height: calc(100vh - 56px); overflow-y: auto; }
+.pre { white-space: pre-line; }
+.num { width: 3rem; }
+.words td:nth-child(2) { white-space: nowrap; }
+
+/* Example sentences: English appears on click. */
+.sentence { cursor: pointer; }
+.sentence .en { display: none; color: var(--bs-secondary-color); font-size: .875em; }
+.sentence.open .en { display: block; }
+.examples li { margin-bottom: .4rem; }
+
+/* Reveal-only answers. */
+.answer { display: none; color: var(--bs-success-text-emphasis); margin-top: .25rem; }
+td.answer { margin: 0; }
+.revealed .answer { display: block; }
+.revealed td.answer { display: table-cell; }
+.blank { vertical-align: baseline; }
+.conj-practice th { width: 1%; }
+.conj-practice input { max-width: 14rem; }
+
+.fc-card { min-height: 16rem; max-width: 36rem; margin: 0 auto; user-select: none; }
+.fc-word { font-size: 1.75rem; font-weight: 600; }
+
+/* Sidebar: ☰ hides it on desktop (remembered), drops it down on phones. */
+.sb-toggle { border: 0; border-radius: 0; color: var(--bs-secondary-color); }
+@media (min-width: 768px) {
+  .sb-hidden #sidebar-wrap { display: none; }
+  .sb-hidden #main { flex: 0 0 100%; max-width: 100%; }
+}
+@media (max-width: 767.98px) {
+  #sidebar-wrap { display: none; }
+  .sb-open #sidebar-wrap { display: block; border-bottom: 1px solid var(--bs-border-color); }
+  .sidebar { position: static; max-height: 60vh; }
+  /* 16px inputs stop iOS from zooming in on focus. */
+  input, textarea, select, .form-control-sm, .form-select-sm { font-size: 16px !important; }
+  .fc-buttons .btn { padding: .6rem 1rem; font-size: 1.1rem; }
+  .fc-card { min-height: 20rem; }
+}
+#fc-decks summary { cursor: pointer; }
+.deck-list { columns: 2 14rem; }

@@ -1,0 +1,2354 @@
+{
+  "sections": [
+    {
+      "id": "substantivos",
+      "title": "Substantivos",
+      "titleEn": "Nouns",
+      "groups": [
+        {
+          "title": "Roupa e objetos pessoais",
+          "titleEn": "Clothing and personal objects",
+          "items": [
+            {
+              "n": 286,
+              "pt": "a roupa",
+              "en": "the clothing",
+              "ex": {
+                "pt": "A minha roupa está no armário.",
+                "en": "My clothes are in the wardrobe."
+              },
+              "note": "Usually singular in Portuguese where English says \"clothes\"."
+            },
+            {
+              "n": 287,
+              "pt": "a blusa",
+              "en": "the blouse",
+              "ex": {
+                "pt": "A Ana tem uma blusa azul.",
+                "en": "Ana has a blue blouse."
+              }
+            },
+            {
+              "n": 288,
+              "pt": "a t-shirt",
+              "en": "the t-shirt",
+              "ex": {
+                "pt": "No verão uso sempre uma t-shirt.",
+                "en": "In summer I always wear a t-shirt."
+              }
+            },
+            {
+              "n": 289,
+              "pt": "a camisa",
+              "en": "the shirt",
+              "ex": {
+                "pt": "O meu pai usa uma camisa branca para trabalhar.",
+                "en": "My father wears a white shirt to work."
+              }
+            },
+            {
+              "n": 290,
+              "pt": "a camisola",
+              "en": "the sweatshirt / the jumper",
+              "ex": {
+                "pt": "Está frio, leva uma camisola.",
+                "en": "It's cold, take a jumper."
+              }
+            },
+            {
+              "n": 291,
+              "pt": "o casaco",
+              "en": "the coat / the jacket",
+              "ex": {
+                "pt": "Onde está o meu casaco?",
+                "en": "Where is my coat?"
+              }
+            },
+            {
+              "n": 292,
+              "pt": "as calças",
+              "en": "the pants / the trousers",
+              "ex": {
+                "pt": "Estas calças são muito confortáveis.",
+                "en": "These trousers are very comfortable."
+              },
+              "note": "Plural in Portuguese, as in English."
+            },
+            {
+              "n": 293,
+              "pt": "os calções",
+              "en": "the shorts",
+              "ex": {
+                "pt": "Na praia uso calções.",
+                "en": "At the beach I wear shorts."
+              }
+            },
+            {
+              "n": 294,
+              "pt": "o vestido",
+              "en": "the dress",
+              "ex": {
+                "pt": "Ela comprou um vestido para a festa.",
+                "en": "She bought a dress for the party."
+              }
+            },
+            {
+              "n": 295,
+              "pt": "a roupa interior",
+              "en": "the underwear",
+              "ex": {
+                "pt": "A roupa interior está na gaveta.",
+                "en": "The underwear is in the drawer."
+              }
+            },
+            {
+              "n": 296,
+              "pt": "as meias",
+              "en": "the socks",
+              "ex": {
+                "pt": "Preciso de meias novas.",
+                "en": "I need new socks."
+              }
+            },
+            {
+              "n": 297,
+              "pt": "o sapato",
+              "en": "the shoe",
+              "ex": {
+                "pt": "Este sapato é muito pequeno para mim.",
+                "en": "This shoe is too small for me."
+              }
+            },
+            {
+              "n": 298,
+              "pt": "o ténis / a sapatilha",
+              "en": "the sneaker / the trainer",
+              "ex": {
+                "pt": "Para correr, uso ténis.",
+                "en": "To run, I wear trainers."
+              },
+              "note": "Plural of o ténis: os ténis (unchanged)."
+            },
+            {
+              "n": 299,
+              "pt": "a bota",
+              "en": "the boot",
+              "ex": {
+                "pt": "No inverno uso botas.",
+                "en": "In winter I wear boots."
+              }
+            },
+            {
+              "n": 300,
+              "pt": "o cinto",
+              "en": "the belt",
+              "ex": {
+                "pt": "Estas calças precisam de um cinto.",
+                "en": "These trousers need a belt."
+              }
+            },
+            {
+              "n": 301,
+              "pt": "o cachecol",
+              "en": "the scarf",
+              "ex": {
+                "pt": "Leva o cachecol, está muito frio.",
+                "en": "Take your scarf, it's very cold."
+              },
+              "note": "Plural: os cachecóis."
+            },
+            {
+              "n": 302,
+              "pt": "o chapéu",
+              "en": "the hat",
+              "ex": {
+                "pt": "O meu avô usa sempre chapéu.",
+                "en": "My grandfather always wears a hat."
+              }
+            },
+            {
+              "n": 303,
+              "pt": "o gorro",
+              "en": "the beanie",
+              "ex": {
+                "pt": "O gorro do meu filho é vermelho.",
+                "en": "My son's beanie is red."
+              }
+            },
+            {
+              "n": 304,
+              "pt": "as luvas",
+              "en": "the gloves",
+              "ex": {
+                "pt": "Não encontro as minhas luvas.",
+                "en": "I can't find my gloves."
+              }
+            },
+            {
+              "n": 305,
+              "pt": "os óculos",
+              "en": "the glasses",
+              "ex": {
+                "pt": "Preciso dos óculos para ler.",
+                "en": "I need my glasses to read."
+              },
+              "note": "Always plural."
+            },
+            {
+              "n": 306,
+              "pt": "a toalha",
+              "en": "the towel",
+              "ex": {
+                "pt": "A toalha está na casa de banho.",
+                "en": "The towel is in the bathroom."
+              }
+            },
+            {
+              "n": 307,
+              "pt": "a escova de dentes",
+              "en": "the toothbrush",
+              "ex": {
+                "pt": "Levas a escova de dentes na mala?",
+                "en": "Are you taking the toothbrush in the suitcase?"
+              }
+            },
+            {
+              "n": 308,
+              "pt": "a pasta de dentes",
+              "en": "the toothpaste",
+              "ex": {
+                "pt": "Já não temos pasta de dentes.",
+                "en": "We're out of toothpaste."
+              }
+            },
+            {
+              "n": 309,
+              "pt": "o sabão",
+              "en": "the soap",
+              "ex": {
+                "pt": "Lava as mãos com água e sabão.",
+                "en": "Wash your hands with soap and water."
+              },
+              "note": "Plural: os sabões."
+            },
+            {
+              "n": 310,
+              "pt": "o champô",
+              "en": "the shampoo",
+              "ex": {
+                "pt": "Este champô cheira muito bem.",
+                "en": "This shampoo smells very good."
+              }
+            },
+            {
+              "n": 311,
+              "pt": "o desodorizante",
+              "en": "the deodorant",
+              "ex": {
+                "pt": "Esqueci-me do desodorizante em casa.",
+                "en": "I forgot my deodorant at home."
+              }
+            },
+            {
+              "n": 312,
+              "pt": "o creme",
+              "en": "the cream",
+              "ex": {
+                "pt": "Ponho creme nas mãos todas as noites.",
+                "en": "I put cream on my hands every night."
+              }
+            },
+            {
+              "n": 313,
+              "pt": "o protetor solar",
+              "en": "the sunblock",
+              "ex": {
+                "pt": "Na praia, uso sempre protetor solar.",
+                "en": "At the beach I always use sunblock."
+              }
+            },
+            {
+              "n": 314,
+              "pt": "o computador",
+              "en": "the computer",
+              "ex": {
+                "pt": "Trabalho no computador todo o dia.",
+                "en": "I work on the computer all day."
+              }
+            },
+            {
+              "n": 315,
+              "pt": "o rato",
+              "en": "the mouse",
+              "ex": {
+                "pt": "O rato do computador não funciona.",
+                "en": "The computer mouse doesn't work."
+              },
+              "note": "Also the animal (a rat or mouse)."
+            },
+            {
+              "n": 316,
+              "pt": "o teclado",
+              "en": "the keyboard",
+              "ex": {
+                "pt": "Este teclado é novo.",
+                "en": "This keyboard is new."
+              }
+            },
+            {
+              "n": 317,
+              "pt": "o cabo",
+              "en": "the cable",
+              "ex": {
+                "pt": "Tens um cabo para o telemóvel?",
+                "en": "Do you have a cable for the phone?"
+              }
+            },
+            {
+              "n": 318,
+              "pt": "o carregador",
+              "en": "the charger",
+              "ex": {
+                "pt": "Onde está o carregador do computador?",
+                "en": "Where is the computer charger?"
+              }
+            },
+            {
+              "n": 319,
+              "pt": "o tablet",
+              "en": "the tablet",
+              "ex": {
+                "pt": "As crianças veem filmes no tablet.",
+                "en": "The children watch films on the tablet."
+              }
+            },
+            {
+              "n": 320,
+              "pt": "o telefone",
+              "en": "the phone",
+              "ex": {
+                "pt": "O telefone está a tocar.",
+                "en": "The phone is ringing."
+              }
+            },
+            {
+              "n": 321,
+              "pt": "o telemóvel",
+              "en": "the cell / mobile phone",
+              "ex": {
+                "pt": "Qual é o número do teu telemóvel?",
+                "en": "What's your mobile number?"
+              }
+            },
+            {
+              "n": 322,
+              "pt": "as chaves",
+              "en": "the keys",
+              "ex": {
+                "pt": "Não sei onde estão as chaves de casa.",
+                "en": "I don't know where the house keys are."
+              }
+            },
+            {
+              "n": 323,
+              "pt": "a carteira",
+              "en": "the wallet / the purse",
+              "ex": {
+                "pt": "Tenho o dinheiro na carteira.",
+                "en": "I have the money in my wallet."
+              }
+            },
+            {
+              "n": 324,
+              "pt": "o dinheiro",
+              "en": "the money",
+              "ex": {
+                "pt": "Não tenho dinheiro para isso.",
+                "en": "I don't have money for that."
+              }
+            },
+            {
+              "n": 325,
+              "pt": "a moeda",
+              "en": "the coin",
+              "ex": {
+                "pt": "Tens uma moeda de um euro?",
+                "en": "Do you have a one-euro coin?"
+              }
+            },
+            {
+              "n": 326,
+              "pt": "a nota",
+              "en": "the bill / the banknote",
+              "ex": {
+                "pt": "Só tenho uma nota de vinte euros.",
+                "en": "I only have a twenty-euro note."
+              },
+              "note": "Also means \"the grade / the note\"."
+            },
+            {
+              "n": 327,
+              "pt": "o cartão",
+              "en": "the card",
+              "ex": {
+                "pt": "Posso pagar com cartão?",
+                "en": "Can I pay by card?"
+              },
+              "note": "Plural: os cartões."
+            },
+            {
+              "n": 328,
+              "pt": "a identificação",
+              "en": "the ID",
+              "ex": {
+                "pt": "Preciso de ver a sua identificação.",
+                "en": "I need to see your ID."
+              }
+            },
+            {
+              "n": 329,
+              "pt": "a carta",
+              "en": "the letter",
+              "ex": {
+                "pt": "Escrevo uma carta à minha avó.",
+                "en": "I'm writing a letter to my grandmother."
+              }
+            },
+            {
+              "n": 330,
+              "pt": "o livro",
+              "en": "the book",
+              "ex": {
+                "pt": "Estou a ler um livro muito bom.",
+                "en": "I'm reading a very good book."
+              }
+            },
+            {
+              "n": 331,
+              "pt": "o caderno",
+              "en": "the notebook",
+              "ex": {
+                "pt": "Escrevo as palavras novas no caderno.",
+                "en": "I write the new words in my notebook."
+              }
+            },
+            {
+              "n": 332,
+              "pt": "o bloco de notas",
+              "en": "the notepad",
+              "ex": {
+                "pt": "Tenho sempre um bloco de notas na mochila.",
+                "en": "I always have a notepad in my backpack."
+              }
+            },
+            {
+              "n": 333,
+              "pt": "o papel",
+              "en": "the paper",
+              "ex": {
+                "pt": "Tens uma folha de papel?",
+                "en": "Do you have a sheet of paper?"
+              },
+              "note": "Plural: os papéis."
+            },
+            {
+              "n": 334,
+              "pt": "o lápis",
+              "en": "the pencil",
+              "ex": {
+                "pt": "O meu filho escreve com um lápis.",
+                "en": "My son writes with a pencil."
+              },
+              "note": "Plural: os lápis (unchanged)."
+            },
+            {
+              "n": 335,
+              "pt": "a caneta",
+              "en": "the pen",
+              "ex": {
+                "pt": "Posso usar a tua caneta?",
+                "en": "Can I use your pen?"
+              }
+            },
+            {
+              "n": 336,
+              "pt": "a tesoura",
+              "en": "the scissors",
+              "ex": {
+                "pt": "A tesoura está na gaveta da cozinha.",
+                "en": "The scissors are in the kitchen drawer."
+              },
+              "note": "Singular in Portuguese: a tesoura = (a pair of) scissors."
+            },
+            {
+              "n": 337,
+              "pt": "o estojo",
+              "en": "the case",
+              "ex": {
+                "pt": "As canetas estão no estojo.",
+                "en": "The pens are in the pencil case."
+              }
+            },
+            {
+              "n": 338,
+              "pt": "o saco",
+              "en": "the bag",
+              "ex": {
+                "pt": "Quer um saco para as compras?",
+                "en": "Do you want a bag for your shopping?"
+              }
+            },
+            {
+              "n": 339,
+              "pt": "a mochila",
+              "en": "the backpack",
+              "ex": {
+                "pt": "A mochila do meu filho é muito pesada.",
+                "en": "My son's backpack is very heavy."
+              }
+            },
+            {
+              "n": 340,
+              "pt": "a mala",
+              "en": "the suitcase",
+              "ex": {
+                "pt": "A minha mala ainda não chegou.",
+                "en": "My suitcase hasn't arrived yet."
+              },
+              "note": "Also \"the handbag\" (a mala de mão)."
+            }
+          ]
+        },
+        {
+          "title": "Natureza, clima, fauna e flora",
+          "titleEn": "Nature, the weather, fauna and flora",
+          "items": [
+            {
+              "n": 341,
+              "pt": "a Natureza",
+              "en": "Nature",
+              "ex": {
+                "pt": "Gosto de passear na natureza ao fim de semana.",
+                "en": "I like walking in nature at the weekend."
+              }
+            },
+            {
+              "n": 342,
+              "pt": "o tempo",
+              "en": "the weather",
+              "ex": {
+                "pt": "Como está o tempo hoje?",
+                "en": "What's the weather like today?"
+              },
+              "note": "Also means \"time\"."
+            },
+            {
+              "n": 343,
+              "pt": "o clima",
+              "en": "the climate",
+              "ex": {
+                "pt": "O clima em Portugal é ameno.",
+                "en": "The climate in Portugal is mild."
+              }
+            },
+            {
+              "n": 344,
+              "pt": "o sol",
+              "en": "the sun",
+              "ex": {
+                "pt": "Hoje está sol.",
+                "en": "It's sunny today."
+              }
+            },
+            {
+              "n": 345,
+              "pt": "a lua",
+              "en": "the moon",
+              "ex": {
+                "pt": "Esta noite a lua está muito bonita.",
+                "en": "The moon is very beautiful tonight."
+              }
+            },
+            {
+              "n": 346,
+              "pt": "a estrela",
+              "en": "the star",
+              "ex": {
+                "pt": "No campo vemos muitas estrelas.",
+                "en": "In the countryside we see lots of stars."
+              }
+            },
+            {
+              "n": 347,
+              "pt": "o planeta",
+              "en": "the planet",
+              "ex": {
+                "pt": "A Terra é o nosso planeta.",
+                "en": "Earth is our planet."
+              },
+              "note": "Masculine despite ending in -a."
+            },
+            {
+              "n": 348,
+              "pt": "o nascer do sol",
+              "en": "the sunrise",
+              "ex": {
+                "pt": "Vemos o nascer do sol na praia.",
+                "en": "We watch the sunrise on the beach."
+              }
+            },
+            {
+              "n": 349,
+              "pt": "o pôr do sol",
+              "en": "the sunset",
+              "ex": {
+                "pt": "O pôr do sol em Lisboa é lindo.",
+                "en": "The sunset in Lisbon is beautiful."
+              }
+            },
+            {
+              "n": 350,
+              "pt": "a chuva",
+              "en": "the rain",
+              "ex": {
+                "pt": "Não gosto de chuva.",
+                "en": "I don't like rain."
+              }
+            },
+            {
+              "n": 351,
+              "pt": "o vento",
+              "en": "the wind",
+              "ex": {
+                "pt": "Hoje há muito vento.",
+                "en": "It's very windy today."
+              }
+            },
+            {
+              "n": 352,
+              "pt": "o ar",
+              "en": "the air",
+              "ex": {
+                "pt": "O ar da montanha é muito limpo.",
+                "en": "The mountain air is very clean."
+              }
+            },
+            {
+              "n": 353,
+              "pt": "a nuvem",
+              "en": "the cloud",
+              "ex": {
+                "pt": "Não há nenhuma nuvem no céu.",
+                "en": "There isn't a single cloud in the sky."
+              },
+              "note": "Plural: as nuvens."
+            },
+            {
+              "n": 354,
+              "pt": "o arco-íris",
+              "en": "the rainbow",
+              "ex": {
+                "pt": "Depois da chuva, há um arco-íris.",
+                "en": "After the rain, there's a rainbow."
+              },
+              "note": "Plural: os arco-íris (unchanged)."
+            },
+            {
+              "n": 355,
+              "pt": "a humidade",
+              "en": "the humidity",
+              "ex": {
+                "pt": "No verão a humidade é alta.",
+                "en": "In summer the humidity is high."
+              }
+            },
+            {
+              "n": 356,
+              "pt": "o nevoeiro",
+              "en": "the fog",
+              "ex": {
+                "pt": "De manhã há muito nevoeiro.",
+                "en": "In the morning there is a lot of fog."
+              }
+            },
+            {
+              "n": 357,
+              "pt": "a neve",
+              "en": "the snow",
+              "ex": {
+                "pt": "As crianças brincam na neve.",
+                "en": "The children play in the snow."
+              }
+            },
+            {
+              "n": 358,
+              "pt": "o gelo",
+              "en": "the ice",
+              "ex": {
+                "pt": "Quero um sumo com gelo, por favor.",
+                "en": "I'd like a juice with ice, please."
+              }
+            },
+            {
+              "n": 359,
+              "pt": "o fogo",
+              "en": "the fire",
+              "ex": {
+                "pt": "Não brinques com o fogo!",
+                "en": "Don't play with fire!"
+              }
+            },
+            {
+              "n": 360,
+              "pt": "o céu",
+              "en": "the sky",
+              "ex": {
+                "pt": "O céu está azul hoje.",
+                "en": "The sky is blue today."
+              }
+            },
+            {
+              "n": 361,
+              "pt": "a terra",
+              "en": "the earth",
+              "ex": {
+                "pt": "As plantas precisam de terra e água.",
+                "en": "Plants need earth and water."
+              },
+              "note": "With a capital letter, a Terra is the planet Earth."
+            },
+            {
+              "n": 362,
+              "pt": "o mar",
+              "en": "the sea",
+              "ex": {
+                "pt": "A nossa casa fica perto do mar.",
+                "en": "Our house is near the sea."
+              }
+            },
+            {
+              "n": 363,
+              "pt": "o rio",
+              "en": "the river",
+              "ex": {
+                "pt": "O rio Tejo passa por Lisboa.",
+                "en": "The river Tagus flows through Lisbon."
+              }
+            },
+            {
+              "n": 364,
+              "pt": "o lago",
+              "en": "the lake",
+              "ex": {
+                "pt": "Há patos no lago.",
+                "en": "There are ducks on the lake."
+              }
+            },
+            {
+              "n": 365,
+              "pt": "a gruta",
+              "en": "the cave",
+              "ex": {
+                "pt": "Visitamos uma gruta na serra.",
+                "en": "We're visiting a cave in the hills."
+              }
+            },
+            {
+              "n": 366,
+              "pt": "a montanha",
+              "en": "the mountain",
+              "ex": {
+                "pt": "No inverno vamos à montanha.",
+                "en": "In winter we go to the mountains."
+              }
+            },
+            {
+              "n": 367,
+              "pt": "o monte",
+              "en": "the mount",
+              "ex": {
+                "pt": "Há uma capela no alto do monte.",
+                "en": "There's a chapel on top of the mount."
+              }
+            },
+            {
+              "n": 368,
+              "pt": "a colina",
+              "en": "the hill",
+              "ex": {
+                "pt": "A casa fica no alto da colina.",
+                "en": "The house is on top of the hill."
+              }
+            },
+            {
+              "n": 369,
+              "pt": "o vale",
+              "en": "the valley",
+              "ex": {
+                "pt": "O rio passa pelo vale.",
+                "en": "The river runs through the valley."
+              }
+            },
+            {
+              "n": 370,
+              "pt": "a planície",
+              "en": "the plain",
+              "ex": {
+                "pt": "O Alentejo tem muitas planícies.",
+                "en": "The Alentejo has many plains."
+              }
+            },
+            {
+              "n": 371,
+              "pt": "a floresta",
+              "en": "the forest",
+              "ex": {
+                "pt": "Há muitas árvores na floresta.",
+                "en": "There are many trees in the forest."
+              }
+            },
+            {
+              "n": 372,
+              "pt": "a praia",
+              "en": "the beach",
+              "ex": {
+                "pt": "Ao domingo vamos à praia.",
+                "en": "On Sundays we go to the beach."
+              }
+            },
+            {
+              "n": 373,
+              "pt": "o deserto",
+              "en": "the desert",
+              "ex": {
+                "pt": "No deserto quase nunca chove.",
+                "en": "It almost never rains in the desert."
+              }
+            },
+            {
+              "n": 374,
+              "pt": "o campo",
+              "en": "the field / the countryside",
+              "ex": {
+                "pt": "Os meus avós vivem no campo.",
+                "en": "My grandparents live in the countryside."
+              }
+            },
+            {
+              "n": 375,
+              "pt": "a costa",
+              "en": "the coast",
+              "ex": {
+                "pt": "A costa portuguesa tem praias lindas.",
+                "en": "The Portuguese coast has beautiful beaches."
+              }
+            },
+            {
+              "n": 376,
+              "pt": "a ilha",
+              "en": "the island",
+              "ex": {
+                "pt": "A Madeira é uma ilha.",
+                "en": "Madeira is an island."
+              }
+            },
+            {
+              "n": 377,
+              "pt": "o continente",
+              "en": "the continent",
+              "ex": {
+                "pt": "A Europa é um continente.",
+                "en": "Europe is a continent."
+              }
+            },
+            {
+              "n": 378,
+              "pt": "o oceano",
+              "en": "the ocean",
+              "ex": {
+                "pt": "Portugal fica ao lado do oceano Atlântico.",
+                "en": "Portugal is next to the Atlantic Ocean."
+              }
+            },
+            {
+              "n": 379,
+              "pt": "a planta",
+              "en": "the plant",
+              "ex": {
+                "pt": "Tenho muitas plantas em casa.",
+                "en": "I have lots of plants at home."
+              }
+            },
+            {
+              "n": 380,
+              "pt": "a árvore",
+              "en": "the tree",
+              "ex": {
+                "pt": "Há uma árvore grande no jardim.",
+                "en": "There's a big tree in the garden."
+              }
+            },
+            {
+              "n": 381,
+              "pt": "a raiz",
+              "en": "the root",
+              "ex": {
+                "pt": "Esta árvore tem raízes muito grandes.",
+                "en": "This tree has very big roots."
+              },
+              "note": "Plural: as raízes (with an accent)."
+            },
+            {
+              "n": 382,
+              "pt": "o tronco",
+              "en": "the trunk",
+              "ex": {
+                "pt": "O tronco desta árvore é muito largo.",
+                "en": "This tree's trunk is very wide."
+              }
+            },
+            {
+              "n": 383,
+              "pt": "o ramo",
+              "en": "the branch",
+              "ex": {
+                "pt": "O pássaro está num ramo da árvore.",
+                "en": "The bird is on a branch of the tree."
+              },
+              "note": "Also \"the bouquet\" (um ramo de flores)."
+            },
+            {
+              "n": 384,
+              "pt": "a folha",
+              "en": "the leaf",
+              "ex": {
+                "pt": "No outono as folhas caem.",
+                "en": "In autumn the leaves fall."
+              },
+              "note": "Also \"the sheet (of paper)\"."
+            },
+            {
+              "n": 385,
+              "pt": "a flor",
+              "en": "the flower",
+              "ex": {
+                "pt": "Ofereço flores à minha mãe.",
+                "en": "I give flowers to my mother."
+              },
+              "note": "Plural: as flores."
+            },
+            {
+              "n": 386,
+              "pt": "o animal",
+              "en": "the animal",
+              "ex": {
+                "pt": "Qual é o teu animal preferido?",
+                "en": "What's your favourite animal?"
+              },
+              "note": "Plural: os animais."
+            },
+            {
+              "n": 387,
+              "pt": "o cão",
+              "en": "the dog",
+              "ex": {
+                "pt": "O meu cão chama-se Bobi.",
+                "en": "My dog is called Bobi."
+              },
+              "note": "Plural: os cães; female: a cadela."
+            },
+            {
+              "n": 388,
+              "pt": "o gato",
+              "en": "the cat",
+              "ex": {
+                "pt": "O gato dorme no sofá.",
+                "en": "The cat sleeps on the sofa."
+              }
+            },
+            {
+              "n": 389,
+              "pt": "o macaco",
+              "en": "the monkey",
+              "ex": {
+                "pt": "Os macacos comem bananas.",
+                "en": "Monkeys eat bananas."
+              }
+            },
+            {
+              "n": 390,
+              "pt": "o cavalo",
+              "en": "the horse",
+              "ex": {
+                "pt": "O meu tio tem dois cavalos.",
+                "en": "My uncle has two horses."
+              },
+              "note": "Female: a égua."
+            },
+            {
+              "n": 391,
+              "pt": "o porco",
+              "en": "the pig",
+              "ex": {
+                "pt": "Há porcos na quinta dos meus avós.",
+                "en": "There are pigs on my grandparents' farm."
+              }
+            },
+            {
+              "n": 392,
+              "pt": "a vaca",
+              "en": "the cow",
+              "ex": {
+                "pt": "A vaca dá leite.",
+                "en": "The cow gives milk."
+              },
+              "note": "Male: o boi / o touro."
+            },
+            {
+              "n": 393,
+              "pt": "o peixe",
+              "en": "the fish",
+              "ex": {
+                "pt": "Hoje ao jantar comemos peixe.",
+                "en": "Today we're having fish for dinner."
+              },
+              "note": "Both the living fish and the food."
+            },
+            {
+              "n": 394,
+              "pt": "o pássaro",
+              "en": "the bird",
+              "ex": {
+                "pt": "Ouço os pássaros de manhã.",
+                "en": "I hear the birds in the morning."
+              }
+            },
+            {
+              "n": 395,
+              "pt": "o inseto",
+              "en": "the bug / the insect",
+              "ex": {
+                "pt": "Há um inseto na janela.",
+                "en": "There's an insect on the window."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Profissões e mercado de trabalho",
+          "titleEn": "Professions and job market",
+          "note": "In this section professions are shown in the masculine. To make them feminine, replace the final -o with -a for those ending in -o, and add -a to those ending in -or, giving -ora.\nE.g.: o empregado → a empregada; o trabalhador → a trabalhadora.\nProfessions that don't change (marked with an asterisk in the PDF) are noted as invariable, and the exceptions (in brackets in the PDF) are given in the item's note.",
+          "items": [
+            {
+              "n": 396,
+              "pt": "a profissão",
+              "en": "the profession",
+              "ex": {
+                "pt": "Qual é a tua profissão?",
+                "en": "What's your profession?"
+              },
+              "note": "Plural: as profissões."
+            },
+            {
+              "n": 397,
+              "pt": "o emprego",
+              "en": "the job",
+              "ex": {
+                "pt": "Estou à procura de emprego.",
+                "en": "I'm looking for a job."
+              }
+            },
+            {
+              "n": 398,
+              "pt": "a carreira",
+              "en": "the career",
+              "ex": {
+                "pt": "Ela tem uma carreira muito interessante.",
+                "en": "She has a very interesting career."
+              }
+            },
+            {
+              "n": 399,
+              "pt": "a empresa",
+              "en": "the company",
+              "ex": {
+                "pt": "Trabalho numa empresa pequena.",
+                "en": "I work for a small company."
+              }
+            },
+            {
+              "n": 400,
+              "pt": "a firma",
+              "en": "the firm",
+              "ex": {
+                "pt": "O meu pai tem uma firma em Braga.",
+                "en": "My father has a firm in Braga."
+              }
+            },
+            {
+              "n": 401,
+              "pt": "a entrevista",
+              "en": "the interview",
+              "ex": {
+                "pt": "Amanhã tenho uma entrevista de emprego.",
+                "en": "Tomorrow I have a job interview."
+              }
+            },
+            {
+              "n": 402,
+              "pt": "o candidato",
+              "en": "the candidate / the applicant",
+              "ex": {
+                "pt": "Há dez candidatos para este emprego.",
+                "en": "There are ten applicants for this job."
+              }
+            },
+            {
+              "n": 403,
+              "pt": "o empregado",
+              "en": "the employee",
+              "ex": {
+                "pt": "A empresa tem cinquenta empregados.",
+                "en": "The company has fifty employees."
+              }
+            },
+            {
+              "n": 404,
+              "pt": "o empregador",
+              "en": "the employer",
+              "ex": {
+                "pt": "O meu empregador paga bem.",
+                "en": "My employer pays well."
+              }
+            },
+            {
+              "n": 405,
+              "pt": "o dono",
+              "en": "the owner",
+              "ex": {
+                "pt": "O dono do restaurante é muito simpático.",
+                "en": "The owner of the restaurant is very nice."
+              }
+            },
+            {
+              "n": 406,
+              "pt": "o trabalhador",
+              "en": "the worker",
+              "ex": {
+                "pt": "Ele é um trabalhador muito bom.",
+                "en": "He is a very good worker."
+              }
+            },
+            {
+              "n": 407,
+              "pt": "o empregado de mesa",
+              "en": "the waiter / the server",
+              "ex": {
+                "pt": "O empregado de mesa traz a conta.",
+                "en": "The waiter brings the bill."
+              }
+            },
+            {
+              "n": 408,
+              "pt": "o funcionário",
+              "en": "the clerk",
+              "ex": {
+                "pt": "O funcionário do banco ajudou-me muito.",
+                "en": "The bank clerk helped me a lot."
+              }
+            },
+            {
+              "n": 409,
+              "pt": "o vendedor",
+              "en": "the seller / the salesperson",
+              "ex": {
+                "pt": "O vendedor diz que o carro é novo.",
+                "en": "The salesman says the car is new."
+              }
+            },
+            {
+              "n": 410,
+              "pt": "o professor",
+              "en": "the teacher / the professor",
+              "ex": {
+                "pt": "A minha professora de português é de Lisboa.",
+                "en": "My Portuguese teacher is from Lisbon."
+              }
+            },
+            {
+              "n": 411,
+              "pt": "o médico",
+              "en": "the doctor / the physician",
+              "ex": {
+                "pt": "Tenho uma consulta no médico amanhã.",
+                "en": "I have a doctor's appointment tomorrow."
+              }
+            },
+            {
+              "n": 412,
+              "pt": "o enfermeiro",
+              "en": "the nurse",
+              "ex": {
+                "pt": "A enfermeira trabalha no hospital.",
+                "en": "The nurse works at the hospital."
+              }
+            },
+            {
+              "n": 413,
+              "pt": "o advogado",
+              "en": "the lawyer",
+              "ex": {
+                "pt": "Preciso de falar com um advogado.",
+                "en": "I need to talk to a lawyer."
+              }
+            },
+            {
+              "n": 414,
+              "pt": "o engenheiro",
+              "en": "the engineer",
+              "ex": {
+                "pt": "O meu irmão é engenheiro.",
+                "en": "My brother is an engineer."
+              }
+            },
+            {
+              "n": 415,
+              "pt": "o polícia",
+              "en": "the police officer",
+              "ex": {
+                "pt": "O polícia ajuda as pessoas na rua.",
+                "en": "The police officer helps people in the street."
+              },
+              "note": "invariable (same in the feminine): a polícia. Note that a polícia also means \"the police\" (the force)."
+            },
+            {
+              "n": 416,
+              "pt": "o condutor / o motorista",
+              "en": "the driver",
+              "ex": {
+                "pt": "O motorista do autocarro é muito simpático.",
+                "en": "The bus driver is very nice."
+              },
+              "note": "o condutor → a condutora; o motorista is invariable (same in the feminine): a motorista."
+            },
+            {
+              "n": 417,
+              "pt": "o mecânico",
+              "en": "the mechanic",
+              "ex": {
+                "pt": "O mecânico está a arranjar o meu carro.",
+                "en": "The mechanic is fixing my car."
+              }
+            },
+            {
+              "n": 418,
+              "pt": "o cozinheiro",
+              "en": "the cook",
+              "ex": {
+                "pt": "O cozinheiro deste restaurante é muito bom.",
+                "en": "The cook at this restaurant is very good."
+              }
+            },
+            {
+              "n": 419,
+              "pt": "o agricultor",
+              "en": "the farmer",
+              "ex": {
+                "pt": "O agricultor trabalha no campo.",
+                "en": "The farmer works in the fields."
+              }
+            },
+            {
+              "n": 420,
+              "pt": "o político",
+              "en": "the politician",
+              "ex": {
+                "pt": "Os políticos falam muito.",
+                "en": "Politicians talk a lot."
+              }
+            },
+            {
+              "n": 421,
+              "pt": "o presidente",
+              "en": "the president / the chairman",
+              "ex": {
+                "pt": "O presidente da empresa chega hoje.",
+                "en": "The chairman of the company arrives today."
+              },
+              "note": "invariable (same in the feminine): a presidente."
+            },
+            {
+              "n": 422,
+              "pt": "o músico",
+              "en": "the musician",
+              "ex": {
+                "pt": "O meu primo é músico.",
+                "en": "My cousin is a musician."
+              }
+            },
+            {
+              "n": 423,
+              "pt": "o ator",
+              "en": "the actor",
+              "ex": {
+                "pt": "Ela é uma atriz muito famosa.",
+                "en": "She is a very famous actress."
+              },
+              "note": "Irregular feminine: a atriz."
+            },
+            {
+              "n": 424,
+              "pt": "o escritor",
+              "en": "the writer",
+              "ex": {
+                "pt": "Saramago é um escritor português.",
+                "en": "Saramago is a Portuguese writer."
+              }
+            },
+            {
+              "n": 425,
+              "pt": "o funcionário público",
+              "en": "the public servant",
+              "ex": {
+                "pt": "A minha mãe é funcionária pública.",
+                "en": "My mother is a public servant."
+              },
+              "note": "Feminine: a funcionária pública."
+            }
+          ]
+        },
+        {
+          "title": "Palavras abstratas",
+          "titleEn": "Abstract words",
+          "items": [
+            {
+              "n": 426,
+              "pt": "o amor",
+              "en": "love",
+              "ex": {
+                "pt": "O amor é tudo.",
+                "en": "Love is everything."
+              }
+            },
+            {
+              "n": 427,
+              "pt": "o ódio",
+              "en": "hate",
+              "ex": {
+                "pt": "O ódio não resolve nada.",
+                "en": "Hate doesn't solve anything."
+              }
+            },
+            {
+              "n": 428,
+              "pt": "a amizade",
+              "en": "friendship",
+              "ex": {
+                "pt": "A nossa amizade é muito importante para mim.",
+                "en": "Our friendship is very important to me."
+              }
+            },
+            {
+              "n": 429,
+              "pt": "a paixão",
+              "en": "passion",
+              "ex": {
+                "pt": "A música é a minha paixão.",
+                "en": "Music is my passion."
+              },
+              "note": "Plural: as paixões."
+            },
+            {
+              "n": 430,
+              "pt": "a felicidade",
+              "en": "happiness",
+              "ex": {
+                "pt": "Desejo-te muita felicidade.",
+                "en": "I wish you lots of happiness."
+              }
+            },
+            {
+              "n": 431,
+              "pt": "a alegria",
+              "en": "joy",
+              "ex": {
+                "pt": "As crianças trazem alegria à casa.",
+                "en": "Children bring joy to the house."
+              }
+            },
+            {
+              "n": 432,
+              "pt": "a sorte",
+              "en": "luck",
+              "ex": {
+                "pt": "Boa sorte para o exame!",
+                "en": "Good luck with the exam!"
+              }
+            },
+            {
+              "n": 433,
+              "pt": "a vida",
+              "en": "life",
+              "ex": {
+                "pt": "A vida em Lisboa é cara.",
+                "en": "Life in Lisbon is expensive."
+              }
+            },
+            {
+              "n": 434,
+              "pt": "a morte",
+              "en": "death",
+              "ex": {
+                "pt": "A morte do avô foi muito triste.",
+                "en": "Grandad's death was very sad."
+              }
+            },
+            {
+              "n": 435,
+              "pt": "o princípio",
+              "en": "the principle / the beginning",
+              "ex": {
+                "pt": "No princípio, o português é difícil.",
+                "en": "At the beginning, Portuguese is difficult."
+              }
+            },
+            {
+              "n": 436,
+              "pt": "o início",
+              "en": "the beginning",
+              "ex": {
+                "pt": "O filme é chato no início.",
+                "en": "The film is boring at the beginning."
+              }
+            },
+            {
+              "n": 437,
+              "pt": "o fim",
+              "en": "the end",
+              "ex": {
+                "pt": "Vemos o filme até ao fim.",
+                "en": "We watch the film until the end."
+              },
+              "note": "Plural: os fins (o fim de semana = the weekend)."
+            },
+            {
+              "n": 438,
+              "pt": "o poder",
+              "en": "the power",
+              "ex": {
+                "pt": "O presidente tem muito poder.",
+                "en": "The president has a lot of power."
+              }
+            },
+            {
+              "n": 439,
+              "pt": "a força",
+              "en": "the strength",
+              "ex": {
+                "pt": "Precisas de força para levantar esta mala.",
+                "en": "You need strength to lift this suitcase."
+              }
+            },
+            {
+              "n": 440,
+              "pt": "a fraqueza",
+              "en": "the weakness",
+              "ex": {
+                "pt": "O chocolate é a minha fraqueza.",
+                "en": "Chocolate is my weakness."
+              }
+            },
+            {
+              "n": 441,
+              "pt": "a calma",
+              "en": "the calm",
+              "ex": {
+                "pt": "Calma, temos tempo!",
+                "en": "Calm down, we have time!"
+              }
+            },
+            {
+              "n": 442,
+              "pt": "o caos",
+              "en": "the chaos",
+              "ex": {
+                "pt": "A minha casa está um caos.",
+                "en": "My house is in chaos."
+              }
+            },
+            {
+              "n": 443,
+              "pt": "a vitória",
+              "en": "the victory",
+              "ex": {
+                "pt": "A equipa celebra a vitória.",
+                "en": "The team celebrates the victory."
+              }
+            },
+            {
+              "n": 444,
+              "pt": "a derrota",
+              "en": "the defeat",
+              "ex": {
+                "pt": "Foi uma derrota difícil.",
+                "en": "It was a hard defeat."
+              }
+            },
+            {
+              "n": 445,
+              "pt": "a coragem",
+              "en": "the courage",
+              "ex": {
+                "pt": "É preciso coragem para mudar de país.",
+                "en": "It takes courage to move to another country."
+              }
+            },
+            {
+              "n": 446,
+              "pt": "a dor",
+              "en": "the pain",
+              "ex": {
+                "pt": "Tenho uma dor de cabeça.",
+                "en": "I have a headache."
+              }
+            },
+            {
+              "n": 447,
+              "pt": "o ego",
+              "en": "the ego",
+              "ex": {
+                "pt": "Ele tem um ego muito grande.",
+                "en": "He has a very big ego."
+              }
+            },
+            {
+              "n": 448,
+              "pt": "a fé",
+              "en": "the faith",
+              "ex": {
+                "pt": "A minha avó tem muita fé.",
+                "en": "My grandmother has a lot of faith."
+              }
+            },
+            {
+              "n": 449,
+              "pt": "a ideia",
+              "en": "the idea",
+              "ex": {
+                "pt": "Boa ideia! Vamos à praia.",
+                "en": "Good idea! Let's go to the beach."
+              }
+            },
+            {
+              "n": 450,
+              "pt": "a liberdade",
+              "en": "the liberty / the freedom",
+              "ex": {
+                "pt": "O 25 de Abril é o dia da liberdade.",
+                "en": "The 25th of April is Freedom Day."
+              }
+            },
+            {
+              "n": 451,
+              "pt": "a realidade",
+              "en": "the reality",
+              "ex": {
+                "pt": "Na realidade, não gosto de café.",
+                "en": "In reality, I don't like coffee."
+              }
+            },
+            {
+              "n": 452,
+              "pt": "a imaginação",
+              "en": "the imagination",
+              "ex": {
+                "pt": "As crianças têm muita imaginação.",
+                "en": "Children have a lot of imagination."
+              }
+            },
+            {
+              "n": 453,
+              "pt": "a lei",
+              "en": "the law",
+              "ex": {
+                "pt": "Todos temos de cumprir a lei.",
+                "en": "We all have to obey the law."
+              }
+            },
+            {
+              "n": 454,
+              "pt": "a justiça",
+              "en": "the justice",
+              "ex": {
+                "pt": "As pessoas querem justiça.",
+                "en": "People want justice."
+              }
+            },
+            {
+              "n": 455,
+              "pt": "o direito",
+              "en": "the right",
+              "ex": {
+                "pt": "Todas as pessoas têm direito à saúde.",
+                "en": "Everyone has the right to health care."
+              },
+              "note": "Also \"law\" as a subject (estudar Direito)."
+            },
+            {
+              "n": 456,
+              "pt": "o dever",
+              "en": "the duty",
+              "ex": {
+                "pt": "Ajudar os outros é um dever.",
+                "en": "Helping others is a duty."
+              }
+            },
+            {
+              "n": 457,
+              "pt": "a causa",
+              "en": "the cause",
+              "ex": {
+                "pt": "Qual é a causa do problema?",
+                "en": "What's the cause of the problem?"
+              }
+            },
+            {
+              "n": 458,
+              "pt": "o efeito",
+              "en": "the effect",
+              "ex": {
+                "pt": "Este remédio não tem efeito.",
+                "en": "This medicine has no effect."
+              }
+            },
+            {
+              "n": 459,
+              "pt": "o processo",
+              "en": "the process",
+              "ex": {
+                "pt": "Aprender uma língua é um processo lento.",
+                "en": "Learning a language is a slow process."
+              }
+            },
+            {
+              "n": 460,
+              "pt": "o progresso",
+              "en": "the progress",
+              "ex": {
+                "pt": "Estás a fazer muito progresso em português.",
+                "en": "You're making a lot of progress in Portuguese."
+              }
+            },
+            {
+              "n": 461,
+              "pt": "a evolução",
+              "en": "the evolution",
+              "ex": {
+                "pt": "A evolução da tecnologia é muito rápida.",
+                "en": "The evolution of technology is very fast."
+              },
+              "note": "Plural: as evoluções."
+            },
+            {
+              "n": 462,
+              "pt": "o desenvolvimento",
+              "en": "the development",
+              "ex": {
+                "pt": "O desenvolvimento da cidade é importante.",
+                "en": "The development of the city is important."
+              }
+            },
+            {
+              "n": 463,
+              "pt": "o produto",
+              "en": "the product",
+              "ex": {
+                "pt": "Este produto é muito caro.",
+                "en": "This product is very expensive."
+              }
+            },
+            {
+              "n": 464,
+              "pt": "o resultado",
+              "en": "the result",
+              "ex": {
+                "pt": "Já sabes o resultado do exame?",
+                "en": "Do you already know the exam result?"
+              }
+            },
+            {
+              "n": 465,
+              "pt": "o sistema",
+              "en": "the system",
+              "ex": {
+                "pt": "O sistema de transportes em Lisboa é bom.",
+                "en": "The transport system in Lisbon is good."
+              },
+              "note": "Masculine despite ending in -a."
+            },
+            {
+              "n": 466,
+              "pt": "o problema",
+              "en": "the problem",
+              "ex": {
+                "pt": "Não há problema!",
+                "en": "No problem!"
+              },
+              "note": "Masculine despite ending in -a."
+            },
+            {
+              "n": 467,
+              "pt": "o valor",
+              "en": "the worth / the value",
+              "ex": {
+                "pt": "Qual é o valor desta casa?",
+                "en": "What is the value of this house?"
+              }
+            },
+            {
+              "n": 468,
+              "pt": "a verdade",
+              "en": "the truth",
+              "ex": {
+                "pt": "Diz-me a verdade.",
+                "en": "Tell me the truth."
+              }
+            },
+            {
+              "n": 469,
+              "pt": "a mentira",
+              "en": "the lie",
+              "ex": {
+                "pt": "Isso é mentira!",
+                "en": "That's a lie!"
+              }
+            },
+            {
+              "n": 470,
+              "pt": "a necessidade",
+              "en": "the need / the necessity",
+              "ex": {
+                "pt": "Água é uma necessidade básica.",
+                "en": "Water is a basic need."
+              }
+            },
+            {
+              "n": 471,
+              "pt": "o orgulho",
+              "en": "the pride",
+              "ex": {
+                "pt": "Os pais têm orgulho na filha.",
+                "en": "The parents are proud of their daughter."
+              }
+            },
+            {
+              "n": 472,
+              "pt": "a vergonha",
+              "en": "the shame / the embarrassment",
+              "ex": {
+                "pt": "Tenho vergonha de falar em público.",
+                "en": "I'm embarrassed to speak in public."
+              }
+            },
+            {
+              "n": 473,
+              "pt": "a decisão",
+              "en": "the decision",
+              "ex": {
+                "pt": "É uma decisão difícil.",
+                "en": "It's a difficult decision."
+              },
+              "note": "Plural: as decisões."
+            },
+            {
+              "n": 474,
+              "pt": "a opinião",
+              "en": "the opinion",
+              "ex": {
+                "pt": "Qual é a tua opinião?",
+                "en": "What's your opinion?"
+              },
+              "note": "Plural: as opiniões."
+            },
+            {
+              "n": 475,
+              "pt": "a confiança",
+              "en": "the confidence / the trust",
+              "ex": {
+                "pt": "Tenho confiança em ti.",
+                "en": "I trust you."
+              }
+            },
+            {
+              "n": 476,
+              "pt": "a satisfação",
+              "en": "the satisfaction",
+              "ex": {
+                "pt": "Os clientes mostram muita satisfação.",
+                "en": "The customers show a lot of satisfaction."
+              },
+              "note": "Plural: as satisfações."
+            },
+            {
+              "n": 477,
+              "pt": "a sensação",
+              "en": "the sensation / the feeling",
+              "ex": {
+                "pt": "Tenho a sensação de que vai chover.",
+                "en": "I have the feeling it's going to rain."
+              },
+              "note": "Plural: as sensações."
+            },
+            {
+              "n": 478,
+              "pt": "o sentimento",
+              "en": "the feeling",
+              "ex": {
+                "pt": "Ele não fala dos seus sentimentos.",
+                "en": "He doesn't talk about his feelings."
+              }
+            },
+            {
+              "n": 479,
+              "pt": "o sucesso",
+              "en": "the success",
+              "ex": {
+                "pt": "O novo livro dela é um grande sucesso.",
+                "en": "Her new book is a big success."
+              }
+            },
+            {
+              "n": 480,
+              "pt": "o conhecimento",
+              "en": "the knowledge",
+              "ex": {
+                "pt": "O conhecimento é muito importante.",
+                "en": "Knowledge is very important."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Outros substantivos comuns",
+          "titleEn": "Other common nouns",
+          "items": [
+            {
+              "n": 481,
+              "pt": "o ponto",
+              "en": "the dot / the point",
+              "ex": {
+                "pt": "No fim da frase, escreve um ponto.",
+                "en": "At the end of the sentence, write a full stop."
+              },
+              "note": "Also \"the full stop\"."
+            },
+            {
+              "n": 482,
+              "pt": "a vírgula",
+              "en": "the comma",
+              "ex": {
+                "pt": "Aqui precisas de uma vírgula.",
+                "en": "You need a comma here."
+              },
+              "note": "Also the decimal point: 2,5 = dois vírgula cinco."
+            },
+            {
+              "n": 483,
+              "pt": "a palavra",
+              "en": "the word",
+              "ex": {
+                "pt": "Não conheço esta palavra.",
+                "en": "I don't know this word."
+              }
+            },
+            {
+              "n": 484,
+              "pt": "a frase",
+              "en": "the phrase / the sentence",
+              "ex": {
+                "pt": "Escreve uma frase com esta palavra.",
+                "en": "Write a sentence with this word."
+              }
+            },
+            {
+              "n": 485,
+              "pt": "a expressão",
+              "en": "the expression",
+              "ex": {
+                "pt": "\"Fixe\" é uma expressão muito portuguesa.",
+                "en": "\"Fixe\" is a very Portuguese expression."
+              },
+              "note": "Plural: as expressões."
+            },
+            {
+              "n": 486,
+              "pt": "a língua",
+              "en": "the language / the tongue",
+              "ex": {
+                "pt": "Falo três línguas.",
+                "en": "I speak three languages."
+              }
+            },
+            {
+              "n": 487,
+              "pt": "o parágrafo",
+              "en": "the paragraph",
+              "ex": {
+                "pt": "Lê o primeiro parágrafo do texto.",
+                "en": "Read the first paragraph of the text."
+              }
+            },
+            {
+              "n": 488,
+              "pt": "o número",
+              "en": "the number",
+              "ex": {
+                "pt": "Qual é o teu número de telemóvel?",
+                "en": "What's your mobile number?"
+              }
+            },
+            {
+              "n": 489,
+              "pt": "o facto",
+              "en": "the fact",
+              "ex": {
+                "pt": "É um facto: o português não é fácil.",
+                "en": "It's a fact: Portuguese isn't easy."
+              }
+            },
+            {
+              "n": 490,
+              "pt": "a volta",
+              "en": "the turn / the spin",
+              "ex": {
+                "pt": "Vamos dar uma volta pela cidade?",
+                "en": "Shall we go for a walk around the city?"
+              },
+              "note": "dar uma volta = to go for a walk / a ride."
+            },
+            {
+              "n": 491,
+              "pt": "o lado",
+              "en": "the side",
+              "ex": {
+                "pt": "A farmácia fica ao lado do banco.",
+                "en": "The pharmacy is next to the bank."
+              },
+              "note": "ao lado de = next to."
+            },
+            {
+              "n": 492,
+              "pt": "o centro",
+              "en": "the center",
+              "ex": {
+                "pt": "Moro no centro da cidade.",
+                "en": "I live in the city centre."
+              }
+            },
+            {
+              "n": 493,
+              "pt": "o meio",
+              "en": "the middle",
+              "ex": {
+                "pt": "O carro está no meio da rua.",
+                "en": "The car is in the middle of the street."
+              }
+            },
+            {
+              "n": 494,
+              "pt": "a história",
+              "en": "the story / the history",
+              "ex": {
+                "pt": "O meu avô conta-me uma história todas as noites.",
+                "en": "My grandfather tells me a story every night."
+              }
+            },
+            {
+              "n": 495,
+              "pt": "a guerra",
+              "en": "the war",
+              "ex": {
+                "pt": "Ninguém quer uma guerra.",
+                "en": "Nobody wants a war."
+              }
+            },
+            {
+              "n": 496,
+              "pt": "a paz",
+              "en": "the peace",
+              "ex": {
+                "pt": "Queremos viver em paz.",
+                "en": "We want to live in peace."
+              },
+              "note": "Plural: as pazes (fazer as pazes = to make up)."
+            },
+            {
+              "n": 497,
+              "pt": "o grupo",
+              "en": "the group",
+              "ex": {
+                "pt": "Viajamos em grupo.",
+                "en": "We travel in a group."
+              }
+            },
+            {
+              "n": 498,
+              "pt": "o indivíduo",
+              "en": "the individual",
+              "ex": {
+                "pt": "Cada indivíduo é diferente.",
+                "en": "Every individual is different."
+              }
+            },
+            {
+              "n": 499,
+              "pt": "o país",
+              "en": "the country",
+              "ex": {
+                "pt": "Portugal é um país pequeno.",
+                "en": "Portugal is a small country."
+              },
+              "note": "Plural: os países."
+            },
+            {
+              "n": 500,
+              "pt": "a capital",
+              "en": "the capital",
+              "ex": {
+                "pt": "Lisboa é a capital de Portugal.",
+                "en": "Lisbon is the capital of Portugal."
+              }
+            },
+            {
+              "n": 501,
+              "pt": "a voz",
+              "en": "the voice",
+              "ex": {
+                "pt": "A cantora tem uma voz bonita.",
+                "en": "The singer has a beautiful voice."
+              },
+              "note": "Plural: as vozes."
+            },
+            {
+              "n": 502,
+              "pt": "o som",
+              "en": "the sound",
+              "ex": {
+                "pt": "Não gosto do som desta música.",
+                "en": "I don't like the sound of this song."
+              },
+              "note": "Plural: os sons."
+            },
+            {
+              "n": 503,
+              "pt": "a imagem",
+              "en": "the image",
+              "ex": {
+                "pt": "Esta imagem é muito bonita.",
+                "en": "This image is very beautiful."
+              },
+              "note": "Plural: as imagens."
+            },
+            {
+              "n": 504,
+              "pt": "o texto",
+              "en": "the text",
+              "ex": {
+                "pt": "Lê o texto em voz alta.",
+                "en": "Read the text aloud."
+              }
+            },
+            {
+              "n": 505,
+              "pt": "a música",
+              "en": "the music / the song",
+              "ex": {
+                "pt": "Gosto muito de música portuguesa.",
+                "en": "I really like Portuguese music."
+              }
+            },
+            {
+              "n": 506,
+              "pt": "a figura",
+              "en": "the figure",
+              "ex": {
+                "pt": "Olha para a figura na página dez.",
+                "en": "Look at the figure on page ten."
+              }
+            },
+            {
+              "n": 507,
+              "pt": "a posição",
+              "en": "the position",
+              "ex": {
+                "pt": "Qual é a tua posição na equipa?",
+                "en": "What's your position in the team?"
+              },
+              "note": "Plural: as posições."
+            },
+            {
+              "n": 508,
+              "pt": "o conjunto",
+              "en": "the whole / the ensemble",
+              "ex": {
+                "pt": "No conjunto, o dia foi bom.",
+                "en": "On the whole, the day was good."
+              }
+            },
+            {
+              "n": 509,
+              "pt": "a guarda",
+              "en": "the guard / the custody",
+              "ex": {
+                "pt": "A mãe tem a guarda dos filhos.",
+                "en": "The mother has custody of the children."
+              }
+            },
+            {
+              "n": 510,
+              "pt": "a técnica",
+              "en": "the technique",
+              "ex": {
+                "pt": "Ela tem uma boa técnica de natação.",
+                "en": "She has a good swimming technique."
+              }
+            },
+            {
+              "n": 511,
+              "pt": "a maioria",
+              "en": "the majority",
+              "ex": {
+                "pt": "A maioria das pessoas trabalha de manhã.",
+                "en": "Most people work in the morning."
+              }
+            },
+            {
+              "n": 512,
+              "pt": "a minoria",
+              "en": "the minority",
+              "ex": {
+                "pt": "Só uma minoria fala alemão aqui.",
+                "en": "Only a minority speaks German here."
+              }
+            },
+            {
+              "n": 513,
+              "pt": "o recurso",
+              "en": "the resource",
+              "ex": {
+                "pt": "A água é um recurso importante.",
+                "en": "Water is an important resource."
+              }
+            },
+            {
+              "n": 514,
+              "pt": "o título",
+              "en": "the title",
+              "ex": {
+                "pt": "Qual é o título do livro?",
+                "en": "What's the title of the book?"
+              }
+            },
+            {
+              "n": 515,
+              "pt": "a cultura",
+              "en": "the culture",
+              "ex": {
+                "pt": "Gosto muito da cultura portuguesa.",
+                "en": "I really like Portuguese culture."
+              }
+            },
+            {
+              "n": 516,
+              "pt": "a festa",
+              "en": "the party",
+              "ex": {
+                "pt": "Sábado há uma festa em casa da Joana.",
+                "en": "On Saturday there's a party at Joana's house."
+              }
+            },
+            {
+              "n": 517,
+              "pt": "o elemento",
+              "en": "the element",
+              "ex": {
+                "pt": "A água é um elemento essencial da vida.",
+                "en": "Water is an essential element of life."
+              }
+            },
+            {
+              "n": 518,
+              "pt": "o preço",
+              "en": "the price",
+              "ex": {
+                "pt": "Qual é o preço deste casaco?",
+                "en": "What's the price of this coat?"
+              }
+            },
+            {
+              "n": 519,
+              "pt": "a saúde",
+              "en": "health",
+              "ex": {
+                "pt": "A saúde é o mais importante.",
+                "en": "Health is the most important thing."
+              },
+              "note": "Saúde! = Cheers! / Bless you!"
+            },
+            {
+              "n": 520,
+              "pt": "a doença",
+              "en": "sickness",
+              "ex": {
+                "pt": "A gripe é uma doença comum no inverno.",
+                "en": "Flu is a common illness in winter."
+              }
+            },
+            {
+              "n": 521,
+              "pt": "a cor",
+              "en": "the color",
+              "ex": {
+                "pt": "Qual é a tua cor preferida?",
+                "en": "What's your favourite colour?"
+              },
+              "note": "Plural: as cores."
+            },
+            {
+              "n": 522,
+              "pt": "a quantidade",
+              "en": "the quantity",
+              "ex": {
+                "pt": "Ele come uma grande quantidade de pão.",
+                "en": "He eats a large quantity of bread."
+              }
+            },
+            {
+              "n": 523,
+              "pt": "a qualidade",
+              "en": "the quality",
+              "ex": {
+                "pt": "Este restaurante tem comida de qualidade.",
+                "en": "This restaurant has quality food."
+              }
+            },
+            {
+              "n": 524,
+              "pt": "o interior",
+              "en": "the inside / the interior",
+              "ex": {
+                "pt": "O interior da casa é muito moderno.",
+                "en": "The inside of the house is very modern."
+              },
+              "note": "Also the inland region of Portugal."
+            },
+            {
+              "n": 525,
+              "pt": "o exterior",
+              "en": "the outside / the exterior",
+              "ex": {
+                "pt": "O exterior do prédio é branco.",
+                "en": "The outside of the building is white."
+              }
+            },
+            {
+              "n": 526,
+              "pt": "o barulho",
+              "en": "the noise",
+              "ex": {
+                "pt": "Há muito barulho na rua.",
+                "en": "There's a lot of noise in the street."
+              }
+            },
+            {
+              "n": 527,
+              "pt": "o silêncio",
+              "en": "the silence",
+              "ex": {
+                "pt": "Silêncio, por favor!",
+                "en": "Silence, please!"
+              }
+            },
+            {
+              "n": 528,
+              "pt": "o instrumento",
+              "en": "the instrument",
+              "ex": {
+                "pt": "Tocas algum instrumento?",
+                "en": "Do you play an instrument?"
+              }
+            },
+            {
+              "n": 529,
+              "pt": "a ferramenta",
+              "en": "the tool",
+              "ex": {
+                "pt": "O mecânico precisa das suas ferramentas.",
+                "en": "The mechanic needs his tools."
+              }
+            },
+            {
+              "n": 530,
+              "pt": "o sentido",
+              "en": "the sense",
+              "ex": {
+                "pt": "Isso não faz sentido.",
+                "en": "That doesn't make sense."
+              },
+              "note": "Also \"the direction\" (a rua de sentido único = one-way street)."
+            },
+            {
+              "n": 531,
+              "pt": "a direção",
+              "en": "the direction",
+              "ex": {
+                "pt": "Esta é a direção certa para a praia?",
+                "en": "Is this the right direction to the beach?"
+              }
+            },
+            {
+              "n": 532,
+              "pt": "Norte",
+              "en": "North",
+              "ex": {
+                "pt": "O Porto fica no Norte de Portugal.",
+                "en": "Porto is in the North of Portugal."
+              },
+              "note": "Used with the article: o Norte."
+            },
+            {
+              "n": 533,
+              "pt": "Sul",
+              "en": "South",
+              "ex": {
+                "pt": "No Sul de Portugal faz muito calor.",
+                "en": "It's very hot in the South of Portugal."
+              },
+              "note": "Used with the article: o Sul."
+            },
+            {
+              "n": 534,
+              "pt": "Este",
+              "en": "East",
+              "ex": {
+                "pt": "O sol nasce a Este.",
+                "en": "The sun rises in the East."
+              },
+              "note": "Used with the article: o Este. Also called Leste."
+            },
+            {
+              "n": 535,
+              "pt": "Oeste",
+              "en": "West",
+              "ex": {
+                "pt": "O sol põe-se a Oeste.",
+                "en": "The sun sets in the West."
+              },
+              "note": "Used with the article: o Oeste."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

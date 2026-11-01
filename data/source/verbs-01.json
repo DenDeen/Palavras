@@ -1,0 +1,2868 @@
+[
+{
+  "n": 1,
+  "inf": "ser",
+  "en": "to be (permanent)",
+  "regular": false,
+  "group": "er",
+  "intro": "Ser means to be for identity, origin, profession, character, time and dates: things seen as essential or lasting. It's completely irregular and one of the most used verbs in the language.",
+  "quick": [
+    {"pt": "Sou de Lisboa.", "en": "I'm from Lisbon."},
+    {"pt": "É verdade.", "en": "It's true."},
+    {"pt": "Que horas são?", "en": "What time is it?"},
+    {"pt": "Quem é?", "en": "Who is it?"}
+  ],
+  "conj": {
+    "presente":    {"eu": "sou",    "tu": "és",     "ele": "é",      "nos": "somos",    "voces": "são",     "eles": "são"},
+    "perfeito":    {"eu": "fui",    "tu": "foste",  "ele": "foi",    "nos": "fomos",    "voces": "foram",   "eles": "foram"},
+    "imperfeito":  {"eu": "era",    "tu": "eras",   "ele": "era",    "nos": "éramos",   "voces": "eram",    "eles": "eram"},
+    "futuro":      {"eu": "serei",  "tu": "serás",  "ele": "será",   "nos": "seremos",  "voces": "serão",   "eles": "serão"},
+    "condicional": {"eu": "seria",  "tu": "serias", "ele": "seria",  "nos": "seríamos", "voces": "seriam",  "eles": "seriam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",   "pt": "Eu [sou] professor de inglês.", "en": "I'm an English teacher."},
+      {"p": "tu",   "pt": "Tu [és] muito simpático.", "en": "You're very nice."},
+      {"p": "ele",  "pt": "A casa [é] grande e bonita.", "en": "The house is big and pretty."},
+      {"p": "nos",  "pt": "Nós [somos] amigos há muitos anos.", "en": "We've been friends for many years."},
+      {"p": "eles", "pt": "Eles [são] de Coimbra.", "en": "They're from Coimbra."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "[Fui] o primeiro a chegar.", "en": "I was the first to arrive."},
+      {"p": "ele",  "pt": "A festa [foi] ótima.", "en": "The party was great."},
+      {"p": "nos",  "pt": "Nós [fomos] colegas na escola.", "en": "We were classmates at school."},
+      {"p": "eles", "pt": "Os bilhetes [foram] muito caros.", "en": "The tickets were very expensive."}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "Quando [era] criança, vivia no Porto.", "en": "When I was a child, I lived in Porto."},
+      {"p": "tu",   "pt": "Tu [eras] muito tímido em pequeno.", "en": "You were very shy as a child."},
+      {"p": "ele",  "pt": "A casa dos meus avós [era] muito antiga.", "en": "My grandparents' house was very old."},
+      {"p": "nos",  "pt": "Nós [éramos] vizinhos.", "en": "We used to be neighbours."}
+    ],
+    "futuro": [
+      {"p": "eu",   "pt": "Este ano [serei] o teu professor.", "en": "This year I will be your teacher."},
+      {"p": "tu",   "pt": "Tu [serás] sempre bem-vindo aqui.", "en": "You will always be welcome here."},
+      {"p": "ele",  "pt": "Amanhã [será] um dia importante.", "en": "Tomorrow will be an important day."},
+      {"p": "eles", "pt": "Os resultados [serão] publicados na sexta-feira.", "en": "The results will be published on Friday."}
+    ],
+    "condicional": [
+      {"p": "ele",  "pt": "[Seria] ótimo ir à praia.", "en": "It would be great to go to the beach."},
+      {"p": "eu",   "pt": "Eu [seria] mais feliz no campo.", "en": "I would be happier in the countryside."},
+      {"p": "tu",   "pt": "[Serias] capaz de me ajudar?", "en": "Would you be able to help me?"},
+      {"p": "nos",  "pt": "Nós [seríamos] bons vizinhos.", "en": "We would be good neighbours."}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "I'm a teacher.", "pt": "Sou professor."},
+      {"en": "Where are you from?", "pt": "De onde és?"},
+      {"en": "It's one o'clock.", "pt": "É uma hora."}
+    ],
+    "perfeito": [
+      {"en": "The film was very good.", "pt": "O filme foi muito bom."},
+      {"en": "It was a great day.", "pt": "Foi um dia ótimo."},
+      {"en": "They were very kind to me.", "pt": "Eles foram muito simpáticos comigo."}
+    ],
+    "imperfeito": [
+      {"en": "When I was young, I was very shy.", "pt": "Quando era novo, era muito tímido."},
+      {"en": "The house was very old.", "pt": "A casa era muito antiga."},
+      {"en": "It was ten o'clock.", "pt": "Eram dez horas."}
+    ],
+    "futuro": [
+      {"en": "It's going to be difficult.", "pt": "Vai ser difícil."},
+      {"en": "The party will be on Saturday.", "pt": "A festa vai ser no sábado."},
+      {"en": "You're going to be a good doctor.", "pt": "Vais ser um bom médico."}
+    ],
+    "condicional": [
+      {"en": "It would be better to wait.", "pt": "Seria melhor esperar."},
+      {"en": "Would it be possible to change table?", "pt": "Seria possível mudar de mesa?"},
+      {"en": "That would be fantastic.", "pt": "Isso seria fantástico."}
+    ]
+  },
+  "notes": {
+    "presente": "Ser is for what something is: identity, nationality, profession, character, time, dates, and where an event takes place (A festa é em casa da Ana). For moods, temporary states and where people or things are, use estar.",
+    "perfeito": "Ser and ir share the same perfeito: fui, foste, foi, fomos, foram. Context tells you which: Fui professor (I was a teacher) vs Fui a Lisboa (I went to Lisbon).",
+    "imperfeito": "Use era for descriptions, age and time in the past: Era uma vez... (Once upon a time...), Eram dez horas (It was ten o'clock).",
+    "futuro": "In speech you'll usually hear ir + infinitivo: vai ser (it's going to be) rather than será."
+  },
+  "patterns": [
+    {"pt": "ser de + lugar", "en": "to be from (Sou da Dinamarca)"},
+    {"pt": "ser + profissão", "en": "to be a ... (Sou engenheiro, no article)"},
+    {"pt": "é preciso + infinitivo", "en": "it's necessary to"},
+    {"pt": "o que é que...?", "en": "what is it that...? (very common question frame)"},
+    {"pt": "ser capaz de", "en": "to be able to"}
+  ],
+  "compare": [
+    {"verb": "estar", "en": "to be (temporary state, location)", "ex": "Ele é simpático, mas hoje está cansado."}
+  ],
+  "recap": "Sou de Copenhaga, mas agora estou em Lisboa. (I'm from Copenhagen, but now I'm in Lisbon.)"
+},
+{
+  "n": 2,
+  "inf": "ter",
+  "en": "to have",
+  "regular": false,
+  "group": "er",
+  "intro": "Ter means to have: possessions, family, age and many feelings (ter fome, ter frio). It's irregular. Ter de + infinitive is the everyday way to say 'to have to'.",
+  "quick": [
+    {"pt": "Tenho fome.", "en": "I'm hungry."},
+    {"pt": "Quantos anos tens?", "en": "How old are you?"},
+    {"pt": "Tens tempo?", "en": "Do you have time?"},
+    {"pt": "Tenho de ir.", "en": "I have to go."}
+  ],
+  "conj": {
+    "presente":    {"eu": "tenho",  "tu": "tens",     "ele": "tem",    "nos": "temos",     "voces": "têm",      "eles": "têm"},
+    "perfeito":    {"eu": "tive",   "tu": "tiveste",  "ele": "teve",   "nos": "tivemos",   "voces": "tiveram",  "eles": "tiveram"},
+    "imperfeito":  {"eu": "tinha",  "tu": "tinhas",   "ele": "tinha",  "nos": "tínhamos",  "voces": "tinham",   "eles": "tinham"},
+    "futuro":      {"eu": "terei",  "tu": "terás",    "ele": "terá",   "nos": "teremos",   "voces": "terão",    "eles": "terão"},
+    "condicional": {"eu": "teria",  "tu": "terias",   "ele": "teria",  "nos": "teríamos",  "voces": "teriam",   "eles": "teriam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",   "pt": "Eu [tenho] dois irmãos.", "en": "I have two brothers."},
+      {"p": "tu",   "pt": "[Tens] um telemóvel novo?", "en": "Do you have a new mobile phone?"},
+      {"p": "ele",  "pt": "Ela [tem] trinta anos.", "en": "She's thirty years old."},
+      {"p": "nos",  "pt": "Nós [temos] uma reunião às dez.", "en": "We have a meeting at ten."},
+      {"p": "eles", "pt": "Eles [têm] uma casa no Algarve.", "en": "They have a house in the Algarve."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "[Tive] um dia muito longo.", "en": "I had a very long day."},
+      {"p": "tu",   "pt": "[Tiveste] muita sorte!", "en": "You were very lucky!"},
+      {"p": "ele",  "pt": "Ele [teve] um acidente de carro.", "en": "He had a car accident."},
+      {"p": "eles", "pt": "Os meus pais [tiveram] três filhos.", "en": "My parents had three children."}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "Quando era criança, [tinha] um cão.", "en": "When I was a child, I had a dog."},
+      {"p": "tu",   "pt": "Tu [tinhas] o cabelo comprido.", "en": "You used to have long hair."},
+      {"p": "nos",  "pt": "Nós não [tínhamos] televisão em casa.", "en": "We didn't have a television at home."},
+      {"p": "ele",  "pt": "A cidade [tinha] muitos cafés antigos.", "en": "The city had a lot of old cafés."}
+    ],
+    "futuro": [
+      {"p": "eu",   "pt": "[Terei] mais tempo no verão.", "en": "I will have more time in the summer."},
+      {"p": "voces","pt": "Vocês [terão] os resultados amanhã.", "en": "You will have the results tomorrow."},
+      {"p": "ele",  "pt": "O novo hotel [terá] piscina.", "en": "The new hotel will have a pool."},
+      {"p": "nos",  "pt": "Nós [teremos] uma reunião na segunda-feira.", "en": "We will have a meeting on Monday."}
+    ],
+    "condicional": [
+      {"p": "eu",   "pt": "Se fosse rico, [teria] uma casa na praia.", "en": "If I were rich, I would have a house on the beach."},
+      {"p": "tu",   "pt": "[Terias] tempo para me ajudar?", "en": "Would you have time to help me?"},
+      {"p": "ele",  "pt": "O meu avô [teria] cem anos hoje.", "en": "My grandfather would be a hundred today."},
+      {"p": "eles", "pt": "Sem ajuda, eles não [teriam] conseguido.", "en": "Without help, they wouldn't have managed."}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "I'm thirsty.", "pt": "Tenho sede."},
+      {"en": "How old are you?", "pt": "Quantos anos tens?"},
+      {"en": "We have to work tomorrow.", "pt": "Temos de trabalhar amanhã."}
+    ],
+    "perfeito": [
+      {"en": "I had a problem with the car.", "pt": "Tive um problema com o carro."},
+      {"en": "Did you have a good weekend?", "pt": "Tiveste um bom fim de semana?"},
+      {"en": "She had to leave early.", "pt": "Ela teve de sair cedo."}
+    ],
+    "imperfeito": [
+      {"en": "When I was a child, I had a cat.", "pt": "Quando era criança, tinha um gato."},
+      {"en": "We didn't have much money.", "pt": "Não tínhamos muito dinheiro."},
+      {"en": "He was hungry.", "pt": "Ele tinha fome."}
+    ],
+    "futuro": [
+      {"en": "I'm going to have a lot of work.", "pt": "Vou ter muito trabalho."},
+      {"en": "You'll have time tomorrow.", "pt": "Vais ter tempo amanhã."},
+      {"en": "We're going to have to wait.", "pt": "Vamos ter de esperar."}
+    ],
+    "condicional": [
+      {"en": "I would have more time.", "pt": "Eu teria mais tempo."},
+      {"en": "Would you have a pen? (formal)", "pt": "Teria uma caneta?"},
+      {"en": "That would make no sense.", "pt": "Isso não teria sentido."}
+    ]
+  },
+  "notes": {
+    "presente": "Many feelings use ter + noun: ter fome (hungry), ter sede (thirsty), ter frio / calor (cold / hot), ter medo (afraid), ter sono (sleepy). Age too: Tenho 30 anos. Note tem (he/she has) vs têm (they have).",
+    "perfeito": "Ter de + infinitive = to have to: Tive de esperar (I had to wait). In Portugal ter de is preferred; ter que is also heard.",
+    "imperfeito": "Use tinha for age and states in the past: Quando tinha dez anos... (When I was ten...).",
+    "futuro": "Everyday speech uses ir + ter: vou ter, vais ter. Vou ter de trabalhar = I'm going to have to work."
+  },
+  "patterns": [
+    {"pt": "ter de + infinitivo", "en": "to have to"},
+    {"pt": "ter fome / sede / frio / calor", "en": "to be hungry / thirsty / cold / hot"},
+    {"pt": "ter ... anos", "en": "to be ... years old"},
+    {"pt": "ter razão", "en": "to be right"},
+    {"pt": "ter saudades de", "en": "to miss (someone / something)"},
+    {"pt": "ter cuidado", "en": "to be careful"}
+  ],
+  "compare": [
+    {"verb": "haver", "en": "there is / there are", "ex": "Há um café na esquina, mas eu tenho café em casa."}
+  ],
+  "recap": "Tenho fome e tenho de comer! (I'm hungry and I have to eat!)"
+},
+{
+  "n": 3,
+  "inf": "estar",
+  "en": "to be (temporary)",
+  "regular": false,
+  "group": "ar",
+  "intro": "Estar means to be for temporary states, feelings, location and the weather. It's irregular, and it also forms the European Portuguese continuous: estar a + infinitivo (estou a trabalhar).",
+  "quick": [
+    {"pt": "Como estás?", "en": "How are you?"},
+    {"pt": "Estou bem, obrigado.", "en": "I'm fine, thanks."},
+    {"pt": "Onde estás?", "en": "Where are you?"},
+    {"pt": "Está calor.", "en": "It's hot."}
+  ],
+  "conj": {
+    "presente":    {"eu": "estou",   "tu": "estás",     "ele": "está",    "nos": "estamos",    "voces": "estão",     "eles": "estão"},
+    "perfeito":    {"eu": "estive",  "tu": "estiveste", "ele": "esteve",  "nos": "estivemos",  "voces": "estiveram", "eles": "estiveram"},
+    "imperfeito":  {"eu": "estava",  "tu": "estavas",   "ele": "estava",  "nos": "estávamos",  "voces": "estavam",   "eles": "estavam"},
+    "futuro":      {"eu": "estarei", "tu": "estarás",   "ele": "estará",  "nos": "estaremos",  "voces": "estarão",   "eles": "estarão"},
+    "condicional": {"eu": "estaria", "tu": "estarias",  "ele": "estaria", "nos": "estaríamos", "voces": "estariam",  "eles": "estariam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",    "pt": "[Estou] muito cansado hoje.", "en": "I'm very tired today."},
+      {"p": "tu",    "pt": "Onde [estás] agora?", "en": "Where are you now?"},
+      {"p": "ele",   "pt": "O café [está] frio.", "en": "The coffee is cold."},
+      {"p": "nos",   "pt": "Nós [estamos] a jantar.", "en": "We're having dinner."},
+      {"p": "voces", "pt": "Vocês [estão] prontos?", "en": "Are you (all) ready?"}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "[Estive] em Paris no ano passado.", "en": "I was in Paris last year."},
+      {"p": "tu",   "pt": "[Estiveste] doente esta semana?", "en": "Were you ill this week?"},
+      {"p": "ele",  "pt": "O tempo [esteve] ótimo no fim de semana.", "en": "The weather was great at the weekend."},
+      {"p": "nos",  "pt": "[Estivemos] uma hora à tua espera.", "en": "We waited for you for an hour."}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "Ontem [estava] muito cansado.", "en": "Yesterday I was very tired."},
+      {"p": "ele",  "pt": "[Estava] a chover quando saí.", "en": "It was raining when I went out."},
+      {"p": "nos",  "pt": "Nós [estávamos] em casa quando ligaste.", "en": "We were at home when you called."},
+      {"p": "eles", "pt": "Eles [estavam] a ver televisão.", "en": "They were watching television."}
+    ],
+    "futuro": [
+      {"p": "eu",   "pt": "[Estarei] em casa às oito.", "en": "I will be at home at eight."},
+      {"p": "tu",   "pt": "Amanhã [estarás] melhor.", "en": "Tomorrow you'll be better."},
+      {"p": "ele",  "pt": "O jantar [estará] pronto às nove.", "en": "Dinner will be ready at nine."},
+      {"p": "eles", "pt": "Eles [estarão] no escritório até às seis.", "en": "They will be in the office until six."}
+    ],
+    "condicional": [
+      {"p": "eu",   "pt": "Sem ti, eu não [estaria] aqui.", "en": "Without you, I wouldn't be here."},
+      {"p": "tu",   "pt": "[Estarias] disponível amanhã?", "en": "Would you be available tomorrow?"},
+      {"p": "ele",  "pt": "Ele [estaria] contente com esta notícia.", "en": "He would be happy with this news."},
+      {"p": "nos",  "pt": "Nós [estaríamos] melhor na praia.", "en": "We would be better off at the beach."}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "I'm at home.", "pt": "Estou em casa."},
+      {"en": "We're eating.", "pt": "Estamos a comer."},
+      {"en": "The door is open.", "pt": "A porta está aberta."}
+    ],
+    "perfeito": [
+      {"en": "I was in Porto last week.", "pt": "Estive no Porto na semana passada."},
+      {"en": "Where were you yesterday?", "pt": "Onde estiveste ontem?"},
+      {"en": "I've been to Lisbon.", "pt": "Já estive em Lisboa."}
+    ],
+    "imperfeito": [
+      {"en": "I was tired.", "pt": "Estava cansado."},
+      {"en": "It was raining.", "pt": "Estava a chover."},
+      {"en": "Where were you when I called you?", "pt": "Onde estavas quando te liguei?"}
+    ],
+    "futuro": [
+      {"en": "I'm going to be at work.", "pt": "Vou estar no trabalho."},
+      {"en": "Are you going to be at home tonight?", "pt": "Vais estar em casa logo à noite?"},
+      {"en": "They're going to be here at five.", "pt": "Eles vão estar aqui às cinco."}
+    ],
+    "condicional": [
+      {"en": "I would be happier in Portugal.", "pt": "Estaria mais feliz em Portugal."},
+      {"en": "Would you be available on Friday?", "pt": "Estarias disponível na sexta-feira?"},
+      {"en": "It would be ready tomorrow.", "pt": "Estaria pronto amanhã."}
+    ]
+  },
+  "notes": {
+    "presente": "Ser vs estar: ser for what something is (O Pedro é alegre, personality), estar for how or where it is now (O Pedro está triste hoje, mood today; O Pedro está em casa). Estar a + infinitivo is the EP continuous: Estou a ler. Brazil says estou lendo.",
+    "perfeito": "Estive em = I was in / I've been to: Já estive em Lisboa (I've been to Lisbon).",
+    "imperfeito": "Estava a + infinitivo describes what was going on: Estava a dormir quando ligaste (I was sleeping when you called).",
+    "futuro": "In speech prefer ir + infinitivo: vou estar, vais estar. Estarei sounds more formal."
+  },
+  "patterns": [
+    {"pt": "estar a + infinitivo", "en": "to be doing (continuous)"},
+    {"pt": "estar com fome / frio / pressa", "en": "to be hungry / cold / in a hurry (right now)"},
+    {"pt": "estar de férias", "en": "to be on holiday"},
+    {"pt": "estar à espera de", "en": "to wait for"},
+    {"pt": "estar bem / mal", "en": "to be well / unwell"}
+  ],
+  "compare": [
+    {"verb": "ser", "en": "to be (identity, characteristics)", "ex": "A sopa é boa, mas hoje está fria."},
+    {"verb": "ficar", "en": "to stay / to end up (a change of state)", "ex": "Fiquei contente com a notícia."}
+  ],
+  "recap": "Estou a aprender português e estou muito contente! (I'm learning Portuguese and I'm very happy!)"
+},
+{
+  "n": 4,
+  "inf": "haver",
+  "en": "there to be (in the 3rd person)",
+  "regular": false,
+  "group": "er",
+  "impersonal": true,
+  "intro": "In everyday use haver means there is / there are and appears only in the 3rd person singular: há, houve, havia. Há + a time expression also means 'ago' or 'for' (há dois anos).",
+  "quick": [
+    {"pt": "Há um problema.", "en": "There's a problem."},
+    {"pt": "Não há problema.", "en": "No problem."},
+    {"pt": "O que há para jantar?", "en": "What's for dinner?"},
+    {"pt": "Há muito tempo!", "en": "Long time no see!"}
+  ],
+  "conj": {
+    "presente":    {"eu": "", "tu": "", "ele": "há",      "nos": "", "voces": "", "eles": ""},
+    "perfeito":    {"eu": "", "tu": "", "ele": "houve",   "nos": "", "voces": "", "eles": ""},
+    "imperfeito":  {"eu": "", "tu": "", "ele": "havia",   "nos": "", "voces": "", "eles": ""},
+    "futuro":      {"eu": "", "tu": "", "ele": "haverá",  "nos": "", "voces": "", "eles": ""},
+    "condicional": {"eu": "", "tu": "", "ele": "haveria", "nos": "", "voces": "", "eles": ""}
+  },
+  "examples": {
+    "presente": [
+      {"p": "ele", "pt": "[Há] um supermercado perto daqui.", "en": "There's a supermarket near here."},
+      {"p": "ele", "pt": "[Há] muitas pessoas na praia.", "en": "There are a lot of people on the beach."},
+      {"p": "ele", "pt": "Não [há] pão em casa.", "en": "There's no bread at home."},
+      {"p": "ele", "pt": "Vivo em Lisboa [há] cinco anos.", "en": "I've lived in Lisbon for five years."},
+      {"p": "ele", "pt": "Cheguei [há] dez minutos.", "en": "I arrived ten minutes ago."}
+    ],
+    "perfeito": [
+      {"p": "ele", "pt": "[Houve] um acidente na autoestrada.", "en": "There was an accident on the motorway."},
+      {"p": "ele", "pt": "Ontem [houve] uma festa na rua.", "en": "Yesterday there was a street party."},
+      {"p": "ele", "pt": "[Houve] muitos problemas com o voo.", "en": "There were lots of problems with the flight."},
+      {"p": "ele", "pt": "Não [houve] aulas na sexta-feira.", "en": "There were no classes on Friday."}
+    ],
+    "imperfeito": [
+      {"p": "ele", "pt": "[Havia] muita gente no concerto.", "en": "There were a lot of people at the concert."},
+      {"p": "ele", "pt": "Antigamente [havia] um cinema aqui.", "en": "There used to be a cinema here."},
+      {"p": "ele", "pt": "Não [havia] lugar no restaurante.", "en": "There was no room in the restaurant."},
+      {"p": "ele", "pt": "[Havia] sempre fruta em casa da minha avó.", "en": "There was always fruit at my grandmother's house."}
+    ],
+    "futuro": [
+      {"p": "ele", "pt": "[Haverá] um concerto no sábado.", "en": "There will be a concert on Saturday."},
+      {"p": "ele", "pt": "Amanhã [haverá] sol no Algarve.", "en": "Tomorrow there will be sun in the Algarve."},
+      {"p": "ele", "pt": "[Haverá] tempo para tudo.", "en": "There will be time for everything."},
+      {"p": "ele", "pt": "Não [haverá] comboios no feriado.", "en": "There will be no trains on the public holiday."}
+    ],
+    "condicional": [
+      {"p": "ele", "pt": "[Haveria] lugar para mais uma pessoa?", "en": "Would there be room for one more person?"},
+      {"p": "ele", "pt": "Sem chuva, não [haveria] água.", "en": "Without rain, there would be no water."},
+      {"p": "ele", "pt": "Disseram que [haveria] autocarros até à meia-noite.", "en": "They said there would be buses until midnight."},
+      {"p": "ele", "pt": "[Haveria] outra solução?", "en": "Would there be another solution?"}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "There's a pharmacy on the corner.", "pt": "Há uma farmácia na esquina."},
+      {"en": "Is there a bathroom here?", "pt": "Há casa de banho aqui?"},
+      {"en": "I saw her two days ago.", "pt": "Vi-a há dois dias."}
+    ],
+    "perfeito": [
+      {"en": "There was a problem.", "pt": "Houve um problema."},
+      {"en": "There was a strike yesterday.", "pt": "Ontem houve greve."},
+      {"en": "There was a meeting this morning.", "pt": "Houve uma reunião esta manhã."}
+    ],
+    "imperfeito": [
+      {"en": "There were a lot of people at the party.", "pt": "Havia muita gente na festa."},
+      {"en": "There was no milk.", "pt": "Não havia leite."},
+      {"en": "There used to be a market here.", "pt": "Antigamente havia um mercado aqui."}
+    ],
+    "futuro": [
+      {"en": "There's going to be a party on Saturday.", "pt": "Vai haver uma festa no sábado."},
+      {"en": "There's going to be a lot of traffic.", "pt": "Vai haver muito trânsito."},
+      {"en": "Will there be time?", "pt": "Vai haver tempo?"}
+    ],
+    "condicional": [
+      {"en": "Would there be a table for two?", "pt": "Haveria uma mesa para dois?"},
+      {"en": "There would be no problem.", "pt": "Não haveria problema."},
+      {"en": "Without you, there would be no party.", "pt": "Sem ti, não haveria festa."}
+    ]
+  },
+  "notes": {
+    "presente": "Há never changes for plural: há um café / há três cafés. Há + time = ago (há dois dias) or for (moro aqui há dois anos). Brazilians often say tem for 'there is'; in Portugal use há.",
+    "perfeito": "Houve = there was / there were for a single event: Houve um acidente.",
+    "imperfeito": "Havia sets the scene or describes what used to exist: Havia muita gente. Houve is a one-off event; havia is the background.",
+    "futuro": "In speech use ir + haver: vai haver (there's going to be). Haverá sounds formal, like a news report."
+  },
+  "patterns": [
+    {"pt": "há + nome", "en": "there is / there are"},
+    {"pt": "há + tempo", "en": "ago / for (há uma semana)"},
+    {"pt": "há quanto tempo...?", "en": "how long...? / for how long...?"},
+    {"pt": "não há problema", "en": "no problem"},
+    {"pt": "haver de + infinitivo", "en": "to be going to (determination): Hei de voltar."}
+  ],
+  "compare": [
+    {"verb": "ter", "en": "to have", "ex": "Há um café na rua, e eu tenho café em casa."}
+  ],
+  "recap": "Há sempre tempo para um café. (There's always time for a coffee.)"
+},
+{
+  "n": 5,
+  "inf": "poder",
+  "en": "to be able to / can",
+  "regular": false,
+  "group": "er",
+  "intro": "Poder means can or may: to be allowed to, or for something to be possible. It's irregular (posso, pude, pôde). When 'can' is about ability or managing after effort, Portuguese usually prefers conseguir.",
+  "quick": [
+    {"pt": "Posso entrar?", "en": "May I come in?"},
+    {"pt": "Pode repetir, por favor?", "en": "Could you repeat, please?"},
+    {"pt": "Não posso.", "en": "I can't."},
+    {"pt": "Pode ser.", "en": "Maybe. / That works."}
+  ],
+  "conj": {
+    "presente":    {"eu": "posso",   "tu": "podes",     "ele": "pode",    "nos": "podemos",    "voces": "podem",     "eles": "podem"},
+    "perfeito":    {"eu": "pude",    "tu": "pudeste",   "ele": "pôde",    "nos": "pudemos",    "voces": "puderam",   "eles": "puderam"},
+    "imperfeito":  {"eu": "podia",   "tu": "podias",    "ele": "podia",   "nos": "podíamos",   "voces": "podiam",    "eles": "podiam"},
+    "futuro":      {"eu": "poderei", "tu": "poderás",   "ele": "poderá",  "nos": "poderemos",  "voces": "poderão",   "eles": "poderão"},
+    "condicional": {"eu": "poderia", "tu": "poderias",  "ele": "poderia", "nos": "poderíamos", "voces": "poderiam",  "eles": "poderiam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",    "pt": "[Posso] abrir a janela?", "en": "Can I open the window?"},
+      {"p": "tu",    "pt": "[Podes] ajudar-me?", "en": "Can you help me?"},
+      {"p": "ele",   "pt": "O senhor [pode] falar mais devagar?", "en": "Could you speak more slowly, sir?"},
+      {"p": "nos",   "pt": "[Podemos] pagar com cartão?", "en": "Can we pay by card?"},
+      {"p": "voces", "pt": "Vocês [podem] sentar-se aqui.", "en": "You can sit here."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "Não [pude] ir à festa.", "en": "I couldn't go to the party."},
+      {"p": "ele",  "pt": "Ela não [pôde] vir ontem.", "en": "She couldn't come yesterday."},
+      {"p": "nos",  "pt": "Não [pudemos] sair por causa da chuva.", "en": "We couldn't go out because of the rain."},
+      {"p": "eles", "pt": "Eles não [puderam] ficar para o jantar.", "en": "They couldn't stay for dinner."}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "Em criança, não [podia] sair à noite.", "en": "As a child, I wasn't allowed to go out at night."},
+      {"p": "tu",   "pt": "[Podias] fechar a porta?", "en": "Could you close the door?"},
+      {"p": "ele",  "pt": "Ele não [podia] comer açúcar.", "en": "He couldn't eat sugar."},
+      {"p": "nos",  "pt": "Nós [podíamos] ir ao cinema.", "en": "We could go to the cinema."}
+    ],
+    "futuro": [
+      {"p": "eu",    "pt": "Amanhã [poderei] ajudar-te.", "en": "Tomorrow I'll be able to help you."},
+      {"p": "tu",    "pt": "Daqui a um ano [poderás] falar português.", "en": "In a year you'll be able to speak Portuguese."},
+      {"p": "ele",   "pt": "O médico [poderá] vê-lo às três.", "en": "The doctor will be able to see you at three."},
+      {"p": "voces", "pt": "Vocês [poderão] entrar às nove.", "en": "You'll be able to go in at nine."}
+    ],
+    "condicional": [
+      {"p": "eu",   "pt": "[Poderia] falar com o gerente?", "en": "Could I speak to the manager?"},
+      {"p": "tu",   "pt": "[Poderias] dar-me o teu número?", "en": "Could you give me your number?"},
+      {"p": "ele",  "pt": "Ele [poderia] chegar atrasado.", "en": "He could arrive late."},
+      {"p": "nos",  "pt": "Nós [poderíamos] jantar fora hoje.", "en": "We could eat out tonight."}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "Can I pay by card?", "pt": "Posso pagar com cartão?"},
+      {"en": "Can you help me?", "pt": "Podes ajudar-me?"},
+      {"en": "You can't smoke here.", "pt": "Não se pode fumar aqui."}
+    ],
+    "perfeito": [
+      {"en": "I couldn't come.", "pt": "Não pude vir."},
+      {"en": "He couldn't go to work.", "pt": "Ele não pôde ir trabalhar."},
+      {"en": "We couldn't stay.", "pt": "Não pudemos ficar."}
+    ],
+    "imperfeito": [
+      {"en": "Could you help me? (formal)", "pt": "Podia ajudar-me?"},
+      {"en": "We could go to the beach.", "pt": "Podíamos ir à praia."},
+      {"en": "I wasn't allowed to go out.", "pt": "Não podia sair."}
+    ],
+    "futuro": [
+      {"en": "I'll be able to help you tomorrow.", "pt": "Vou poder ajudar-te amanhã."},
+      {"en": "Will you be able to come?", "pt": "Vais poder vir?"},
+      {"en": "We won't be able to go.", "pt": "Não vamos poder ir."}
+    ],
+    "condicional": [
+      {"en": "Could you open the window? (formal)", "pt": "Poderia abrir a janela?"},
+      {"en": "It could be worse.", "pt": "Poderia ser pior."},
+      {"en": "Could you repeat that?", "pt": "Poderias repetir?"}
+    ]
+  },
+  "notes": {
+    "presente": "Poder = can in the sense of permission or possibility: Posso entrar? Pode chover. Pode ser! = That works / Maybe.",
+    "perfeito": "Watch the accent: pude (I could) vs pôde (he/she could). The circumflex in pôde separates the past from the present pode.",
+    "imperfeito": "In Portugal the imperfeito is very common for polite requests and suggestions: Podia ajudar-me? Podíamos ir ao cinema.",
+    "futuro": "In speech use ir + poder: vou poder, vais poder, não vamos poder."
+  },
+  "patterns": [
+    {"pt": "poder + infinitivo", "en": "can / to be able to"},
+    {"pt": "Posso...?", "en": "May I...? / Can I...?"},
+    {"pt": "pode ser", "en": "maybe / that works"},
+    {"pt": "não se pode + infinitivo", "en": "you can't / it's not allowed"},
+    {"pt": "pode ser que", "en": "it may be that"}
+  ],
+  "compare": [
+    {"verb": "conseguir", "en": "to manage to / to be able to (ability, effort)", "ex": "Posso entrar? / Não consigo abrir a porta."},
+    {"verb": "saber", "en": "to know how to (a learned skill)", "ex": "Sei nadar, mas hoje não posso."}
+  ],
+  "recap": "Querer é poder. (Where there's a will, there's a way.)"
+},
+{
+  "n": 6,
+  "inf": "conseguir",
+  "en": "to be able to",
+  "regular": false,
+  "group": "ir",
+  "intro": "Conseguir means to manage to, to succeed in or to be able to after some effort. It's an -ir verb with one stem change: eu consigo. Não consigo is the natural way to say 'I can't' when it's about ability.",
+  "quick": [
+    {"pt": "Consegui!", "en": "I did it!"},
+    {"pt": "Não consigo.", "en": "I can't (manage it)."},
+    {"pt": "Consegues ver?", "en": "Can you see?"},
+    {"pt": "Vais conseguir.", "en": "You'll manage."}
+  ],
+  "conj": {
+    "presente":    {"eu": "consigo",     "tu": "consegues",     "ele": "consegue",    "nos": "conseguimos",    "voces": "conseguem",    "eles": "conseguem"},
+    "perfeito":    {"eu": "consegui",    "tu": "conseguiste",   "ele": "conseguiu",   "nos": "conseguimos",    "voces": "conseguiram",  "eles": "conseguiram"},
+    "imperfeito":  {"eu": "conseguia",   "tu": "conseguias",    "ele": "conseguia",   "nos": "conseguíamos",   "voces": "conseguiam",   "eles": "conseguiam"},
+    "futuro":      {"eu": "conseguirei", "tu": "conseguirás",   "ele": "conseguirá",  "nos": "conseguiremos",  "voces": "conseguirão",  "eles": "conseguirão"},
+    "condicional": {"eu": "conseguiria", "tu": "conseguirias",  "ele": "conseguiria", "nos": "conseguiríamos", "voces": "conseguiriam", "eles": "conseguiriam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",   "pt": "Não [consigo] dormir.", "en": "I can't sleep."},
+      {"p": "tu",   "pt": "[Consegues] abrir a janela?", "en": "Can you open the window?"},
+      {"p": "ele",  "pt": "Ela [consegue] correr dez quilómetros.", "en": "She can run ten kilometres."},
+      {"p": "nos",  "pt": "Já [conseguimos] perceber quase tudo.", "en": "We can already understand almost everything."},
+      {"p": "eles", "pt": "Eles não [conseguem] encontrar as chaves.", "en": "They can't find the keys."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "Finalmente [consegui] um emprego.", "en": "I finally got a job."},
+      {"p": "tu",   "pt": "[Conseguiste] falar com o médico?", "en": "Did you manage to speak to the doctor?"},
+      {"p": "ele",  "pt": "Ele [conseguiu] apanhar o comboio.", "en": "He managed to catch the train."},
+      {"p": "eles", "pt": "Eles não [conseguiram] bilhetes para o concerto.", "en": "They didn't manage to get tickets for the concert."}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "Antes não [conseguia] perceber nada.", "en": "Before, I couldn't understand anything."},
+      {"p": "ele",  "pt": "Ela não [conseguia] dormir com o barulho.", "en": "She couldn't sleep with the noise."},
+      {"p": "nos",  "pt": "Nós [conseguíamos] ver o mar da janela.", "en": "We could see the sea from the window."},
+      {"p": "eles", "pt": "Eles [conseguiam] sempre bons lugares.", "en": "They always managed to get good seats."}
+    ],
+    "futuro": [
+      {"p": "eu",   "pt": "[Conseguirei] acabar até sexta-feira.", "en": "I'll manage to finish by Friday."},
+      {"p": "tu",   "pt": "Tu [conseguirás], tenho a certeza.", "en": "You'll manage, I'm sure."},
+      {"p": "ele",  "pt": "Ele [conseguirá] passar no exame.", "en": "He'll manage to pass the exam."},
+      {"p": "nos",  "pt": "Nós [conseguiremos] chegar a tempo.", "en": "We'll manage to arrive in time."}
+    ],
+    "condicional": [
+      {"p": "eu",   "pt": "Eu não [conseguiria] viver sem café.", "en": "I couldn't live without coffee."},
+      {"p": "tu",   "pt": "[Conseguirias] fazer isto sozinho?", "en": "Would you be able to do this on your own?"},
+      {"p": "nos",  "pt": "Com mais tempo, [conseguiríamos] acabar.", "en": "With more time, we would manage to finish."},
+      {"p": "eles", "pt": "Eles [conseguiriam] ganhar o jogo.", "en": "They would be able to win the game."}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "I can't hear you.", "pt": "Não te consigo ouvir."},
+      {"en": "Can you read this?", "pt": "Consegues ler isto?"},
+      {"en": "We can't find the hotel.", "pt": "Não conseguimos encontrar o hotel."}
+    ],
+    "perfeito": [
+      {"en": "I did it!", "pt": "Consegui!"},
+      {"en": "Did you manage to sleep?", "pt": "Conseguiste dormir?"},
+      {"en": "They managed to arrive on time.", "pt": "Eles conseguiram chegar a horas."}
+    ],
+    "imperfeito": [
+      {"en": "I couldn't understand the teacher.", "pt": "Não conseguia perceber o professor."},
+      {"en": "She could swim very well.", "pt": "Ela conseguia nadar muito bem."},
+      {"en": "We couldn't see anything.", "pt": "Não conseguíamos ver nada."}
+    ],
+    "futuro": [
+      {"en": "You'll manage!", "pt": "Vais conseguir!"},
+      {"en": "I'm going to manage to finish.", "pt": "Vou conseguir acabar."},
+      {"en": "Are we going to manage to arrive on time?", "pt": "Vamos conseguir chegar a horas?"}
+    ],
+    "condicional": [
+      {"en": "I couldn't do that.", "pt": "Eu não conseguiria fazer isso."},
+      {"en": "Would you be able to come earlier?", "pt": "Conseguirias vir mais cedo?"},
+      {"en": "With help, we would manage it.", "pt": "Com ajuda, conseguiríamos."}
+    ]
+  },
+  "notes": {
+    "presente": "Only eu changes the stem: consigo. The other forms keep -segu-: consegues, consegue, conseguimos. Não consigo + infinitive = I can't (I'm not able to).",
+    "perfeito": "Tentei, mas não consegui = I tried, but I didn't manage. Consegui! is how you say 'I did it!'. Conseguimos is the same in the presente and perfeito.",
+    "imperfeito": "Conseguia = could, over a period of time: Não conseguia dormir (I couldn't sleep, for a while). Consegui = managed, once.",
+    "futuro": "Vais conseguir! (You'll manage!) is a very common encouragement."
+  },
+  "patterns": [
+    {"pt": "conseguir + infinitivo", "en": "to manage to / to be able to"},
+    {"pt": "não consigo + infinitivo", "en": "I can't (ability)"},
+    {"pt": "conseguir um emprego / bilhetes", "en": "to get a job / tickets"},
+    {"pt": "conseguir chegar a tempo", "en": "to manage to arrive in time"}
+  ],
+  "compare": [
+    {"verb": "poder", "en": "can (permission / possibility)", "ex": "Posso fumar aqui? / Não consigo deixar de fumar."},
+    {"verb": "tentar", "en": "to try", "ex": "Tentei, mas não consegui."}
+  ],
+  "recap": "Tentei muitas vezes e finalmente consegui! (I tried many times and I finally made it!)"
+},
+{
+  "n": 7,
+  "inf": "tentar",
+  "en": "to try",
+  "regular": true,
+  "group": "ar",
+  "intro": "Tentar means to try, to attempt or to make an effort to do something. It's a regular -ar verb, and you'll use it constantly when talking about plans, learning something or making an effort.",
+  "quick": [
+    {"pt": "Vou tentar.", "en": "I'll try."},
+    {"pt": "Quero tentar.", "en": "I want to try."},
+    {"pt": "Estou a tentar.", "en": "I'm trying."},
+    {"pt": "Tentei!", "en": "I tried!"}
+  ],
+  "conj": {
+    "presente":    {"eu": "tento",    "tu": "tentas",    "ele": "tenta",   "nos": "tentamos",   "voces": "tentam",    "eles": "tentam"},
+    "perfeito":    {"eu": "tentei",   "tu": "tentaste",  "ele": "tentou",  "nos": "tentámos",   "voces": "tentaram",  "eles": "tentaram"},
+    "imperfeito":  {"eu": "tentava",  "tu": "tentavas",  "ele": "tentava", "nos": "tentávamos", "voces": "tentavam",  "eles": "tentavam"},
+    "futuro":      {"eu": "tentarei", "tu": "tentarás",  "ele": "tentará", "nos": "tentaremos", "voces": "tentarão",  "eles": "tentarão"},
+    "condicional": {"eu": "tentaria", "tu": "tentarias", "ele": "tentaria","nos": "tentaríamos","voces": "tentariam", "eles": "tentariam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",   "pt": "Eu [tento] falar português todos os dias.", "en": "I try to speak Portuguese every day."},
+      {"p": "tu",   "pt": "Tu [tentas] aprender novas palavras?", "en": "Do you try to learn new words?"},
+      {"p": "ele",  "pt": "Ela [tenta] fazer exercício três vezes por semana.", "en": "She tries to exercise three times a week."},
+      {"p": "nos",  "pt": "Nós [tentamos] compreender o problema.", "en": "We try to understand the problem."},
+      {"p": "eles", "pt": "Eles [tentam] chegar a horas.", "en": "They try to arrive on time."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "[Tentei] aprender turco.", "en": "I tried to learn Turkish."},
+      {"p": "tu",   "pt": "[Tentaste] ligar-me ontem?", "en": "Did you try to call me yesterday?"},
+      {"p": "ele",  "pt": "Ela [tentou] ajudar-me.", "en": "She tried to help me."},
+      {"p": "nos",  "pt": "[Tentámos] encontrar um restaurante.", "en": "We tried to find a restaurant."},
+      {"p": "eu",   "pt": "Não consegui, mas [tentei]!", "en": "I didn't manage it, but I tried!"}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "Quando era criança, [tentava] aprender piano.", "en": "When I was a child, I used to try to learn piano."},
+      {"p": "eu",   "pt": "[Tentava] falar português, mas era difícil.", "en": "I was trying to speak Portuguese, but it was difficult."},
+      {"p": "ele",  "pt": "Ela [tentava] sempre ajudar os amigos.", "en": "She always tried to help her friends."},
+      {"p": "nos",  "pt": "Nós [tentávamos] jantar juntos aos domingos.", "en": "We used to try to have dinner together on Sundays."}
+    ],
+    "futuro": [
+      {"p": "eu",   "pt": "[Tentarei] novamente amanhã.", "en": "I'll try again tomorrow."},
+      {"p": "tu",   "pt": "[Tentarás] aprender português?", "en": "Will you try to learn Portuguese?"},
+      {"p": "nos",  "pt": "Nós [tentaremos] chegar cedo.", "en": "We will try to arrive early."},
+      {"p": "eles", "pt": "Eles [tentarão] ganhar o jogo.", "en": "They will try to win the game."}
+    ],
+    "condicional": [
+      {"p": "eu",   "pt": "Eu [tentaria], mas não tenho tempo.", "en": "I would try, but I don't have time."},
+      {"p": "tu",   "pt": "[Tentarias] outra vez?", "en": "Would you try again?"},
+      {"p": "ele",  "pt": "Ele [tentaria] ajudar, se pudesse.", "en": "He would try to help, if he could."},
+      {"p": "nos",  "pt": "Nós [tentaríamos] o restaurante novo.", "en": "We would try the new restaurant."}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "I'm trying to learn Portuguese.", "pt": "Estou a tentar aprender português."},
+      {"en": "Do you understand what I'm trying to say?", "pt": "Percebes o que estou a tentar dizer?"},
+      {"en": "We try to speak Portuguese at home.", "pt": "Tentamos falar português em casa."}
+    ],
+    "perfeito": [
+      {"en": "I tried, but I couldn't.", "pt": "Tentei, mas não consegui."},
+      {"en": "She tried to call me yesterday.", "pt": "Ela tentou ligar-me ontem."},
+      {"en": "We tried to find the station.", "pt": "Tentámos encontrar a estação."}
+    ],
+    "imperfeito": [
+      {"en": "When I was younger, I tried to learn piano.", "pt": "Quando era mais novo, tentava aprender piano."},
+      {"en": "They always tried to arrive early.", "pt": "Eles tentavam sempre chegar cedo."},
+      {"en": "You used to try to cook every day.", "pt": "Tu tentavas cozinhar todos os dias."}
+    ],
+    "futuro": [
+      {"en": "We will try again tomorrow.", "pt": "Vamos tentar novamente amanhã."},
+      {"en": "I'm going to try to find a solution.", "pt": "Vou tentar encontrar uma solução."},
+      {"en": "Will you try to come?", "pt": "Vais tentar vir?"}
+    ],
+    "condicional": [
+      {"en": "I would try, but it's too late.", "pt": "Eu tentaria, mas é demasiado tarde."},
+      {"en": "Would you try this dish?", "pt": "Tentarias este prato?"},
+      {"en": "We would try to help.", "pt": "Nós tentaríamos ajudar."}
+    ]
+  },
+  "notes": {
+    "presente": "In Portugal the ongoing present uses estar a + infinitivo: Estou a tentar (I'm trying). Brazil says estou tentando.",
+    "perfeito": "European spelling: tentámos (Brazil: tentamos). Tentar = to try; conseguir = to manage. Tentei, mas não consegui.",
+    "imperfeito": "Tentei aprender português = one specific attempt. Tentava aprender português = I was trying / used to try.",
+    "futuro": "In everyday European Portuguese you'll more often hear ir + infinitivo: vou tentar, vais tentar, vai tentar, vamos tentar, vão tentar."
+  },
+  "patterns": [
+    {"pt": "tentar aprender", "en": "to try to learn"},
+    {"pt": "tentar compreender", "en": "to try to understand"},
+    {"pt": "tentar ajudar", "en": "to try to help"},
+    {"pt": "tentar encontrar", "en": "to try to find"},
+    {"pt": "tentar outra vez / novamente", "en": "to try again"}
+  ],
+  "compare": [
+    {"verb": "experimentar", "en": "to try something out / to test", "ex": "Quero experimentar este prato."},
+    {"verb": "procurar", "en": "to look for / to seek", "ex": "Estou a procurar um emprego."}
+  ],
+  "recap": "Vou tentar, porque quero conseguir! (I'm going to try, because I want to succeed!)"
+},
+{
+  "n": 8,
+  "inf": "dever",
+  "en": "to have to / must",
+  "regular": true,
+  "group": "er",
+  "intro": "Dever means should, must or to owe. It expresses advice, duty and probability (Deve ser ali = It must be over there). It's a regular -er verb. For plain necessity Portuguese uses ter de + infinitive: Tenho de trabalhar (I have to work).",
+  "quick": [
+    {"pt": "Devias descansar.", "en": "You should rest."},
+    {"pt": "Tenho de ir.", "en": "I have to go."},
+    {"pt": "Quanto lhe devo?", "en": "How much do I owe you?"},
+    {"pt": "Deve ser isso.", "en": "That must be it."}
+  ],
+  "conj": {
+    "presente":    {"eu": "devo",    "tu": "deves",    "ele": "deve",    "nos": "devemos",    "voces": "devem",    "eles": "devem"},
+    "perfeito":    {"eu": "devi",    "tu": "deveste",  "ele": "deveu",   "nos": "devemos",    "voces": "deveram",  "eles": "deveram"},
+    "imperfeito":  {"eu": "devia",   "tu": "devias",   "ele": "devia",   "nos": "devíamos",   "voces": "deviam",   "eles": "deviam"},
+    "futuro":      {"eu": "deverei", "tu": "deverás",  "ele": "deverá",  "nos": "deveremos",  "voces": "deverão",  "eles": "deverão"},
+    "condicional": {"eu": "deveria", "tu": "deverias", "ele": "deveria", "nos": "deveríamos", "voces": "deveriam", "eles": "deveriam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",    "pt": "[Devo] estar em casa às oito.", "en": "I'm supposed to be home at eight."},
+      {"p": "tu",    "pt": "Tu [deves] comer mais fruta.", "en": "You should eat more fruit."},
+      {"p": "ele",   "pt": "[Deve] ser o carteiro.", "en": "It must be the postman."},
+      {"p": "nos",   "pt": "Nós [devemos] respeitar as regras.", "en": "We must respect the rules."},
+      {"p": "voces", "pt": "Vocês [devem] chegar às nove.", "en": "You should arrive at nine."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "[Devi] ter deixado o telemóvel no café.", "en": "I must have left my phone in the café."},
+      {"p": "tu",   "pt": "[Deveste] ter ouvido mal.", "en": "You must have misheard."},
+      {"p": "ele",  "pt": "A empresa [deveu] dinheiro aos trabalhadores durante meses.", "en": "The company owed the workers money for months."},
+      {"p": "eles", "pt": "Eles [deveram] o sucesso à família.", "en": "They owed their success to their family."}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "Eu [devia] estudar mais.", "en": "I should study more."},
+      {"p": "tu",   "pt": "Tu [devias] descansar.", "en": "You should rest."},
+      {"p": "ele",  "pt": "Ele [devia] chegar às seis, mas atrasou-se.", "en": "He was supposed to arrive at six, but he was late."},
+      {"p": "nos",  "pt": "Nós [devíamos] ir ao médico.", "en": "We ought to go to the doctor."}
+    ],
+    "futuro": [
+      {"p": "eu",   "pt": "[Deverei] chegar por volta das dez.", "en": "I should arrive around ten."},
+      {"p": "ele",  "pt": "O voo [deverá] aterrar às cinco.", "en": "The flight is expected to land at five."},
+      {"p": "nos",  "pt": "[Deveremos] ter os resultados amanhã.", "en": "We should have the results tomorrow."},
+      {"p": "eles", "pt": "Os preços [deverão] subir.", "en": "Prices are expected to rise."}
+    ],
+    "condicional": [
+      {"p": "eu",    "pt": "Eu [deveria] telefonar à minha mãe.", "en": "I should phone my mother."},
+      {"p": "tu",    "pt": "[Deverias] pedir desculpa.", "en": "You ought to apologise."},
+      {"p": "ele",   "pt": "Ele [deveria] ter mais cuidado.", "en": "He should be more careful."},
+      {"p": "voces", "pt": "Vocês [deveriam] visitar o Porto.", "en": "You should visit Porto."}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "I have to work today.", "pt": "Tenho de trabalhar hoje."},
+      {"en": "You must be tired.", "pt": "Deves estar cansado."},
+      {"en": "How much do I owe you? (formal)", "pt": "Quanto lhe devo?"}
+    ],
+    "perfeito": [
+      {"en": "I had to wait an hour.", "pt": "Tive de esperar uma hora."},
+      {"en": "We had to leave early.", "pt": "Tivemos de sair cedo."},
+      {"en": "I must have lost the key.", "pt": "Devo ter perdido a chave."}
+    ],
+    "imperfeito": [
+      {"en": "You should rest.", "pt": "Devias descansar."},
+      {"en": "We should go now.", "pt": "Devíamos ir agora."},
+      {"en": "I had to get up early every day.", "pt": "Tinha de me levantar cedo todos os dias."}
+    ],
+    "futuro": [
+      {"en": "I'm going to have to study more.", "pt": "Vou ter de estudar mais."},
+      {"en": "The train should arrive at ten.", "pt": "O comboio deverá chegar às dez."},
+      {"en": "You're going to have to wait.", "pt": "Vais ter de esperar."}
+    ],
+    "condicional": [
+      {"en": "You should see this film.", "pt": "Deverias ver este filme."},
+      {"en": "We should call him.", "pt": "Deveríamos ligar-lhe."},
+      {"en": "She shouldn't drink so much coffee.", "pt": "Ela não deveria beber tanto café."}
+    ]
+  },
+  "notes": {
+    "presente": "Ter de + infinitivo = to have to (necessity): Tenho de trabalhar. Dever + infinitivo = should / must (duty, advice or probability): Deves descansar. Deve estar em casa (He must be at home). In Portugal ter de is preferred to ter que.",
+    "perfeito": "The perfeito of dever is rare. For 'had to' use ter de: Tive de esperar. Devo ter + participle = I must have...: Devo ter perdido a chave.",
+    "imperfeito": "Devia / devias / devíamos is the everyday way to say 'should' in Portugal: Devias ir ao médico. Deveria is a bit more formal.",
+    "futuro": "Deverá often means 'is expected to' (O voo deverá chegar às três). For plans say vou ter de: Vou ter de sair cedo."
+  },
+  "patterns": [
+    {"pt": "dever + infinitivo", "en": "should / must"},
+    {"pt": "ter de + infinitivo", "en": "to have to"},
+    {"pt": "dever dinheiro a alguém", "en": "to owe someone money"},
+    {"pt": "deve ser", "en": "it must be"},
+    {"pt": "devia ter + particípio", "en": "should have (done)"}
+  ],
+  "compare": [
+    {"verb": "ter de", "en": "to have to (necessity)", "ex": "Tenho de sair agora, mas devias ficar."},
+    {"verb": "precisar de", "en": "to need", "ex": "Preciso de descansar."}
+  ],
+  "recap": "Tenho de estudar, mas devia descansar. (I have to study, but I should rest.)"
+},
+{
+  "n": 9,
+  "inf": "querer",
+  "en": "to want",
+  "regular": false,
+  "group": "er",
+  "intro": "Querer means to want, and its imperfeito queria is the polite 'I'd like'. It's irregular: ele quer has no final -e, and the past is quis.",
+  "quick": [
+    {"pt": "Quero um café, por favor.", "en": "I want a coffee, please."},
+    {"pt": "Queria uma mesa para dois.", "en": "I'd like a table for two."},
+    {"pt": "O que queres?", "en": "What do you want?"},
+    {"pt": "Sem querer.", "en": "By accident. / I didn't mean to."}
+  ],
+  "conj": {
+    "presente":    {"eu": "quero",    "tu": "queres",    "ele": "quer",     "nos": "queremos",    "voces": "querem",    "eles": "querem"},
+    "perfeito":    {"eu": "quis",     "tu": "quiseste",  "ele": "quis",     "nos": "quisemos",    "voces": "quiseram",  "eles": "quiseram"},
+    "imperfeito":  {"eu": "queria",   "tu": "querias",   "ele": "queria",   "nos": "queríamos",   "voces": "queriam",   "eles": "queriam"},
+    "futuro":      {"eu": "quererei", "tu": "quererás",  "ele": "quererá",  "nos": "quereremos",  "voces": "quererão",  "eles": "quererão"},
+    "condicional": {"eu": "quereria", "tu": "quererias", "ele": "quereria", "nos": "quereríamos", "voces": "quereriam", "eles": "quereriam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",   "pt": "[Quero] aprender português.", "en": "I want to learn Portuguese."},
+      {"p": "tu",   "pt": "[Queres] ir ao cinema?", "en": "Do you want to go to the cinema?"},
+      {"p": "ele",  "pt": "Ela [quer] ser médica.", "en": "She wants to be a doctor."},
+      {"p": "nos",  "pt": "[Queremos] a conta, por favor.", "en": "We'd like the bill, please."},
+      {"p": "eles", "pt": "Eles [querem] viver no Porto.", "en": "They want to live in Porto."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "Não [quis] incomodar.", "en": "I didn't want to bother you."},
+      {"p": "tu",   "pt": "Porque é que não [quiseste] vir?", "en": "Why didn't you want to come?"},
+      {"p": "ele",  "pt": "Ele não [quis] comer a sopa.", "en": "He wouldn't eat the soup."},
+      {"p": "eles", "pt": "Eles [quiseram] pagar o jantar.", "en": "They insisted on paying for dinner."}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "[Queria] um galão, por favor.", "en": "I'd like a galão (milky coffee), please."},
+      {"p": "tu",   "pt": "Em pequeno, tu [querias] ser futebolista.", "en": "As a child, you wanted to be a footballer."},
+      {"p": "ele",  "pt": "Ela [queria] falar contigo.", "en": "She wanted to talk to you."},
+      {"p": "nos",  "pt": "Nós [queríamos] reservar um quarto.", "en": "We'd like to book a room."}
+    ],
+    "futuro": [
+      {"p": "tu",   "pt": "Um dia [quererás] voltar a Portugal.", "en": "One day you'll want to come back to Portugal."},
+      {"p": "ele",  "pt": "Ninguém [quererá] trabalhar ao domingo.", "en": "Nobody will want to work on Sunday."},
+      {"p": "nos",  "pt": "Depois do jantar, [quereremos] descansar.", "en": "After dinner, we'll want to rest."},
+      {"p": "eles", "pt": "Os miúdos [quererão] ir à praia.", "en": "The kids will want to go to the beach."}
+    ],
+    "condicional": [
+      {"p": "eu",   "pt": "[Quereria] agradecer a todos.", "en": "I would like to thank everyone."},
+      {"p": "tu",   "pt": "[Quererias] viver noutro país?", "en": "Would you want to live in another country?"},
+      {"p": "ele",  "pt": "Quem [quereria] sair com esta chuva?", "en": "Who would want to go out in this rain?"},
+      {"p": "nos",  "pt": "Nós [quereríamos] mais informações.", "en": "We would like more information."}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "I want a glass of water.", "pt": "Quero um copo de água."},
+      {"en": "Do you want to come?", "pt": "Queres vir?"},
+      {"en": "What does this mean?", "pt": "O que quer dizer isto?"}
+    ],
+    "perfeito": [
+      {"en": "She didn't want to come.", "pt": "Ela não quis vir."},
+      {"en": "I didn't want to bother you.", "pt": "Não te quis incomodar."},
+      {"en": "They wanted to pay.", "pt": "Eles quiseram pagar."}
+    ],
+    "imperfeito": [
+      {"en": "I'd like a coffee, please.", "pt": "Queria um café, por favor."},
+      {"en": "We'd like to book a table.", "pt": "Queríamos reservar uma mesa."},
+      {"en": "As a child, I wanted to be a pilot.", "pt": "Em criança, queria ser piloto."}
+    ],
+    "futuro": [
+      {"en": "You're going to want to come back.", "pt": "Vais querer voltar."},
+      {"en": "Are you going to want dessert?", "pt": "Vais querer sobremesa?"},
+      {"en": "They won't want to leave.", "pt": "Eles não vão querer sair."}
+    ],
+    "condicional": [
+      {"en": "Would you want to live in Lisbon?", "pt": "Quererias viver em Lisboa?"},
+      {"en": "Who would want that?", "pt": "Quem quereria isso?"},
+      {"en": "We would like to help.", "pt": "Quereríamos ajudar."}
+    ]
+  },
+  "notes": {
+    "presente": "Ele quer has no final -e. Querer takes a noun or an infinitive directly: Quero pão. Quero comer. Querer dizer = to mean.",
+    "perfeito": "Quis / quiseste / quis are irregular. Não quis often means 'refused': Ele não quis comer.",
+    "imperfeito": "In cafés and shops, Queria... (I'd like...) is the polite way to ask for something in Portugal. Quereria exists but is rare and formal.",
+    "futuro": "The synthetic future (quererei) is rare in speech. Say vou querer, vais querer. Vou querer um café is a common way to order."
+  },
+  "patterns": [
+    {"pt": "querer + infinitivo", "en": "to want to"},
+    {"pt": "queria + nome", "en": "I'd like (polite request)"},
+    {"pt": "querer dizer", "en": "to mean"},
+    {"pt": "sem querer", "en": "by accident / without meaning to"},
+    {"pt": "vou querer...", "en": "I'll have... (ordering)"}
+  ],
+  "compare": [
+    {"verb": "gostar de", "en": "to like", "ex": "Gosto muito de café, por isso queria um."},
+    {"verb": "desejar", "en": "to wish / to desire (formal, used by waiters)", "ex": "Deseja mais alguma coisa?"}
+  ],
+  "recap": "Queria um café e um pastel de nata, por favor. (I'd like a coffee and a custard tart, please.)"
+},
+{
+  "n": 10,
+  "inf": "fazer",
+  "en": "to do / to make",
+  "regular": false,
+  "group": "er",
+  "intro": "Fazer means to do or to make. It's irregular (faço, fiz, fez, farei) and appears in many everyday expressions: the weather (faz frio), birthdays (fazer anos) and polite requests (faz favor).",
+  "quick": [
+    {"pt": "O que fazes?", "en": "What do you do?"},
+    {"pt": "Faz frio.", "en": "It's cold."},
+    {"pt": "Faz favor!", "en": "Excuse me! (to call a waiter)"},
+    {"pt": "Não faz mal.", "en": "It doesn't matter. / No worries."}
+  ],
+  "conj": {
+    "presente":    {"eu": "faço",  "tu": "fazes",    "ele": "faz",   "nos": "fazemos",  "voces": "fazem",    "eles": "fazem"},
+    "perfeito":    {"eu": "fiz",   "tu": "fizeste",  "ele": "fez",   "nos": "fizemos",  "voces": "fizeram",  "eles": "fizeram"},
+    "imperfeito":  {"eu": "fazia", "tu": "fazias",   "ele": "fazia", "nos": "fazíamos", "voces": "faziam",   "eles": "faziam"},
+    "futuro":      {"eu": "farei", "tu": "farás",    "ele": "fará",  "nos": "faremos",  "voces": "farão",    "eles": "farão"},
+    "condicional": {"eu": "faria", "tu": "farias",   "ele": "faria", "nos": "faríamos", "voces": "fariam",   "eles": "fariam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",   "pt": "Eu [faço] o jantar todos os dias.", "en": "I make dinner every day."},
+      {"p": "tu",   "pt": "O que [fazes] no fim de semana?", "en": "What do you do at the weekend?"},
+      {"p": "ele",  "pt": "Hoje [faz] muito calor.", "en": "It's very hot today."},
+      {"p": "nos",  "pt": "[Fazemos] compras ao sábado.", "en": "We go shopping on Saturdays."},
+      {"p": "eles", "pt": "Eles [fazem] anos no mesmo dia.", "en": "They have their birthday on the same day."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "[Fiz] um bolo para a festa.", "en": "I made a cake for the party."},
+      {"p": "tu",   "pt": "O que [fizeste] ontem?", "en": "What did you do yesterday?"},
+      {"p": "ele",  "pt": "Ele já [fez] os trabalhos de casa.", "en": "He has already done his homework."},
+      {"p": "nos",  "pt": "[Fizemos] uma viagem aos Açores.", "en": "We took a trip to the Azores."}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "Quando era estudante, [fazia] desporto todos os dias.", "en": "When I was a student, I did sport every day."},
+      {"p": "tu",   "pt": "O que [fazias] em Lisboa?", "en": "What were you doing in Lisbon?"},
+      {"p": "ele",  "pt": "[Fazia] muito frio naquele inverno.", "en": "It was very cold that winter."},
+      {"p": "nos",  "pt": "Nós [fazíamos] piqueniques no parque.", "en": "We used to have picnics in the park."}
+    ],
+    "futuro": [
+      {"p": "eu",   "pt": "[Farei] o possível.", "en": "I'll do my best."},
+      {"p": "tu",   "pt": "[Farás] trinta anos em maio.", "en": "You'll turn thirty in May."},
+      {"p": "ele",  "pt": "Amanhã [fará] sol.", "en": "Tomorrow it will be sunny."},
+      {"p": "eles", "pt": "Eles [farão] uma festa no sábado.", "en": "They will have a party on Saturday."}
+    ],
+    "condicional": [
+      {"p": "eu",   "pt": "No teu lugar, eu [faria] o mesmo.", "en": "In your place, I would do the same."},
+      {"p": "tu",   "pt": "O que [farias] com um milhão de euros?", "en": "What would you do with a million euros?"},
+      {"p": "ele",  "pt": "Isso [faria] muita diferença.", "en": "That would make a big difference."},
+      {"p": "nos",  "pt": "Nós [faríamos] tudo por ti.", "en": "We would do anything for you."}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "What do you do? (job)", "pt": "O que fazes?"},
+      {"en": "It's very hot today.", "pt": "Hoje faz muito calor."},
+      {"en": "We make dinner together.", "pt": "Fazemos o jantar juntos."}
+    ],
+    "perfeito": [
+      {"en": "What did you do yesterday?", "pt": "O que fizeste ontem?"},
+      {"en": "I did my homework.", "pt": "Fiz os trabalhos de casa."},
+      {"en": "She made a cake.", "pt": "Ela fez um bolo."}
+    ],
+    "imperfeito": [
+      {"en": "It was very cold.", "pt": "Fazia muito frio."},
+      {"en": "What were you doing there?", "pt": "O que fazias lá?"},
+      {"en": "We used to do sport.", "pt": "Fazíamos desporto."}
+    ],
+    "futuro": [
+      {"en": "What are you going to do tomorrow?", "pt": "O que vais fazer amanhã?"},
+      {"en": "I'm going to make soup.", "pt": "Vou fazer sopa."},
+      {"en": "It's going to be sunny.", "pt": "Vai fazer sol."}
+    ],
+    "condicional": [
+      {"en": "What would you do?", "pt": "O que farias?"},
+      {"en": "I would do the same.", "pt": "Eu faria o mesmo."},
+      {"en": "That would make sense.", "pt": "Isso faria sentido."}
+    ]
+  },
+  "notes": {
+    "presente": "Fazer anos = to have a birthday: Faço anos em junho. Weather: faz frio / faz calor / faz sol. Faz favor (or Se faz favor) = please / excuse me.",
+    "perfeito": "Irregular stem fiz-: fiz, fizeste, fez, fizemos, fizeram. No accents, and eu fiz vs ele fez.",
+    "imperfeito": "Use fazia for weather and habits in the past: Fazia sol. Fazíamos isso todos os anos.",
+    "futuro": "The future and conditional use a short stem far-: farei, faria. In speech prefer ir + infinitivo: vou fazer."
+  },
+  "patterns": [
+    {"pt": "fazer anos", "en": "to have a birthday"},
+    {"pt": "fazer compras", "en": "to go shopping"},
+    {"pt": "fazer uma pergunta", "en": "to ask a question"},
+    {"pt": "fazer frio / calor / sol", "en": "to be cold / hot / sunny"},
+    {"pt": "fazer falta", "en": "to be needed / to be missed"},
+    {"pt": "fazer o favor de + infinitivo", "en": "please (do something)"}
+  ],
+  "compare": [],
+  "recap": "Faz sol, por isso vou fazer um piquenique! (It's sunny, so I'm going to have a picnic!)"
+},
+{
+  "n": 11,
+  "inf": "ir",
+  "en": "to go",
+  "regular": false,
+  "group": "ir",
+  "intro": "Ir means to go. It's highly irregular, and it's also the main way to talk about the future in Portugal: ir + infinitivo (vou comer = I'm going to eat).",
+  "quick": [
+    {"pt": "Vamos!", "en": "Let's go!"},
+    {"pt": "Vou já!", "en": "I'm coming! / Right away!"},
+    {"pt": "Onde vais?", "en": "Where are you going?"},
+    {"pt": "Como vai?", "en": "How are you? (formal)"}
+  ],
+  "conj": {
+    "presente":    {"eu": "vou",   "tu": "vais",   "ele": "vai",   "nos": "vamos",    "voces": "vão",    "eles": "vão"},
+    "perfeito":    {"eu": "fui",   "tu": "foste",  "ele": "foi",   "nos": "fomos",    "voces": "foram",  "eles": "foram"},
+    "imperfeito":  {"eu": "ia",    "tu": "ias",    "ele": "ia",    "nos": "íamos",    "voces": "iam",    "eles": "iam"},
+    "futuro":      {"eu": "irei",  "tu": "irás",   "ele": "irá",   "nos": "iremos",   "voces": "irão",   "eles": "irão"},
+    "condicional": {"eu": "iria",  "tu": "irias",  "ele": "iria",  "nos": "iríamos",  "voces": "iriam",  "eles": "iriam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",   "pt": "[Vou] ao supermercado.", "en": "I'm going to the supermarket."},
+      {"p": "tu",   "pt": "[Vais] à festa logo à noite?", "en": "Are you going to the party tonight?"},
+      {"p": "ele",  "pt": "Ela [vai] para o trabalho de autocarro.", "en": "She goes to work by bus."},
+      {"p": "nos",  "pt": "[Vamos] jantar fora hoje.", "en": "We're going to eat out today."},
+      {"p": "eles", "pt": "Eles [vão] de férias em agosto.", "en": "They go on holiday in August."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "[Fui] a Sintra no domingo.", "en": "I went to Sintra on Sunday."},
+      {"p": "tu",   "pt": "[Foste] ao médico?", "en": "Did you go to the doctor?"},
+      {"p": "nos",  "pt": "Ontem [fomos] à praia.", "en": "Yesterday we went to the beach."},
+      {"p": "eles", "pt": "Eles [foram] ao cinema.", "en": "They went to the cinema."}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "Todos os verões [ia] para casa dos meus avós.", "en": "Every summer I used to go to my grandparents' house."},
+      {"p": "tu",   "pt": "Onde [ias] tão cedo?", "en": "Where were you going so early?"},
+      {"p": "ele",  "pt": "Ele [ia] a pé para a escola.", "en": "He used to walk to school."},
+      {"p": "nos",  "pt": "Nós [íamos] sair, mas começou a chover.", "en": "We were going to go out, but it started to rain."}
+    ],
+    "futuro": [
+      {"p": "eu",    "pt": "[Irei] a Lisboa na próxima semana.", "en": "I will go to Lisbon next week."},
+      {"p": "tu",    "pt": "Tenho a certeza de que [irás] gostar.", "en": "I'm sure you'll like it."},
+      {"p": "ele",   "pt": "O presidente [irá] visitar a cidade.", "en": "The president will visit the city."},
+      {"p": "voces", "pt": "Vocês [irão] connosco?", "en": "Will you come with us?"}
+    ],
+    "condicional": [
+      {"p": "eu",   "pt": "Eu [iria] contigo, mas estou doente.", "en": "I would go with you, but I'm ill."},
+      {"p": "tu",   "pt": "[Irias] viver para o estrangeiro?", "en": "Would you go and live abroad?"},
+      {"p": "nos",  "pt": "Nós [iríamos] de comboio.", "en": "We would go by train."},
+      {"p": "eles", "pt": "Eles disseram que [iriam] à festa.", "en": "They said they would go to the party."}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "I'm going home.", "pt": "Vou para casa."},
+      {"en": "Let's go to the beach!", "pt": "Vamos à praia!"},
+      {"en": "I'm going to eat.", "pt": "Vou comer."}
+    ],
+    "perfeito": [
+      {"en": "I went to Porto last week.", "pt": "Fui ao Porto na semana passada."},
+      {"en": "Where did you go yesterday?", "pt": "Onde foste ontem?"},
+      {"en": "We went to the cinema.", "pt": "Fomos ao cinema."}
+    ],
+    "imperfeito": [
+      {"en": "I used to go to the beach every day.", "pt": "Ia à praia todos os dias."},
+      {"en": "I was going to call you.", "pt": "Ia ligar-te."},
+      {"en": "We used to go on foot.", "pt": "Íamos a pé."}
+    ],
+    "futuro": [
+      {"en": "I'm going to travel in August.", "pt": "Vou viajar em agosto."},
+      {"en": "Are you going to come?", "pt": "Vais vir?"},
+      {"en": "It's going to rain.", "pt": "Vai chover."}
+    ],
+    "condicional": [
+      {"en": "I would go with you.", "pt": "Eu iria contigo."},
+      {"en": "Would you go by train?", "pt": "Irias de comboio?"},
+      {"en": "We would go, but it's late.", "pt": "Iríamos, mas é tarde."}
+    ]
+  },
+  "notes": {
+    "presente": "Ir + infinitivo is the everyday future in Portugal: vou comer, vais ver, vamos sair. Ir a = a short visit (Vou ao café); ir para = destination or a longer stay (Vou para casa, Vou para Inglaterra).",
+    "perfeito": "Ir and ser share the same perfeito: fui, foste, foi, fomos, foram. Fui a Lisboa = I went to Lisbon; Fui feliz = I was happy.",
+    "imperfeito": "Ia + infinitivo = was going to (but didn't): Ia sair, mas fiquei em casa.",
+    "futuro": "Irei sounds formal. In speech say vou + infinitive. Avoid vou ir: just say vou (Vou amanhã = I'm going tomorrow)."
+  },
+  "patterns": [
+    {"pt": "ir + infinitivo", "en": "to be going to (future)"},
+    {"pt": "ir a / ir para", "en": "to go to (short visit / destination)"},
+    {"pt": "ir de carro / comboio / avião", "en": "to go by car / train / plane"},
+    {"pt": "ir a pé", "en": "to walk, to go on foot"},
+    {"pt": "vamos + infinitivo", "en": "let's..."}
+  ],
+  "compare": [
+    {"verb": "vir", "en": "to come (towards the speaker)", "ex": "Eu vou ao café. Tu vens comigo?"}
+  ],
+  "recap": "Vamos à praia? Vou já! (Shall we go to the beach? I'm coming right now!)"
+},
+{
+  "n": 12,
+  "inf": "vir",
+  "en": "to come",
+  "regular": false,
+  "group": "ir",
+  "intro": "Vir means to come: movement towards where the speaker is. It's irregular; watch vimos (we come) vs viemos (we came). Vir de = to come from.",
+  "quick": [
+    {"pt": "Vens?", "en": "Are you coming?"},
+    {"pt": "Vem cá!", "en": "Come here!"},
+    {"pt": "De onde vens?", "en": "Where are you coming from?"},
+    {"pt": "Já venho.", "en": "I'll be right back."}
+  ],
+  "conj": {
+    "presente":    {"eu": "venho", "tu": "vens",    "ele": "vem",   "nos": "vimos",    "voces": "vêm",    "eles": "vêm"},
+    "perfeito":    {"eu": "vim",   "tu": "vieste",  "ele": "veio",  "nos": "viemos",   "voces": "vieram", "eles": "vieram"},
+    "imperfeito":  {"eu": "vinha", "tu": "vinhas",  "ele": "vinha", "nos": "vínhamos", "voces": "vinham", "eles": "vinham"},
+    "futuro":      {"eu": "virei", "tu": "virás",   "ele": "virá",  "nos": "viremos",  "voces": "virão",  "eles": "virão"},
+    "condicional": {"eu": "viria", "tu": "virias",  "ele": "viria", "nos": "viríamos", "voces": "viriam", "eles": "viriam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",   "pt": "Eu [venho] da Dinamarca.", "en": "I come from Denmark."},
+      {"p": "tu",   "pt": "[Vens] jantar connosco?", "en": "Are you coming to dinner with us?"},
+      {"p": "ele",  "pt": "O autocarro [vem] daqui a cinco minutos.", "en": "The bus is coming in five minutes."},
+      {"p": "nos",  "pt": "Nós [vimos] cá todos os anos.", "en": "We come here every year."},
+      {"p": "eles", "pt": "Os meus pais [vêm] visitar-me no Natal.", "en": "My parents are coming to visit me at Christmas."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "[Vim] para Portugal em 2020.", "en": "I came to Portugal in 2020."},
+      {"p": "tu",   "pt": "Porque é que não [vieste] à festa?", "en": "Why didn't you come to the party?"},
+      {"p": "ele",  "pt": "Ele [veio] de comboio.", "en": "He came by train."},
+      {"p": "nos",  "pt": "[Viemos] buscar as chaves.", "en": "We came to pick up the keys."}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "Antes [vinha] a pé para o trabalho.", "en": "I used to walk to work."},
+      {"p": "ele",  "pt": "O meu avô [vinha] sempre ao domingo.", "en": "My grandfather always came on Sundays."},
+      {"p": "nos",  "pt": "Nós [vínhamos] de férias para o Algarve.", "en": "We used to come to the Algarve on holiday."},
+      {"p": "eles", "pt": "Eles [vinham] da praia quando os vi.", "en": "They were coming from the beach when I saw them."}
+    ],
+    "futuro": [
+      {"p": "eu",   "pt": "[Virei] amanhã de manhã.", "en": "I will come tomorrow morning."},
+      {"p": "tu",   "pt": "[Virás] à minha festa?", "en": "Will you come to my party?"},
+      {"p": "ele",  "pt": "O técnico [virá] na segunda-feira.", "en": "The technician will come on Monday."},
+      {"p": "eles", "pt": "Os convidados [virão] às oito.", "en": "The guests will come at eight."}
+    ],
+    "condicional": [
+      {"p": "eu",    "pt": "Eu [viria] mais cedo, se pudesse.", "en": "I would come earlier, if I could."},
+      {"p": "tu",    "pt": "[Virias] comigo ao Porto?", "en": "Would you come to Porto with me?"},
+      {"p": "ele",   "pt": "Ele disse que [viria] logo.", "en": "He said he would come later."},
+      {"p": "voces", "pt": "Vocês [viriam] ao jantar?", "en": "Would you come to the dinner?"}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "Are you coming with me?", "pt": "Vens comigo?"},
+      {"en": "Where does this train come from?", "pt": "De onde vem este comboio?"},
+      {"en": "They're coming tomorrow.", "pt": "Eles vêm amanhã."}
+    ],
+    "perfeito": [
+      {"en": "I came by bus.", "pt": "Vim de autocarro."},
+      {"en": "Why didn't you come?", "pt": "Porque é que não vieste?"},
+      {"en": "She came to dinner.", "pt": "Ela veio jantar."}
+    ],
+    "imperfeito": [
+      {"en": "I was coming from work.", "pt": "Vinha do trabalho."},
+      {"en": "He used to come every summer.", "pt": "Ele vinha todos os verões."},
+      {"en": "We used to come here as children.", "pt": "Vínhamos cá em crianças."}
+    ],
+    "futuro": [
+      {"en": "Are you going to come to the party?", "pt": "Vais vir à festa?"},
+      {"en": "The doctor is going to come tomorrow.", "pt": "O médico vai vir amanhã."},
+      {"en": "They're coming later.", "pt": "Eles vêm mais tarde."}
+    ],
+    "condicional": [
+      {"en": "Would you come with me?", "pt": "Virias comigo?"},
+      {"en": "I would come, but I can't.", "pt": "Eu viria, mas não posso."},
+      {"en": "He said he would come.", "pt": "Ele disse que viria."}
+    ]
+  },
+  "notes": {
+    "presente": "Ir vs vir: ir = go (away from the speaker), vir = come (towards the speaker). On the phone, 'I'm coming!' is Vou já!, not venho. Ele vem (he comes) vs eles vêm (they come, with a circumflex).",
+    "perfeito": "Vim, vieste, veio, viemos, vieram. Don't mix up viemos (we came) with vimos (we come, or we saw from ver).",
+    "imperfeito": "The imperfeito has -nh- like ter: vinha, vínhamos (compare tinha, tínhamos).",
+    "futuro": "In speech: vou vir or simply the present: Venho amanhã (I'll come tomorrow)."
+  },
+  "patterns": [
+    {"pt": "vir de", "en": "to come from"},
+    {"pt": "vir buscar", "en": "to come and pick up / fetch"},
+    {"pt": "vir + infinitivo", "en": "to come to do (Vem jantar)"},
+    {"pt": "vir a pé / de carro", "en": "to come on foot / by car"},
+    {"pt": "já venho", "en": "I'll be right back"}
+  ],
+  "compare": [
+    {"verb": "ir", "en": "to go", "ex": "Vou ao café. Vens comigo?"},
+    {"verb": "chegar", "en": "to arrive", "ex": "Ele vem de comboio e chega às dez."}
+  ],
+  "recap": "Vens jantar cá a casa no sábado? (Are you coming over for dinner on Saturday?)"
+},
+{
+  "n": 13,
+  "inf": "ficar",
+  "en": "to stay / to be located",
+  "regular": true,
+  "group": "ar",
+  "intro": "Ficar is a hugely useful regular -ar verb: to stay, to be located (Onde fica?), to become or end up (ficar contente) and to keep something (fico com este). Only the spelling changes: fiquei.",
+  "quick": [
+    {"pt": "Onde fica a estação?", "en": "Where is the station?"},
+    {"pt": "Fique com o troco.", "en": "Keep the change."},
+    {"pt": "Hoje fico em casa.", "en": "I'm staying at home today."},
+    {"pt": "Fico com este.", "en": "I'll take this one."}
+  ],
+  "conj": {
+    "presente":    {"eu": "fico",     "tu": "ficas",     "ele": "fica",     "nos": "ficamos",     "voces": "ficam",     "eles": "ficam"},
+    "perfeito":    {"eu": "fiquei",   "tu": "ficaste",   "ele": "ficou",    "nos": "ficámos",     "voces": "ficaram",   "eles": "ficaram"},
+    "imperfeito":  {"eu": "ficava",   "tu": "ficavas",   "ele": "ficava",   "nos": "ficávamos",   "voces": "ficavam",   "eles": "ficavam"},
+    "futuro":      {"eu": "ficarei",  "tu": "ficarás",   "ele": "ficará",   "nos": "ficaremos",   "voces": "ficarão",   "eles": "ficarão"},
+    "condicional": {"eu": "ficaria",  "tu": "ficarias",  "ele": "ficaria",  "nos": "ficaríamos",  "voces": "ficariam",  "eles": "ficariam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",   "pt": "Hoje [fico] em casa.", "en": "Today I'm staying at home."},
+      {"p": "tu",   "pt": "[Ficas] para jantar?", "en": "Are you staying for dinner?"},
+      {"p": "ele",  "pt": "A farmácia [fica] ao lado do banco.", "en": "The pharmacy is next to the bank."},
+      {"p": "nos",  "pt": "[Ficamos] num hotel perto da praia.", "en": "We're staying in a hotel near the beach."},
+      {"p": "eles", "pt": "Eles [ficam] nervosos antes dos exames.", "en": "They get nervous before exams."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "[Fiquei] muito contente com a notícia.", "en": "I was very happy with the news."},
+      {"p": "tu",   "pt": "[Ficaste] em casa no fim de semana?", "en": "Did you stay at home at the weekend?"},
+      {"p": "ele",  "pt": "O café [ficou] frio.", "en": "The coffee went cold."},
+      {"p": "nos",  "pt": "[Ficámos] três dias em Évora.", "en": "We stayed three days in Évora."}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "Quando chovia, [ficava] em casa.", "en": "When it rained, I used to stay at home."},
+      {"p": "tu",   "pt": "Tu [ficavas] sempre até tarde no trabalho.", "en": "You always used to stay late at work."},
+      {"p": "ele",  "pt": "A escola [ficava] longe de casa.", "en": "The school was far from home."},
+      {"p": "nos",  "pt": "Nós [ficávamos] em casa dos avós no verão.", "en": "We used to stay at our grandparents' in the summer."}
+    ],
+    "futuro": [
+      {"p": "eu",   "pt": "[Ficarei] em Lisboa até sexta-feira.", "en": "I will stay in Lisbon until Friday."},
+      {"p": "tu",   "pt": "[Ficarás] surpreendido.", "en": "You'll be surprised."},
+      {"p": "ele",  "pt": "O restaurante [ficará] fechado em agosto.", "en": "The restaurant will be closed in August."},
+      {"p": "eles", "pt": "Eles [ficarão] connosco uma semana.", "en": "They will stay with us for a week."}
+    ],
+    "condicional": [
+      {"p": "eu",   "pt": "Eu [ficaria] mais tempo, mas tenho de ir.", "en": "I would stay longer, but I have to go."},
+      {"p": "tu",   "pt": "[Ficarias] com o gato este fim de semana?", "en": "Would you look after the cat this weekend?"},
+      {"p": "ele",  "pt": "Esse vestido [ficaria] bem em ti.", "en": "That dress would look good on you."},
+      {"p": "nos",  "pt": "Nós [ficaríamos] felizes com a vossa visita.", "en": "We would be happy to have you visit."}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "Where is the bathroom?", "pt": "Onde fica a casa de banho?"},
+      {"en": "I'm staying at home today.", "pt": "Hoje fico em casa."},
+      {"en": "I'll take this one.", "pt": "Fico com este."}
+    ],
+    "perfeito": [
+      {"en": "I was very happy.", "pt": "Fiquei muito contente."},
+      {"en": "We stayed in a small hotel.", "pt": "Ficámos num hotel pequeno."},
+      {"en": "He got angry.", "pt": "Ele ficou zangado."}
+    ],
+    "imperfeito": [
+      {"en": "We used to stay at my aunt's house.", "pt": "Ficávamos em casa da minha tia."},
+      {"en": "The house was near the beach.", "pt": "A casa ficava perto da praia."},
+      {"en": "I always got nervous.", "pt": "Ficava sempre nervoso."}
+    ],
+    "futuro": [
+      {"en": "I'm going to stay here.", "pt": "Vou ficar aqui."},
+      {"en": "You're going to be tired.", "pt": "Vais ficar cansado."},
+      {"en": "We're going to stay a week.", "pt": "Vamos ficar uma semana."}
+    ],
+    "condicional": [
+      {"en": "I would stay longer.", "pt": "Ficaria mais tempo."},
+      {"en": "That would look good.", "pt": "Isso ficaria bem."},
+      {"en": "Would you stay with us?", "pt": "Ficarias connosco?"}
+    ]
+  },
+  "notes": {
+    "presente": "Use ficar to ask where a place is: Onde fica o museu? (fixed location). For people and things that move, use estar: Onde está o Pedro? Ficar com = to keep / to take: Fico com este.",
+    "perfeito": "Ficar + adjective = to become / to end up: Fiquei triste (I got sad), Ficou frio (It went cold). Spelling: fiquei (c becomes qu before e). EP accent: ficámos.",
+    "imperfeito": "Ficava describes where places were and past habits: A escola ficava longe.",
+    "futuro": "In speech: vou ficar, vamos ficar. Ficar de + infinitive = to agree to / to promise to: Ele ficou de me ligar (He said he'd call me)."
+  },
+  "patterns": [
+    {"pt": "ficar em casa", "en": "to stay at home"},
+    {"pt": "ficar com", "en": "to keep / to take"},
+    {"pt": "ficar + adjetivo", "en": "to become / to get (ficar cansado)"},
+    {"pt": "ficar bem a alguém", "en": "to suit someone"},
+    {"pt": "ficar de + infinitivo", "en": "to agree / promise to do"}
+  ],
+  "compare": [
+    {"verb": "estar", "en": "to be (temporary)", "ex": "Estou em casa. Hoje fico em casa o dia todo."},
+    {"verb": "tornar-se", "en": "to become (gradually, lasting)", "ex": "Ele ficou contente. / Ele tornou-se famoso."}
+  ],
+  "recap": "Gosto tanto de Lisboa que vou ficar! (I like Lisbon so much that I'm going to stay!)"
+},
+{
+  "n": 14,
+  "inf": "dizer",
+  "en": "to say",
+  "regular": false,
+  "group": "er",
+  "intro": "Dizer means to say or to tell. It's irregular (digo, disse, direi) and it's the verb for reporting what someone said: Ele disse que vinha.",
+  "quick": [
+    {"pt": "Como se diz...?", "en": "How do you say...?"},
+    {"pt": "Diz-me.", "en": "Tell me."},
+    {"pt": "O que disseste?", "en": "What did you say?"},
+    {"pt": "Quer dizer...", "en": "I mean... / That is..."}
+  ],
+  "conj": {
+    "presente":    {"eu": "digo",   "tu": "dizes",     "ele": "diz",    "nos": "dizemos",   "voces": "dizem",     "eles": "dizem"},
+    "perfeito":    {"eu": "disse",  "tu": "disseste",  "ele": "disse",  "nos": "dissemos",  "voces": "disseram",  "eles": "disseram"},
+    "imperfeito":  {"eu": "dizia",  "tu": "dizias",    "ele": "dizia",  "nos": "dizíamos",  "voces": "diziam",    "eles": "diziam"},
+    "futuro":      {"eu": "direi",  "tu": "dirás",     "ele": "dirá",   "nos": "diremos",   "voces": "dirão",     "eles": "dirão"},
+    "condicional": {"eu": "diria",  "tu": "dirias",    "ele": "diria",  "nos": "diríamos",  "voces": "diriam",    "eles": "diriam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",   "pt": "Eu [digo] sempre a verdade.", "en": "I always tell the truth."},
+      {"p": "tu",   "pt": "O que [dizes] disto?", "en": "What do you say to this?"},
+      {"p": "ele",  "pt": "Como se [diz] 'thank you' em português?", "en": "How do you say 'thank you' in Portuguese?"},
+      {"p": "nos",  "pt": "Em Portugal [dizemos] 'pequeno-almoço'.", "en": "In Portugal we say 'pequeno-almoço' (breakfast)."},
+      {"p": "eles", "pt": "Eles [dizem] que vai chover.", "en": "They say it's going to rain."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "[Disse] que chegava tarde.", "en": "I said I would be late."},
+      {"p": "tu",   "pt": "O que [disseste]?", "en": "What did you say?"},
+      {"p": "ele",  "pt": "Ela [disse]-me o nome dela.", "en": "She told me her name."},
+      {"p": "eles", "pt": "Os médicos [disseram] que está tudo bem.", "en": "The doctors said everything is fine."}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "Eu [dizia] sempre que sim.", "en": "I always used to say yes."},
+      {"p": "ele",  "pt": "A minha avó [dizia] que tempo é dinheiro.", "en": "My grandmother used to say that time is money."},
+      {"p": "nos",  "pt": "Nós [dizíamos] bom dia a toda a gente.", "en": "We used to say good morning to everyone."},
+      {"p": "eles", "pt": "O que é que eles [diziam]?", "en": "What were they saying?"}
+    ],
+    "futuro": [
+      {"p": "eu",   "pt": "Amanhã [direi] tudo.", "en": "Tomorrow I'll tell everything."},
+      {"p": "tu",   "pt": "[Dirás] a verdade?", "en": "Will you tell the truth?"},
+      {"p": "ele",  "pt": "Só o tempo [dirá].", "en": "Only time will tell."},
+      {"p": "eles", "pt": "Eles [dirão] que não sabiam.", "en": "They'll say they didn't know."}
+    ],
+    "condicional": [
+      {"p": "eu",   "pt": "Eu não [diria] isso.", "en": "I wouldn't say that."},
+      {"p": "tu",   "pt": "O que [dirias] ao teu chefe?", "en": "What would you say to your boss?"},
+      {"p": "ele",  "pt": "Quem [diria]!", "en": "Who would have thought!"},
+      {"p": "nos",  "pt": "Nós [diríamos] que sim.", "en": "We would say yes."}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "How do you say 'car' in Portuguese?", "pt": "Como se diz 'car' em português?"},
+      {"en": "Tell me the truth.", "pt": "Diz-me a verdade."},
+      {"en": "They say it's going to rain.", "pt": "Dizem que vai chover."}
+    ],
+    "perfeito": [
+      {"en": "What did you say?", "pt": "O que disseste?"},
+      {"en": "He told me he was tired.", "pt": "Ele disse-me que estava cansado."},
+      {"en": "I didn't say anything.", "pt": "Não disse nada."}
+    ],
+    "imperfeito": [
+      {"en": "My mother always said that.", "pt": "A minha mãe dizia sempre isso."},
+      {"en": "What were you saying?", "pt": "O que estavas a dizer?"},
+      {"en": "We used to say hello to everyone.", "pt": "Dizíamos olá a toda a gente."}
+    ],
+    "futuro": [
+      {"en": "I'm going to tell him tomorrow.", "pt": "Vou dizer-lhe amanhã."},
+      {"en": "Time will tell.", "pt": "O tempo dirá."},
+      {"en": "What are you going to say?", "pt": "O que vais dizer?"}
+    ],
+    "condicional": [
+      {"en": "I wouldn't say that.", "pt": "Eu não diria isso."},
+      {"en": "Who would have thought!", "pt": "Quem diria!"},
+      {"en": "What would you say?", "pt": "O que dirias?"}
+    ]
+  },
+  "notes": {
+    "presente": "Dizer = to say / to tell (the content); falar = to speak / to talk (the activity). Diz-me (tell me): in affirmative sentences the pronoun goes after the verb in EP.",
+    "perfeito": "Disse is both eu and ele/ela. In reported speech the next verb often goes into the imperfeito: Ele disse que estava cansado.",
+    "imperfeito": "Dizia = used to say. For 'was saying' EP prefers estar a: O que estavas a dizer?",
+    "futuro": "Short stem dir-: direi, diria. In speech: vou dizer. Quem diria! = Who would have thought!"
+  },
+  "patterns": [
+    {"pt": "dizer que", "en": "to say that"},
+    {"pt": "dizer a alguém", "en": "to tell someone"},
+    {"pt": "como se diz...?", "en": "how do you say...?"},
+    {"pt": "quer dizer", "en": "I mean / that is"},
+    {"pt": "dizer olá / adeus", "en": "to say hello / goodbye"}
+  ],
+  "compare": [
+    {"verb": "falar", "en": "to speak / to talk", "ex": "Ele falou muito, mas não disse nada."},
+    {"verb": "contar", "en": "to tell (a story) / to count", "ex": "Conta-me o que aconteceu."}
+  ],
+  "recap": "Diz-me o que pensas, e eu digo-te o que penso. (Tell me what you think, and I'll tell you what I think.)"
+},
+{
+  "n": 15,
+  "inf": "falar",
+  "en": "to speak",
+  "regular": true,
+  "group": "ar",
+  "intro": "Falar means to speak or to talk. It's the model regular -ar verb, so learning it well gives you the pattern for hundreds of others. Falar com = to talk to someone; falar de / sobre = to talk about.",
+  "quick": [
+    {"pt": "Fala inglês?", "en": "Do you speak English? (formal)"},
+    {"pt": "Fala mais devagar, por favor.", "en": "Speak more slowly, please."},
+    {"pt": "Falamos depois.", "en": "Talk to you later."},
+    {"pt": "Estou a falar a sério.", "en": "I'm serious."}
+  ],
+  "conj": {
+    "presente":    {"eu": "falo",     "tu": "falas",     "ele": "fala",     "nos": "falamos",     "voces": "falam",     "eles": "falam"},
+    "perfeito":    {"eu": "falei",    "tu": "falaste",   "ele": "falou",    "nos": "falámos",     "voces": "falaram",   "eles": "falaram"},
+    "imperfeito":  {"eu": "falava",   "tu": "falavas",   "ele": "falava",   "nos": "falávamos",   "voces": "falavam",   "eles": "falavam"},
+    "futuro":      {"eu": "falarei",  "tu": "falarás",   "ele": "falará",   "nos": "falaremos",   "voces": "falarão",   "eles": "falarão"},
+    "condicional": {"eu": "falaria",  "tu": "falarias",  "ele": "falaria",  "nos": "falaríamos",  "voces": "falariam",  "eles": "falariam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",   "pt": "[Falo] inglês e um pouco de português.", "en": "I speak English and a little Portuguese."},
+      {"p": "tu",   "pt": "Tu [falas] muito depressa!", "en": "You speak very fast!"},
+      {"p": "ele",  "pt": "O senhor [fala] inglês?", "en": "Do you speak English, sir?"},
+      {"p": "nos",  "pt": "[Falamos] depois, está bem?", "en": "We'll talk later, OK?"},
+      {"p": "eles", "pt": "Eles [falam] sempre de futebol.", "en": "They always talk about football."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "Ontem [falei] com o meu chefe.", "en": "Yesterday I spoke to my boss."},
+      {"p": "tu",   "pt": "Já [falaste] com a Maria?", "en": "Have you talked to Maria yet?"},
+      {"p": "ele",  "pt": "Ele não [falou] comigo.", "en": "He didn't talk to me."},
+      {"p": "nos",  "pt": "[Falámos] durante horas.", "en": "We talked for hours."}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "Em criança, [falava] dinamarquês em casa.", "en": "As a child, I spoke Danish at home."},
+      {"p": "tu",   "pt": "Com quem [falavas] ao telefone?", "en": "Who were you talking to on the phone?"},
+      {"p": "nos",  "pt": "Nós [falávamos] sobre o futuro.", "en": "We used to talk about the future."},
+      {"p": "eles", "pt": "Eles [falavam] todos ao mesmo tempo.", "en": "They were all talking at the same time."}
+    ],
+    "futuro": [
+      {"p": "eu",   "pt": "[Falarei] com ele amanhã.", "en": "I will talk to him tomorrow."},
+      {"p": "tu",   "pt": "Daqui a um ano [falarás] português muito bem.", "en": "In a year you'll speak Portuguese very well."},
+      {"p": "ele",  "pt": "O ministro [falará] na televisão.", "en": "The minister will speak on television."},
+      {"p": "nos",  "pt": "[Falaremos] disso mais tarde.", "en": "We'll talk about that later."}
+    ],
+    "condicional": [
+      {"p": "eu",   "pt": "Eu [falaria] com ela, mas tenho vergonha.", "en": "I would talk to her, but I'm shy."},
+      {"p": "tu",   "pt": "[Falarias] com o professor por mim?", "en": "Would you talk to the teacher for me?"},
+      {"p": "ele",  "pt": "Ele [falaria] melhor se praticasse mais.", "en": "He would speak better if he practised more."},
+      {"p": "eles", "pt": "Eles nunca [falariam] assim.", "en": "They would never talk like that."}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "Do you speak English?", "pt": "Falas inglês?"},
+      {"en": "I'm talking to my mother.", "pt": "Estou a falar com a minha mãe."},
+      {"en": "We'll talk later.", "pt": "Falamos depois."}
+    ],
+    "perfeito": [
+      {"en": "I spoke to the doctor.", "pt": "Falei com o médico."},
+      {"en": "We talked about the trip.", "pt": "Falámos sobre a viagem."},
+      {"en": "Did you talk to her?", "pt": "Falaste com ela?"}
+    ],
+    "imperfeito": [
+      {"en": "We used to speak English at home.", "pt": "Falávamos inglês em casa."},
+      {"en": "Who were you talking to?", "pt": "Com quem estavas a falar?"},
+      {"en": "She talked a lot.", "pt": "Ela falava muito."}
+    ],
+    "futuro": [
+      {"en": "I'm going to talk to him.", "pt": "Vou falar com ele."},
+      {"en": "We're going to talk about that tomorrow.", "pt": "Vamos falar disso amanhã."},
+      {"en": "Are you going to speak Portuguese?", "pt": "Vais falar português?"}
+    ],
+    "condicional": [
+      {"en": "I would speak to the manager.", "pt": "Eu falaria com o gerente."},
+      {"en": "Would you talk to him?", "pt": "Falarias com ele?"},
+      {"en": "We would speak more slowly.", "pt": "Falaríamos mais devagar."}
+    ]
+  },
+  "notes": {
+    "presente": "Falar com = to talk to: Falo com a minha mãe. Falar de / sobre = to talk about. No article with languages: Falo português. Estou a falar = I'm speaking (Brazil: estou falando).",
+    "perfeito": "EP spelling: falámos (we spoke) vs falamos (we speak). Brazil writes falamos for both.",
+    "imperfeito": "Falava = used to speak / was speaking (background). Falei = spoke (one completed event).",
+    "futuro": "In speech: vou falar, vamos falar. Falamos! (present tense) is a common goodbye: Talk soon!"
+  },
+  "patterns": [
+    {"pt": "falar com", "en": "to talk to"},
+    {"pt": "falar de / sobre", "en": "to talk about"},
+    {"pt": "falar português", "en": "to speak Portuguese"},
+    {"pt": "falar a sério", "en": "to be serious"},
+    {"pt": "falar ao telefone", "en": "to talk on the phone"},
+    {"pt": "falar alto / baixo", "en": "to speak loudly / quietly"}
+  ],
+  "compare": [
+    {"verb": "dizer", "en": "to say / to tell", "ex": "Ele falou muito, mas não disse nada."},
+    {"verb": "conversar", "en": "to chat / to have a conversation", "ex": "Gostamos de conversar ao jantar."}
+  ],
+  "recap": "Falo pouco português, mas falo todos os dias! (I speak little Portuguese, but I speak it every day!)"
+},
+{
+  "n": 16,
+  "inf": "dar",
+  "en": "to give",
+  "regular": false,
+  "group": "ar",
+  "intro": "Dar means to give. It's irregular in the presente (dou, dás, dá, dão) and the perfeito (dei, deu), and appears in many expressions: dar um passeio, dar jeito, não dá.",
+  "quick": [
+    {"pt": "Dá-me isso.", "en": "Give me that."},
+    {"pt": "Não dá.", "en": "It's not possible. / It won't work."},
+    {"pt": "Dá jeito?", "en": "Is that convenient?"},
+    {"pt": "Dou-te uma ajuda.", "en": "I'll give you a hand."}
+  ],
+  "conj": {
+    "presente":    {"eu": "dou",    "tu": "dás",     "ele": "dá",     "nos": "damos",    "voces": "dão",     "eles": "dão"},
+    "perfeito":    {"eu": "dei",    "tu": "deste",   "ele": "deu",    "nos": "demos",    "voces": "deram",   "eles": "deram"},
+    "imperfeito":  {"eu": "dava",   "tu": "davas",   "ele": "dava",   "nos": "dávamos",  "voces": "davam",   "eles": "davam"},
+    "futuro":      {"eu": "darei",  "tu": "darás",   "ele": "dará",   "nos": "daremos",  "voces": "darão",   "eles": "darão"},
+    "condicional": {"eu": "daria",  "tu": "darias",  "ele": "daria",  "nos": "daríamos", "voces": "dariam",  "eles": "dariam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",   "pt": "[Dou] aulas de inglês.", "en": "I teach English classes."},
+      {"p": "tu",   "pt": "[Dás]-me o teu número?", "en": "Will you give me your number?"},
+      {"p": "ele",  "pt": "A janela [dá] para o mar.", "en": "The window looks out onto the sea."},
+      {"p": "nos",  "pt": "[Damos] um passeio todos os domingos.", "en": "We go for a walk every Sunday."},
+      {"p": "eles", "pt": "Os vizinhos [dão] uma festa hoje.", "en": "The neighbours are throwing a party today."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "[Dei] um presente à minha mãe.", "en": "I gave my mother a present."},
+      {"p": "tu",   "pt": "[Deste] comida ao gato?", "en": "Did you feed the cat?"},
+      {"p": "ele",  "pt": "O professor [deu]-nos muitos trabalhos.", "en": "The teacher gave us a lot of homework."},
+      {"p": "nos",  "pt": "Ontem [demos] um passeio pela praia.", "en": "Yesterday we went for a walk along the beach."}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "Antes [dava] aulas numa escola.", "en": "I used to teach at a school."},
+      {"p": "ele",  "pt": "O meu avô [dava]-me sempre chocolates.", "en": "My grandfather always used to give me chocolates."},
+      {"p": "nos",  "pt": "[Dávamos] longos passeios no campo.", "en": "We used to go for long walks in the countryside."},
+      {"p": "eles", "pt": "Eles [davam] festas todos os sábados.", "en": "They used to throw parties every Saturday."}
+    ],
+    "futuro": [
+      {"p": "eu",    "pt": "[Darei] a resposta amanhã.", "en": "I'll give the answer tomorrow."},
+      {"p": "tu",    "pt": "[Darás] notícias?", "en": "Will you keep in touch?"},
+      {"p": "ele",   "pt": "O banco [dará] uma resposta na próxima semana.", "en": "The bank will give an answer next week."},
+      {"p": "voces", "pt": "Vocês [darão] o vosso melhor.", "en": "You will do your best."}
+    ],
+    "condicional": [
+      {"p": "eu",   "pt": "Eu [daria] tudo por umas férias.", "en": "I would give anything for a holiday."},
+      {"p": "tu",   "pt": "[Darias] boleia à Ana?", "en": "Would you give Ana a lift?"},
+      {"p": "ele",  "pt": "Isso [daria] muito trabalho.", "en": "That would be a lot of work."},
+      {"p": "nos",  "pt": "Nós [daríamos] uma ajuda, se pudéssemos.", "en": "We would give a hand, if we could."}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "Can you give me the salt?", "pt": "Dás-me o sal?"},
+      {"en": "It's not possible today.", "pt": "Hoje não dá."},
+      {"en": "The room looks onto the garden.", "pt": "O quarto dá para o jardim."}
+    ],
+    "perfeito": [
+      {"en": "I gave him a book.", "pt": "Dei-lhe um livro."},
+      {"en": "We went for a walk.", "pt": "Demos um passeio."},
+      {"en": "She gave me her number.", "pt": "Ela deu-me o número dela."}
+    ],
+    "imperfeito": [
+      {"en": "My grandmother always gave me sweets.", "pt": "A minha avó dava-me sempre doces."},
+      {"en": "I used to teach in Porto.", "pt": "Dava aulas no Porto."},
+      {"en": "We used to go for walks.", "pt": "Dávamos passeios."}
+    ],
+    "futuro": [
+      {"en": "I'm going to give you a present.", "pt": "Vou dar-te um presente."},
+      {"en": "It's going to be a lot of work.", "pt": "Vai dar muito trabalho."},
+      {"en": "We're going to throw a party.", "pt": "Vamos dar uma festa."}
+    ],
+    "condicional": [
+      {"en": "I would give anything for a coffee.", "pt": "Daria tudo por um café."},
+      {"en": "Would you give Ana a hand?", "pt": "Darias uma ajuda à Ana?"},
+      {"en": "That would be handy.", "pt": "Isso daria jeito."}
+    ]
+  },
+  "notes": {
+    "presente": "Não dá = it's not possible / it doesn't work (very common). Dar jeito = to be handy or convenient. Dar para = to look onto (A janela dá para o mar) or to be enough (Dá para dois).",
+    "perfeito": "Dar takes -er style endings in the perfeito: dei, deste, deu, demos, deram. Eu dei vs ele deu.",
+    "imperfeito": "In Portugal the imperfeito is also used for polite wishes: Dava-me jeito uma ajuda (A bit of help would be handy).",
+    "futuro": "In speech: vou dar, vai dar. Vai dar certo = It's going to work out."
+  },
+  "patterns": [
+    {"pt": "dar algo a alguém", "en": "to give something to someone"},
+    {"pt": "dar um passeio", "en": "to go for a walk"},
+    {"pt": "dar jeito", "en": "to be handy / convenient"},
+    {"pt": "não dá", "en": "it's not possible"},
+    {"pt": "dar para", "en": "to look onto / to be enough for"},
+    {"pt": "dar boleia", "en": "to give a lift (EP)"}
+  ],
+  "compare": [
+    {"verb": "oferecer", "en": "to give (as a gift) / to offer", "ex": "Ofereci-lhe flores no aniversário."},
+    {"verb": "receber", "en": "to receive", "ex": "Dei-lhe um presente e ele recebeu-o com alegria."}
+  ],
+  "recap": "Dá-me um café, se faz favor. (A coffee, please.)"
+},
+{
+  "n": 17,
+  "inf": "receber",
+  "en": "to receive",
+  "regular": true,
+  "group": "er",
+  "intro": "Receber means to receive or to get (a letter, a message, a salary), and also to welcome guests. It's a regular -er verb.",
+  "quick": [
+    {"pt": "Recebeste a mensagem?", "en": "Did you get the message?"},
+    {"pt": "Recebo ao fim do mês.", "en": "I get paid at the end of the month."},
+    {"pt": "Recebemos visitas.", "en": "We're having guests."},
+    {"pt": "Ainda não recebi.", "en": "I haven't received it yet."}
+  ],
+  "conj": {
+    "presente":    {"eu": "recebo",     "tu": "recebes",     "ele": "recebe",     "nos": "recebemos",     "voces": "recebem",     "eles": "recebem"},
+    "perfeito":    {"eu": "recebi",     "tu": "recebeste",   "ele": "recebeu",    "nos": "recebemos",     "voces": "receberam",   "eles": "receberam"},
+    "imperfeito":  {"eu": "recebia",    "tu": "recebias",    "ele": "recebia",    "nos": "recebíamos",    "voces": "recebiam",    "eles": "recebiam"},
+    "futuro":      {"eu": "receberei",  "tu": "receberás",   "ele": "receberá",   "nos": "receberemos",   "voces": "receberão",   "eles": "receberão"},
+    "condicional": {"eu": "receberia",  "tu": "receberias",  "ele": "receberia",  "nos": "receberíamos",  "voces": "receberiam",  "eles": "receberiam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",   "pt": "[Recebo] muitos e-mails por dia.", "en": "I get a lot of emails a day."},
+      {"p": "tu",   "pt": "Quanto [recebes] por mês?", "en": "How much do you earn a month?"},
+      {"p": "ele",  "pt": "Ela [recebe] os clientes com um sorriso.", "en": "She welcomes customers with a smile."},
+      {"p": "nos",  "pt": "[Recebemos] amigos ao sábado.", "en": "We have friends over on Saturdays."},
+      {"p": "eles", "pt": "Os alunos [recebem] as notas amanhã.", "en": "The students get their marks tomorrow."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "[Recebi] uma carta da minha avó.", "en": "I received a letter from my grandmother."},
+      {"p": "tu",   "pt": "[Recebeste] a minha mensagem?", "en": "Did you get my message?"},
+      {"p": "ele",  "pt": "Ele [recebeu] um prémio.", "en": "He received a prize."},
+      {"p": "eles", "pt": "Eles [receberam] uma boa notícia.", "en": "They got some good news."}
+    ],
+    "imperfeito": [
+      {"p": "eu",    "pt": "Em criança, [recebia] muitos presentes no Natal.", "en": "As a child, I used to get lots of presents at Christmas."},
+      {"p": "ele",   "pt": "O hotel [recebia] muitos turistas.", "en": "The hotel used to get a lot of tourists."},
+      {"p": "nos",   "pt": "[Recebíamos] cartas todas as semanas.", "en": "We used to get letters every week."},
+      {"p": "voces", "pt": "Vocês [recebiam] o jornal em casa?", "en": "Did you use to get the newspaper at home?"}
+    ],
+    "futuro": [
+      {"p": "eu",   "pt": "[Receberei] o salário na sexta-feira.", "en": "I will get my salary on Friday."},
+      {"p": "tu",   "pt": "[Receberás] uma resposta em breve.", "en": "You will get an answer soon."},
+      {"p": "ele",  "pt": "O vencedor [receberá] mil euros.", "en": "The winner will receive a thousand euros."},
+      {"p": "nos",  "pt": "[Receberemos] os convidados às oito.", "en": "We will welcome the guests at eight."}
+    ],
+    "condicional": [
+      {"p": "eu",   "pt": "Eu [receberia] mais, se trabalhasse ao fim de semana.", "en": "I would earn more if I worked at weekends."},
+      {"p": "tu",   "pt": "[Receberias] os meus pais em tua casa?", "en": "Would you have my parents at your house?"},
+      {"p": "ele",  "pt": "Ele nunca [receberia] dinheiro por isso.", "en": "He would never accept money for that."},
+      {"p": "eles", "pt": "Eles disseram que [receberiam] a encomenda hoje.", "en": "They said they would get the parcel today."}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "I get a lot of messages.", "pt": "Recebo muitas mensagens."},
+      {"en": "We're having guests on Sunday.", "pt": "Recebemos visitas no domingo."},
+      {"en": "Do you get the newspaper?", "pt": "Recebes o jornal?"}
+    ],
+    "perfeito": [
+      {"en": "Did you get my email?", "pt": "Recebeste o meu e-mail?"},
+      {"en": "I haven't received the parcel yet.", "pt": "Ainda não recebi a encomenda."},
+      {"en": "She received a present.", "pt": "Ela recebeu um presente."}
+    ],
+    "imperfeito": [
+      {"en": "We used to have a lot of visitors.", "pt": "Recebíamos muitas visitas."},
+      {"en": "He earned very little.", "pt": "Ele recebia muito pouco."},
+      {"en": "I used to get letters from my grandmother.", "pt": "Recebia cartas da minha avó."}
+    ],
+    "futuro": [
+      {"en": "You're going to get a message.", "pt": "Vais receber uma mensagem."},
+      {"en": "We're going to welcome the guests.", "pt": "Vamos receber os convidados."},
+      {"en": "When am I going to get the money?", "pt": "Quando vou receber o dinheiro?"}
+    ],
+    "condicional": [
+      {"en": "I would receive more money.", "pt": "Receberia mais dinheiro."},
+      {"en": "Would they get the letter in time?", "pt": "Eles receberiam a carta a tempo?"},
+      {"en": "We would gladly have your friends over.", "pt": "Receberíamos os teus amigos com prazer."}
+    ]
+  },
+  "notes": {
+    "presente": "Receber also means to get paid: Recebo ao fim do mês. Receber visitas = to have guests over.",
+    "perfeito": "Recebemos is both 'we receive' and 'we received'. Time words make it clear: Ontem recebemos uma carta.",
+    "imperfeito": "Recebia = used to receive / was getting regularly. Recebi = received (once).",
+    "futuro": "In speech: vou receber. Receberá sounds formal, as in official letters."
+  },
+  "patterns": [
+    {"pt": "receber uma mensagem / carta", "en": "to get a message / letter"},
+    {"pt": "receber visitas", "en": "to have guests"},
+    {"pt": "receber o salário", "en": "to get paid"},
+    {"pt": "receber bem alguém", "en": "to make someone welcome"},
+    {"pt": "receber uma notícia", "en": "to get some news"}
+  ],
+  "compare": [
+    {"verb": "ganhar", "en": "to earn / to win", "ex": "Ganho pouco, mas recebo sempre a horas."}
+  ],
+  "recap": "Recebi a tua mensagem e fiquei muito contente! (I got your message and I was very happy!)"
+},
+{
+  "n": 18,
+  "inf": "ver",
+  "en": "to see / to watch",
+  "regular": false,
+  "group": "er",
+  "intro": "Ver means to see or to watch (television, a film). It's irregular: vejo, vês, vê, veem in the presente and vi, viu in the perfeito.",
+  "quick": [
+    {"pt": "Vês?", "en": "You see?"},
+    {"pt": "Vamos ver.", "en": "Let's see. / We'll see."},
+    {"pt": "Já viste?", "en": "Have you seen it?"},
+    {"pt": "Estou só a ver, obrigado.", "en": "I'm just looking, thanks."}
+  ],
+  "conj": {
+    "presente":    {"eu": "vejo",   "tu": "vês",     "ele": "vê",     "nos": "vemos",    "voces": "veem",    "eles": "veem"},
+    "perfeito":    {"eu": "vi",     "tu": "viste",   "ele": "viu",    "nos": "vimos",    "voces": "viram",   "eles": "viram"},
+    "imperfeito":  {"eu": "via",    "tu": "vias",    "ele": "via",    "nos": "víamos",   "voces": "viam",    "eles": "viam"},
+    "futuro":      {"eu": "verei",  "tu": "verás",   "ele": "verá",   "nos": "veremos",  "voces": "verão",   "eles": "verão"},
+    "condicional": {"eu": "veria",  "tu": "verias",  "ele": "veria",  "nos": "veríamos", "voces": "veriam",  "eles": "veriam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",   "pt": "Não [vejo] nada sem óculos.", "en": "I can't see anything without glasses."},
+      {"p": "tu",   "pt": "[Vês] aquele edifício?", "en": "Do you see that building?"},
+      {"p": "ele",  "pt": "Ela [vê] televisão todas as noites.", "en": "She watches television every night."},
+      {"p": "nos",  "pt": "Daqui [vemos] o mar.", "en": "From here we can see the sea."},
+      {"p": "eles", "pt": "Eles [veem] muitos filmes portugueses.", "en": "They watch a lot of Portuguese films."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "Ontem [vi] um filme ótimo.", "en": "Yesterday I saw a great film."},
+      {"p": "tu",   "pt": "[Viste] o meu telemóvel?", "en": "Have you seen my phone?"},
+      {"p": "ele",  "pt": "Ninguém [viu] o acidente.", "en": "Nobody saw the accident."},
+      {"p": "nos",  "pt": "[Vimos] golfinhos no rio Sado.", "en": "We saw dolphins in the Sado river."}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "Em criança, [via] desenhos animados todas as manhãs.", "en": "As a child, I watched cartoons every morning."},
+      {"p": "tu",   "pt": "[Vias] o mar do teu quarto?", "en": "Could you see the sea from your room?"},
+      {"p": "nos",  "pt": "Nós [víamos] os avós aos domingos.", "en": "We used to see our grandparents on Sundays."},
+      {"p": "eles", "pt": "Eles [viam] os jogos no café.", "en": "They used to watch the matches at the café."}
+    ],
+    "futuro": [
+      {"p": "eu",   "pt": "[Verei] o que posso fazer.", "en": "I'll see what I can do."},
+      {"p": "tu",   "pt": "[Verás] que tenho razão.", "en": "You'll see that I'm right."},
+      {"p": "ele",  "pt": "Quem viver [verá].", "en": "Time will tell. (Whoever lives will see.)"},
+      {"p": "nos",  "pt": "Amanhã [veremos].", "en": "We'll see tomorrow."}
+    ],
+    "condicional": [
+      {"p": "eu",    "pt": "Eu [veria] esse filme outra vez.", "en": "I would watch that film again."},
+      {"p": "tu",    "pt": "[Verias] a série comigo?", "en": "Would you watch the series with me?"},
+      {"p": "ele",   "pt": "Com mais luz, ele [veria] melhor.", "en": "With more light, he would see better."},
+      {"p": "voces", "pt": "Daqui vocês [veriam] o castelo.", "en": "From here you would see the castle."}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "I can't see anything.", "pt": "Não vejo nada."},
+      {"en": "Do you see that car?", "pt": "Vês aquele carro?"},
+      {"en": "We watch the news every day.", "pt": "Vemos as notícias todos os dias."}
+    ],
+    "perfeito": [
+      {"en": "Did you see the match?", "pt": "Viste o jogo?"},
+      {"en": "I saw her yesterday.", "pt": "Vi-a ontem."},
+      {"en": "We saw a good film.", "pt": "Vimos um bom filme."}
+    ],
+    "imperfeito": [
+      {"en": "I used to watch a lot of TV.", "pt": "Via muita televisão."},
+      {"en": "We were watching the news.", "pt": "Estávamos a ver as notícias."},
+      {"en": "You could see the sea from the house.", "pt": "Via-se o mar da casa."}
+    ],
+    "futuro": [
+      {"en": "We'll see.", "pt": "Vamos ver."},
+      {"en": "I'm going to watch a film.", "pt": "Vou ver um filme."},
+      {"en": "Are you going to see your parents?", "pt": "Vais ver os teus pais?"}
+    ],
+    "condicional": [
+      {"en": "I would see that film.", "pt": "Eu veria esse filme."},
+      {"en": "Would you watch it with me?", "pt": "Verias isso comigo?"},
+      {"en": "From here we would see the sea.", "pt": "Daqui veríamos o mar."}
+    ]
+  },
+  "notes": {
+    "presente": "Ver = to see / to watch: ver televisão, ver um filme. Olhar = to look (at): olhar para. Since the 1990 spelling reform, veem has no circumflex (old spelling: vêem).",
+    "perfeito": "Vi, viste, viu, vimos, viram. Nós vimos = we saw (ver), but also we come (vir): context tells you which.",
+    "imperfeito": "Via-se = you could see / one could see: Via-se o mar da janela.",
+    "futuro": "Vamos ver (Let's see / We'll see) is far more common than veremos. Vou ver se... = I'll check whether...: Vou ver se está aberto."
+  },
+  "patterns": [
+    {"pt": "ver televisão / um filme", "en": "to watch TV / a film"},
+    {"pt": "vamos ver", "en": "let's see / we'll see"},
+    {"pt": "ver se", "en": "to check whether"},
+    {"pt": "já viste...?", "en": "have you seen...?"},
+    {"pt": "ter a ver com", "en": "to have to do with"}
+  ],
+  "compare": [
+    {"verb": "olhar", "en": "to look (at)", "ex": "Olhei para o céu, mas não vi nada."}
+  ],
+  "recap": "Vi o filme ontem e vou vê-lo outra vez! (I saw the film yesterday and I'm going to watch it again!)"
+},
+{
+  "n": 19,
+  "inf": "olhar",
+  "en": "to look",
+  "regular": true,
+  "group": "ar",
+  "intro": "Olhar means to look. It's a regular -ar verb and usually takes para: olhar para alguém (to look at someone). Olha! is also a very common way to get someone's attention.",
+  "quick": [
+    {"pt": "Olha!", "en": "Look! / Hey!"},
+    {"pt": "Olha para mim.", "en": "Look at me."},
+    {"pt": "Olha, não sei.", "en": "Look, I don't know."},
+    {"pt": "Olhe, por favor!", "en": "Excuse me! (formal)"}
+  ],
+  "conj": {
+    "presente":    {"eu": "olho",     "tu": "olhas",     "ele": "olha",     "nos": "olhamos",     "voces": "olham",     "eles": "olham"},
+    "perfeito":    {"eu": "olhei",    "tu": "olhaste",   "ele": "olhou",    "nos": "olhámos",     "voces": "olharam",   "eles": "olharam"},
+    "imperfeito":  {"eu": "olhava",   "tu": "olhavas",   "ele": "olhava",   "nos": "olhávamos",   "voces": "olhavam",   "eles": "olhavam"},
+    "futuro":      {"eu": "olharei",  "tu": "olharás",   "ele": "olhará",   "nos": "olharemos",   "voces": "olharão",   "eles": "olharão"},
+    "condicional": {"eu": "olharia",  "tu": "olharias",  "ele": "olharia",  "nos": "olharíamos",  "voces": "olhariam",  "eles": "olhariam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",   "pt": "[Olho] pela janela todas as manhãs.", "en": "I look out of the window every morning."},
+      {"p": "tu",   "pt": "Porque é que [olhas] para mim assim?", "en": "Why are you looking at me like that?"},
+      {"p": "ele",  "pt": "Ele [olha] para o relógio a toda a hora.", "en": "He keeps looking at his watch."},
+      {"p": "nos",  "pt": "[Olhamos] para o mapa.", "en": "We look at the map."},
+      {"p": "eles", "pt": "Os turistas [olham] para o castelo.", "en": "The tourists look at the castle."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "[Olhei] para o céu e vi uma estrela.", "en": "I looked at the sky and saw a star."},
+      {"p": "tu",   "pt": "[Olhaste] bem para o preço?", "en": "Did you look carefully at the price?"},
+      {"p": "ele",  "pt": "Ela [olhou] para mim e sorriu.", "en": "She looked at me and smiled."},
+      {"p": "nos",  "pt": "[Olhámos] para trás.", "en": "We looked back."}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "[Olhava] para o mar durante horas.", "en": "I used to look at the sea for hours."},
+      {"p": "ele",  "pt": "O gato [olhava] para os pássaros.", "en": "The cat was looking at the birds."},
+      {"p": "nos",  "pt": "Nós [olhávamos] para as estrelas.", "en": "We used to look at the stars."},
+      {"p": "eles", "pt": "Eles [olhavam] uns para os outros.", "en": "They were looking at each other."}
+    ],
+    "futuro": [
+      {"p": "eu",   "pt": "[Olharei] para isso amanhã.", "en": "I'll look at that tomorrow."},
+      {"p": "tu",   "pt": "[Olharás] pelas crianças?", "en": "Will you look after the children?"},
+      {"p": "nos",  "pt": "[Olharemos] para o futuro com otimismo.", "en": "We'll look to the future with optimism."},
+      {"p": "eles", "pt": "Todos [olharão] para ti.", "en": "Everyone will look at you."}
+    ],
+    "condicional": [
+      {"p": "eu",   "pt": "Eu [olharia] duas vezes antes de atravessar.", "en": "I would look twice before crossing."},
+      {"p": "tu",   "pt": "[Olharias] pelo meu gato?", "en": "Would you look after my cat?"},
+      {"p": "ele",  "pt": "Ele nunca [olharia] para o telemóvel a conduzir.", "en": "He would never look at his phone while driving."},
+      {"p": "eles", "pt": "Eles [olhariam] para nós de forma estranha.", "en": "They would look at us strangely."}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "Why are you looking at me?", "pt": "Porque é que estás a olhar para mim?"},
+      {"en": "She looks at the clock.", "pt": "Ela olha para o relógio."},
+      {"en": "Look, I don't have time.", "pt": "Olha, não tenho tempo."}
+    ],
+    "perfeito": [
+      {"en": "I looked out of the window.", "pt": "Olhei pela janela."},
+      {"en": "He looked at me.", "pt": "Ele olhou para mim."},
+      {"en": "We looked at the map.", "pt": "Olhámos para o mapa."}
+    ],
+    "imperfeito": [
+      {"en": "She was looking at the sea.", "pt": "Ela estava a olhar para o mar."},
+      {"en": "We used to look at the stars.", "pt": "Olhávamos para as estrelas."},
+      {"en": "Everyone was looking at us.", "pt": "Toda a gente olhava para nós."}
+    ],
+    "futuro": [
+      {"en": "I'm going to look at the photos.", "pt": "Vou olhar para as fotografias."},
+      {"en": "Who's going to look after the children?", "pt": "Quem vai olhar pelas crianças?"},
+      {"en": "Everyone's going to look at you.", "pt": "Todos vão olhar para ti."}
+    ],
+    "condicional": [
+      {"en": "I would look again.", "pt": "Eu olharia outra vez."},
+      {"en": "Would you look after my cat?", "pt": "Olharias pelo meu gato?"},
+      {"en": "They would look at us.", "pt": "Eles olhariam para nós."}
+    ]
+  },
+  "notes": {
+    "presente": "Olhar para = to look at. Olhar por = to look after. Olha! (tu) / Olhe! (você) start sentences like 'Look, ...' or 'Hey!'.",
+    "perfeito": "EP accent: olhámos (we looked) vs olhamos (we look).",
+    "imperfeito": "Olhava sets the scene: Ela olhava para o mar quando o telefone tocou.",
+    "futuro": "In speech: vou olhar. To 'have a look at something', Portuguese often just uses ver: Vou ver isso."
+  },
+  "patterns": [
+    {"pt": "olhar para", "en": "to look at"},
+    {"pt": "olhar por", "en": "to look after"},
+    {"pt": "olhar pela janela", "en": "to look out of the window"},
+    {"pt": "olhar à volta", "en": "to look around"},
+    {"pt": "olha! / olhe!", "en": "look! / hey! (informal / formal)"}
+  ],
+  "compare": [
+    {"verb": "ver", "en": "to see / to watch", "ex": "Olhei para o céu, mas não vi nada."},
+    {"verb": "procurar", "en": "to look for", "ex": "Estou a procurar as chaves."}
+  ],
+  "recap": "Olha para o céu: que bonito! (Look at the sky: how beautiful!)"
+},
+{
+  "n": 20,
+  "inf": "ouvir",
+  "en": "to hear / to listen",
+  "regular": false,
+  "group": "ir",
+  "intro": "Ouvir means to hear or to listen. It's irregular only in the eu form of the presente: ouço. Everything else follows the -ir pattern: ouves, ouvi, ouvia.",
+  "quick": [
+    {"pt": "Estás a ouvir?", "en": "Are you listening?"},
+    {"pt": "Não ouço nada.", "en": "I can't hear anything."},
+    {"pt": "Ouve!", "en": "Listen!"},
+    {"pt": "Ouvi dizer que...", "en": "I heard that..."}
+  ],
+  "conj": {
+    "presente":    {"eu": "ouço",     "tu": "ouves",     "ele": "ouve",     "nos": "ouvimos",     "voces": "ouvem",     "eles": "ouvem"},
+    "perfeito":    {"eu": "ouvi",     "tu": "ouviste",   "ele": "ouviu",    "nos": "ouvimos",     "voces": "ouviram",   "eles": "ouviram"},
+    "imperfeito":  {"eu": "ouvia",    "tu": "ouvias",    "ele": "ouvia",    "nos": "ouvíamos",    "voces": "ouviam",    "eles": "ouviam"},
+    "futuro":      {"eu": "ouvirei",  "tu": "ouvirás",   "ele": "ouvirá",   "nos": "ouviremos",   "voces": "ouvirão",   "eles": "ouvirão"},
+    "condicional": {"eu": "ouviria",  "tu": "ouvirias",  "ele": "ouviria",  "nos": "ouviríamos",  "voces": "ouviriam",  "eles": "ouviriam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",   "pt": "[Ouço] música no carro.", "en": "I listen to music in the car."},
+      {"p": "tu",   "pt": "[Ouves] o barulho?", "en": "Can you hear the noise?"},
+      {"p": "ele",  "pt": "O meu avô não [ouve] bem.", "en": "My grandfather doesn't hear well."},
+      {"p": "nos",  "pt": "[Ouvimos] a rádio ao pequeno-almoço.", "en": "We listen to the radio at breakfast."},
+      {"p": "eles", "pt": "Eles nunca [ouvem] os conselhos dos pais.", "en": "They never listen to their parents' advice."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "[Ouvi] um barulho estranho.", "en": "I heard a strange noise."},
+      {"p": "tu",   "pt": "[Ouviste] a notícia?", "en": "Did you hear the news?"},
+      {"p": "ele",  "pt": "Ninguém [ouviu] o telefone.", "en": "Nobody heard the phone."},
+      {"p": "eles", "pt": "Os vizinhos [ouviram] tudo.", "en": "The neighbours heard everything."}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "Em pequeno, [ouvia] fado com a minha avó.", "en": "As a child, I used to listen to fado with my grandmother."},
+      {"p": "tu",   "pt": "[Ouvias] o mar do teu quarto?", "en": "Could you hear the sea from your room?"},
+      {"p": "ele",  "pt": "Ele não [ouvia] nada com o barulho.", "en": "He couldn't hear anything with the noise."},
+      {"p": "nos",  "pt": "[Ouvíamos] os pássaros de manhã.", "en": "We used to hear the birds in the morning."}
+    ],
+    "futuro": [
+      {"p": "eu",   "pt": "[Ouvirei] com atenção.", "en": "I will listen carefully."},
+      {"p": "tu",   "pt": "Ainda [ouvirás] falar dele.", "en": "You'll hear about him one day."},
+      {"p": "ele",  "pt": "O juiz [ouvirá] as testemunhas amanhã.", "en": "The judge will hear the witnesses tomorrow."},
+      {"p": "nos",  "pt": "[Ouviremos] o concerto na rádio.", "en": "We'll listen to the concert on the radio."}
+    ],
+    "condicional": [
+      {"p": "eu",   "pt": "Eu [ouviria] esta música todos os dias.", "en": "I would listen to this song every day."},
+      {"p": "tu",   "pt": "[Ouvirias] a minha opinião?", "en": "Would you listen to my opinion?"},
+      {"p": "nos",  "pt": "Com estas janelas, não [ouviríamos] o trânsito.", "en": "With these windows, we wouldn't hear the traffic."},
+      {"p": "eles", "pt": "Lá à frente, eles [ouviriam] melhor.", "en": "At the front, they would hear better."}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "I can't hear you.", "pt": "Não te ouço."},
+      {"en": "Do you listen to the radio?", "pt": "Ouves rádio?"},
+      {"en": "Are you listening to me?", "pt": "Estás a ouvir-me?"}
+    ],
+    "perfeito": [
+      {"en": "Did you hear that?", "pt": "Ouviste aquilo?"},
+      {"en": "I heard the news on the radio.", "pt": "Ouvi a notícia na rádio."},
+      {"en": "Nobody heard anything.", "pt": "Ninguém ouviu nada."}
+    ],
+    "imperfeito": [
+      {"en": "We used to listen to fado.", "pt": "Ouvíamos fado."},
+      {"en": "I couldn't hear well.", "pt": "Não ouvia bem."},
+      {"en": "She was listening to music.", "pt": "Ela estava a ouvir música."}
+    ],
+    "futuro": [
+      {"en": "I'm going to listen to the new album.", "pt": "Vou ouvir o novo álbum."},
+      {"en": "You're going to hear about it.", "pt": "Vais ouvir falar disso."},
+      {"en": "We're going to listen to the radio.", "pt": "Vamos ouvir rádio."}
+    ],
+    "condicional": [
+      {"en": "I would listen to that.", "pt": "Eu ouviria isso."},
+      {"en": "Would you listen to what I have to say?", "pt": "Ouvirias o que tenho a dizer?"},
+      {"en": "We would hear the sea.", "pt": "Ouviríamos o mar."}
+    ]
+  },
+  "notes": {
+    "presente": "Only eu is irregular: ouço (you'll also hear oiço, a common EP variant). Ouvir covers both 'hear' and 'listen'; escutar is 'to listen carefully'.",
+    "perfeito": "Ouvi dizer que... = I heard that... Ouvimos is the same in the presente and perfeito.",
+    "imperfeito": "Não ouvia nada = I couldn't hear anything (for a while). Não ouvi = I didn't hear (at one moment).",
+    "futuro": "Ouvir falar de = to hear about: Nunca ouvi falar disso (I've never heard of that). In speech: vou ouvir."
+  },
+  "patterns": [
+    {"pt": "ouvir música / rádio", "en": "to listen to music / the radio"},
+    {"pt": "ouvir dizer que", "en": "to hear (it said) that"},
+    {"pt": "ouvir falar de", "en": "to hear about / of"},
+    {"pt": "ouvir com atenção", "en": "to listen carefully"},
+    {"pt": "estar a ouvir", "en": "to be listening"}
+  ],
+  "compare": [
+    {"verb": "escutar", "en": "to listen (attentively)", "ex": "Ouvi um barulho e fiquei a escutar."}
+  ],
+  "recap": "Ouço fado e ouço Portugal. (I listen to fado and I hear Portugal.)"
+},
+{"n": 21, "inf": "falar", "en": "to speak / to talk", "dup": 15},
+{
+  "n": 22,
+  "inf": "saber",
+  "en": "to know (something)",
+  "regular": false,
+  "group": "er",
+  "intro": "Saber means to know a fact or a piece of information, and to know how to do something (sei nadar). It's irregular (sei, soube). For knowing people or places, use conhecer.",
+  "quick": [
+    {"pt": "Não sei.", "en": "I don't know."},
+    {"pt": "Sabes onde fica?", "en": "Do you know where it is?"},
+    {"pt": "Sei lá!", "en": "No idea! / Who knows!"},
+    {"pt": "Sabe bem!", "en": "That tastes / feels good!"}
+  ],
+  "conj": {
+    "presente":    {"eu": "sei",     "tu": "sabes",      "ele": "sabe",     "nos": "sabemos",    "voces": "sabem",      "eles": "sabem"},
+    "perfeito":    {"eu": "soube",   "tu": "soubeste",   "ele": "soube",    "nos": "soubemos",   "voces": "souberam",   "eles": "souberam"},
+    "imperfeito":  {"eu": "sabia",   "tu": "sabias",     "ele": "sabia",    "nos": "sabíamos",   "voces": "sabiam",     "eles": "sabiam"},
+    "futuro":      {"eu": "saberei", "tu": "saberás",    "ele": "saberá",   "nos": "saberemos",  "voces": "saberão",    "eles": "saberão"},
+    "condicional": {"eu": "saberia", "tu": "saberias",   "ele": "saberia",  "nos": "saberíamos", "voces": "saberiam",   "eles": "saberiam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",   "pt": "Não [sei] onde estão as chaves.", "en": "I don't know where the keys are."},
+      {"p": "tu",   "pt": "[Sabes] nadar?", "en": "Can you swim?"},
+      {"p": "ele",  "pt": "Ela [sabe] falar quatro línguas.", "en": "She can speak four languages."},
+      {"p": "nos",  "pt": "Nós já [sabemos] a resposta.", "en": "We already know the answer."},
+      {"p": "eles", "pt": "Eles não [sabem] o caminho.", "en": "They don't know the way."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "[Soube] da notícia ontem.", "en": "I found out about the news yesterday."},
+      {"p": "tu",   "pt": "Como é que [soubeste]?", "en": "How did you find out?"},
+      {"p": "ele",  "pt": "Ele [soube] logo que era verdade.", "en": "He knew straight away that it was true."},
+      {"p": "nos",  "pt": "Só [soubemos] do acidente à noite.", "en": "We only heard about the accident in the evening."}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "Não [sabia] que eras português.", "en": "I didn't know you were Portuguese."},
+      {"p": "tu",   "pt": "[Sabias] que o Porto tem seis pontes?", "en": "Did you know that Porto has six bridges?"},
+      {"p": "ele",  "pt": "Ninguém [sabia] o que fazer.", "en": "Nobody knew what to do."},
+      {"p": "eles", "pt": "Eles [sabiam] tudo sobre a cidade.", "en": "They knew everything about the city."}
+    ],
+    "futuro": [
+      {"p": "eu",   "pt": "Amanhã [saberei] os resultados.", "en": "Tomorrow I will know the results."},
+      {"p": "tu",   "pt": "Um dia [saberás] a verdade.", "en": "One day you'll know the truth."},
+      {"p": "ele",  "pt": "Ninguém [saberá] disto.", "en": "Nobody will know about this."},
+      {"p": "nos",  "pt": "[Saberemos] mais na próxima semana.", "en": "We'll know more next week."}
+    ],
+    "condicional": [
+      {"p": "eu",    "pt": "Eu não [saberia] o que dizer.", "en": "I wouldn't know what to say."},
+      {"p": "tu",    "pt": "[Saberias] explicar-me isto?", "en": "Would you be able to explain this to me?"},
+      {"p": "ele",   "pt": "Ele [saberia] o que fazer.", "en": "He would know what to do."},
+      {"p": "voces", "pt": "Vocês [saberiam] chegar lá sozinhos?", "en": "Would you know how to get there on your own?"}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "I don't know.", "pt": "Não sei."},
+      {"en": "Do you know where the station is?", "pt": "Sabes onde fica a estação?"},
+      {"en": "I can swim.", "pt": "Sei nadar."}
+    ],
+    "perfeito": [
+      {"en": "How did you find out?", "pt": "Como é que soubeste?"},
+      {"en": "I found out yesterday.", "pt": "Soube ontem."},
+      {"en": "We heard about the party.", "pt": "Soubemos da festa."}
+    ],
+    "imperfeito": [
+      {"en": "I didn't know!", "pt": "Não sabia!"},
+      {"en": "Did you know that?", "pt": "Sabias isso?"},
+      {"en": "She knew the answer.", "pt": "Ela sabia a resposta."}
+    ],
+    "futuro": [
+      {"en": "You're going to know soon.", "pt": "Vais saber em breve."},
+      {"en": "We're going to know tomorrow.", "pt": "Vamos saber amanhã."},
+      {"en": "How am I going to know?", "pt": "Como é que vou saber?"}
+    ],
+    "condicional": [
+      {"en": "I wouldn't know what to do.", "pt": "Não saberia o que fazer."},
+      {"en": "Would you know how to get there?", "pt": "Saberias chegar lá?"},
+      {"en": "He would know.", "pt": "Ele saberia."}
+    ]
+  },
+  "notes": {
+    "presente": "Saber vs conhecer: saber = to know a fact or how to do something (Sei onde ele mora. Sei cozinhar). Conhecer = to be familiar with a person, place or thing (Conheço o Pedro. Conheço Lisboa). Saber bem = to taste good: Este café sabe bem.",
+    "perfeito": "In the perfeito, saber often means 'to find out': Soube ontem (I found out yesterday). Eu soube and ele soube are the same.",
+    "imperfeito": "Não sabia! (I didn't know!) is the everyday reaction to news. Sabias que...? = Did you know that...?",
+    "futuro": "In speech: vou saber, vamos saber."
+  },
+  "patterns": [
+    {"pt": "saber + infinitivo", "en": "to know how to / can (a skill)"},
+    {"pt": "saber que", "en": "to know that"},
+    {"pt": "saber de", "en": "to know about / to hear about"},
+    {"pt": "sei lá", "en": "no idea / who knows"},
+    {"pt": "saber bem", "en": "to taste good / to feel good"}
+  ],
+  "compare": [
+    {"verb": "conhecer", "en": "to know (a person, a place), to be familiar with", "ex": "Sei onde ele mora, mas não o conheço bem."},
+    {"verb": "poder", "en": "can (permission / possibility)", "ex": "Sei nadar, mas hoje não posso."}
+  ],
+  "recap": "Não sei nadar, mas sei que vou aprender! (I can't swim, but I know I'm going to learn!)"
+},
+{
+  "n": 23,
+  "inf": "conhecer",
+  "en": "to know (someone)",
+  "regular": true,
+  "group": "er",
+  "intro": "Conhecer means to know a person, a place or a thing (to be familiar with it), and in the perfeito, to meet someone for the first time. It's a regular -er verb; only the spelling changes in conheço.",
+  "quick": [
+    {"pt": "Conheces o Rui?", "en": "Do you know Rui?"},
+    {"pt": "Prazer em conhecê-lo.", "en": "Nice to meet you. (to a man, formal)"},
+    {"pt": "Conheço bem Lisboa.", "en": "I know Lisbon well."},
+    {"pt": "Onde se conheceram?", "en": "Where did you meet?"}
+  ],
+  "conj": {
+    "presente":    {"eu": "conheço",    "tu": "conheces",    "ele": "conhece",    "nos": "conhecemos",    "voces": "conhecem",    "eles": "conhecem"},
+    "perfeito":    {"eu": "conheci",    "tu": "conheceste",  "ele": "conheceu",   "nos": "conhecemos",    "voces": "conheceram",  "eles": "conheceram"},
+    "imperfeito":  {"eu": "conhecia",   "tu": "conhecias",   "ele": "conhecia",   "nos": "conhecíamos",   "voces": "conheciam",   "eles": "conheciam"},
+    "futuro":      {"eu": "conhecerei", "tu": "conhecerás",  "ele": "conhecerá",  "nos": "conheceremos",  "voces": "conhecerão",  "eles": "conhecerão"},
+    "condicional": {"eu": "conheceria", "tu": "conhecerias", "ele": "conheceria", "nos": "conheceríamos", "voces": "conheceriam", "eles": "conheceriam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",   "pt": "[Conheço] um bom restaurante aqui perto.", "en": "I know a good restaurant near here."},
+      {"p": "tu",   "pt": "[Conheces] a minha irmã?", "en": "Do you know my sister?"},
+      {"p": "ele",  "pt": "Ele [conhece] toda a gente na aldeia.", "en": "He knows everyone in the village."},
+      {"p": "nos",  "pt": "Nós ainda não [conhecemos] o Norte.", "en": "We don't know the north yet."},
+      {"p": "eles", "pt": "Eles [conhecem] bem a cidade.", "en": "They know the city well."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "[Conheci] o meu marido em Coimbra.", "en": "I met my husband in Coimbra."},
+      {"p": "tu",   "pt": "Onde [conheceste] a Sofia?", "en": "Where did you meet Sofia?"},
+      {"p": "nos",  "pt": "[Conhecemos] muita gente simpática na viagem.", "en": "We met a lot of nice people on the trip."},
+      {"p": "eles", "pt": "Eles [conheceram]-se na universidade.", "en": "They met at university."}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "Não [conhecia] ninguém em Lisboa.", "en": "I didn't know anyone in Lisbon."},
+      {"p": "tu",   "pt": "Já [conhecias] este sítio?", "en": "Did you already know this place?"},
+      {"p": "ele",  "pt": "O meu avô [conhecia] todas as ruas do Porto.", "en": "My grandfather knew every street in Porto."},
+      {"p": "nos",  "pt": "Nós [conhecíamos] o dono do café.", "en": "We knew the owner of the café."}
+    ],
+    "futuro": [
+      {"p": "eu",    "pt": "[Conhecerei] os teus pais no domingo.", "en": "I will meet your parents on Sunday."},
+      {"p": "tu",    "pt": "[Conhecerás] muitas pessoas novas.", "en": "You'll meet lots of new people."},
+      {"p": "ele",   "pt": "Ele [conhecerá] a equipa amanhã.", "en": "He will meet the team tomorrow."},
+      {"p": "voces", "pt": "Vocês [conhecerão] a cidade a pé.", "en": "You'll get to know the city on foot."}
+    ],
+    "condicional": [
+      {"p": "eu",   "pt": "Eu [conheceria] melhor o país se viajasse mais.", "en": "I would know the country better if I travelled more."},
+      {"p": "tu",   "pt": "[Conhecerias] um bom dentista?", "en": "Would you know a good dentist?"},
+      {"p": "ele",  "pt": "Sem aquela festa, ele nunca [conheceria] a Ana.", "en": "Without that party, he would never have met Ana."},
+      {"p": "nos",  "pt": "Assim [conheceríamos] a região.", "en": "That way we would get to know the region."}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "Do you know Maria?", "pt": "Conheces a Maria?"},
+      {"en": "I don't know this city.", "pt": "Não conheço esta cidade."},
+      {"en": "I know a good café.", "pt": "Conheço um bom café."}
+    ],
+    "perfeito": [
+      {"en": "I met her at a party.", "pt": "Conheci-a numa festa."},
+      {"en": "Where did you (two) meet?", "pt": "Onde se conheceram?"},
+      {"en": "We met in Lisbon.", "pt": "Conhecemo-nos em Lisboa."}
+    ],
+    "imperfeito": [
+      {"en": "I didn't know anyone.", "pt": "Não conhecia ninguém."},
+      {"en": "Did you already know him?", "pt": "Já o conhecias?"},
+      {"en": "She knew the city well.", "pt": "Ela conhecia bem a cidade."}
+    ],
+    "futuro": [
+      {"en": "You're going to meet my parents.", "pt": "Vais conhecer os meus pais."},
+      {"en": "I'm going to get to know Porto.", "pt": "Vou conhecer o Porto."},
+      {"en": "We're going to meet new people.", "pt": "Vamos conhecer pessoas novas."}
+    ],
+    "condicional": [
+      {"en": "I would like to meet her.", "pt": "Gostaria de a conhecer."},
+      {"en": "Would you know a good doctor?", "pt": "Conhecerias um bom médico?"},
+      {"en": "We would get to know the country.", "pt": "Conheceríamos o país."}
+    ]
+  },
+  "notes": {
+    "presente": "Saber vs conhecer: conhecer = to know a person, place or thing (Conheço o Pedro. Conheço Lisboa). Saber = to know a fact or how to do something (Sei onde ele mora). Spelling: conheço with ç keeps the soft c sound.",
+    "perfeito": "In the perfeito, conhecer usually means to meet for the first time: Conheci a Ana em 2019. Conhecemos = we know / we met.",
+    "imperfeito": "Conhecia = already knew (a person or place): Já conhecia o Porto.",
+    "futuro": "Vou conhecer can mean 'I'm going to meet' (a person) or 'I'm going to visit / get to know' (a place)."
+  },
+  "patterns": [
+    {"pt": "conhecer alguém", "en": "to know / to meet someone"},
+    {"pt": "conhecer um sítio", "en": "to know / to visit a place"},
+    {"pt": "conhecer bem", "en": "to know well"},
+    {"pt": "prazer em conhecer", "en": "nice to meet you"},
+    {"pt": "conhecer-se", "en": "to meet each other"}
+  ],
+  "compare": [
+    {"verb": "saber", "en": "to know (a fact / how to)", "ex": "Conheço a Ana, mas não sei onde ela mora."},
+    {"verb": "encontrar", "en": "to meet (by chance) / to find", "ex": "Conheci a Ana numa festa e hoje encontrei-a no café."}
+  ],
+  "recap": "Conheci a Ana em Lisboa e agora conheço a cidade toda! (I met Ana in Lisbon and now I know the whole city!)"
+},
+{
+  "n": 24,
+  "inf": "passar",
+  "en": "to pass / to spend (time)",
+  "regular": true,
+  "group": "ar",
+  "intro": "Passar means to pass, to go by, to spend (time) and to hand something over. It's a regular -ar verb with many everyday uses: passar férias, passar por, passar no exame.",
+  "quick": [
+    {"pt": "Passa-me o sal, por favor.", "en": "Pass me the salt, please."},
+    {"pt": "Já passou.", "en": "It's over now."},
+    {"pt": "O que se passa?", "en": "What's going on?"},
+    {"pt": "Passa bem!", "en": "Take care!"}
+  ],
+  "conj": {
+    "presente":    {"eu": "passo",     "tu": "passas",     "ele": "passa",     "nos": "passamos",     "voces": "passam",     "eles": "passam"},
+    "perfeito":    {"eu": "passei",    "tu": "passaste",   "ele": "passou",    "nos": "passámos",     "voces": "passaram",   "eles": "passaram"},
+    "imperfeito":  {"eu": "passava",   "tu": "passavas",   "ele": "passava",   "nos": "passávamos",   "voces": "passavam",   "eles": "passavam"},
+    "futuro":      {"eu": "passarei",  "tu": "passarás",   "ele": "passará",   "nos": "passaremos",   "voces": "passarão",   "eles": "passarão"},
+    "condicional": {"eu": "passaria",  "tu": "passarias",  "ele": "passaria",  "nos": "passaríamos",  "voces": "passariam",  "eles": "passariam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",   "pt": "[Passo] pela padaria todas as manhãs.", "en": "I go past the bakery every morning."},
+      {"p": "tu",   "pt": "Como [passas] os fins de semana?", "en": "How do you spend your weekends?"},
+      {"p": "ele",  "pt": "O tempo [passa] muito depressa.", "en": "Time goes by very quickly."},
+      {"p": "nos",  "pt": "[Passamos] o verão no Algarve.", "en": "We spend the summer in the Algarve."},
+      {"p": "eles", "pt": "Os autocarros [passam] de dez em dez minutos.", "en": "The buses come every ten minutes."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "[Passei] no exame!", "en": "I passed the exam!"},
+      {"p": "tu",   "pt": "[Passaste] bem a noite?", "en": "Did you have a good night?"},
+      {"p": "ele",  "pt": "Ele [passou] uma semana em Madrid.", "en": "He spent a week in Madrid."},
+      {"p": "nos",  "pt": "[Passámos] o Natal com a família.", "en": "We spent Christmas with the family."}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "[Passava] horas a ler.", "en": "I used to spend hours reading."},
+      {"p": "tu",   "pt": "Tu [passavas] sempre por aqui.", "en": "You always used to come by here."},
+      {"p": "ele",  "pt": "O comboio [passava] perto da nossa casa.", "en": "The train used to go past our house."},
+      {"p": "nos",  "pt": "[Passávamos] as férias na aldeia.", "en": "We used to spend the holidays in the village."}
+    ],
+    "futuro": [
+      {"p": "eu",   "pt": "[Passarei] por tua casa logo à noite.", "en": "I'll drop by your place tonight."},
+      {"p": "tu",   "pt": "[Passarás] no exame, tenho a certeza.", "en": "You'll pass the exam, I'm sure."},
+      {"p": "ele",  "pt": "A dor [passará] em poucos dias.", "en": "The pain will go away in a few days."},
+      {"p": "eles", "pt": "Eles [passarão] o Ano Novo no Funchal.", "en": "They will spend New Year in Funchal."}
+    ],
+    "condicional": [
+      {"p": "eu",   "pt": "Eu [passaria] a vida a viajar.", "en": "I would spend my life travelling."},
+      {"p": "tu",   "pt": "[Passarias] o fim de semana connosco?", "en": "Would you spend the weekend with us?"},
+      {"p": "ele",  "pt": "Disseram que o autocarro [passaria] às oito.", "en": "They said the bus would come at eight."},
+      {"p": "nos",  "pt": "Nós [passaríamos] mais tempo juntos.", "en": "We would spend more time together."}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "Can you pass me the bread?", "pt": "Passas-me o pão?"},
+      {"en": "What's going on?", "pt": "O que se passa?"},
+      {"en": "Time goes by quickly.", "pt": "O tempo passa depressa."}
+    ],
+    "perfeito": [
+      {"en": "I passed the exam.", "pt": "Passei no exame."},
+      {"en": "We spent the weekend in Porto.", "pt": "Passámos o fim de semana no Porto."},
+      {"en": "What happened?", "pt": "O que se passou?"}
+    ],
+    "imperfeito": [
+      {"en": "I used to spend the summers at my grandparents'.", "pt": "Passava os verões em casa dos meus avós."},
+      {"en": "The bus used to go by here.", "pt": "O autocarro passava aqui."},
+      {"en": "We used to spend hours talking.", "pt": "Passávamos horas a conversar."}
+    ],
+    "futuro": [
+      {"en": "I'm going to drop by later.", "pt": "Vou passar por aí mais tarde."},
+      {"en": "It's going to pass.", "pt": "Vai passar."},
+      {"en": "We're going to spend Christmas here.", "pt": "Vamos passar o Natal cá."}
+    ],
+    "condicional": [
+      {"en": "I would spend more time at home.", "pt": "Passaria mais tempo em casa."},
+      {"en": "Would you drop by tomorrow?", "pt": "Passarias cá amanhã?"},
+      {"en": "We would spend a week in the Azores.", "pt": "Passaríamos uma semana nos Açores."}
+    ]
+  },
+  "notes": {
+    "presente": "Passar = to spend time; gastar = to spend money or resources: Passámos o fim de semana no Porto e gastámos muito. O que se passa? = What's going on?",
+    "perfeito": "Passar no exame = to pass the exam. EP accent: passámos (we spent) vs passamos (we spend).",
+    "imperfeito": "Passava horas a + infinitive = I used to spend hours doing something: Passava horas a ler.",
+    "futuro": "Vai passar! = It'll pass! (to comfort someone). Passar por = to drop by / to go through: Vou passar por tua casa."
+  },
+  "patterns": [
+    {"pt": "passar férias / o fim de semana", "en": "to spend holidays / the weekend"},
+    {"pt": "passar por", "en": "to go past / to drop by / to go through"},
+    {"pt": "passar no exame", "en": "to pass the exam"},
+    {"pt": "passar a ferro", "en": "to iron"},
+    {"pt": "o que se passa?", "en": "what's going on?"},
+    {"pt": "passar + tempo + a + infinitivo", "en": "to spend time doing"}
+  ],
+  "compare": [
+    {"verb": "gastar", "en": "to spend (money, resources)", "ex": "Passei uma semana em Paris e gastei muito dinheiro."}
+  ],
+  "recap": "O tempo passa depressa quando passamos férias em Portugal! (Time flies when we spend our holidays in Portugal!)"
+},
+{
+  "n": 25,
+  "inf": "gastar",
+  "en": "to spend (resources)",
+  "regular": true,
+  "group": "ar",
+  "intro": "Gastar means to spend money or to use up resources such as time, energy, water or petrol. It's a regular -ar verb. For spending time on something (holidays, a weekend), use passar.",
+  "quick": [
+    {"pt": "Gastei tudo!", "en": "I spent it all!"},
+    {"pt": "Quanto gastaste?", "en": "How much did you spend?"},
+    {"pt": "Não gastes muito.", "en": "Don't spend too much."},
+    {"pt": "Gasta muita gasolina.", "en": "It uses a lot of petrol."}
+  ],
+  "conj": {
+    "presente":    {"eu": "gasto",     "tu": "gastas",     "ele": "gasta",     "nos": "gastamos",     "voces": "gastam",     "eles": "gastam"},
+    "perfeito":    {"eu": "gastei",    "tu": "gastaste",   "ele": "gastou",    "nos": "gastámos",     "voces": "gastaram",   "eles": "gastaram"},
+    "imperfeito":  {"eu": "gastava",   "tu": "gastavas",   "ele": "gastava",   "nos": "gastávamos",   "voces": "gastavam",   "eles": "gastavam"},
+    "futuro":      {"eu": "gastarei",  "tu": "gastarás",   "ele": "gastará",   "nos": "gastaremos",   "voces": "gastarão",   "eles": "gastarão"},
+    "condicional": {"eu": "gastaria",  "tu": "gastarias",  "ele": "gastaria",  "nos": "gastaríamos",  "voces": "gastariam",  "eles": "gastariam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",   "pt": "[Gasto] muito dinheiro em livros.", "en": "I spend a lot of money on books."},
+      {"p": "tu",   "pt": "Quanto [gastas] por mês em comida?", "en": "How much do you spend a month on food?"},
+      {"p": "ele",  "pt": "Este carro [gasta] pouca gasolina.", "en": "This car uses little petrol."},
+      {"p": "nos",  "pt": "[Gastamos] demasiado em restaurantes.", "en": "We spend too much on restaurants."},
+      {"p": "eles", "pt": "Eles [gastam] tudo o que ganham.", "en": "They spend everything they earn."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "[Gastei] cinquenta euros no supermercado.", "en": "I spent fifty euros at the supermarket."},
+      {"p": "tu",   "pt": "[Gastaste] muito nas férias?", "en": "Did you spend a lot on holiday?"},
+      {"p": "ele",  "pt": "Ele [gastou] o salário todo em roupa.", "en": "He spent his whole salary on clothes."},
+      {"p": "nos",  "pt": "[Gastámos] imenso tempo no trânsito.", "en": "We wasted a huge amount of time in traffic."}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "Antes [gastava] muito em táxis.", "en": "I used to spend a lot on taxis."},
+      {"p": "ele",  "pt": "O frigorífico velho [gastava] muita eletricidade.", "en": "The old fridge used a lot of electricity."},
+      {"p": "nos",  "pt": "[Gastávamos] pouco quando éramos estudantes.", "en": "We spent little when we were students."},
+      {"p": "eles", "pt": "Eles [gastavam] o dinheiro todo ao fim de semana.", "en": "They used to spend all their money at the weekend."}
+    ],
+    "futuro": [
+      {"p": "eu",    "pt": "Este mês [gastarei] menos.", "en": "This month I will spend less."},
+      {"p": "tu",    "pt": "Com este telemóvel [gastarás] menos bateria.", "en": "With this phone you'll use less battery."},
+      {"p": "ele",   "pt": "O novo aquecimento [gastará] menos energia.", "en": "The new heating will use less energy."},
+      {"p": "nos",   "pt": "[Gastaremos] o mínimo possível.", "en": "We'll spend as little as possible."}
+    ],
+    "condicional": [
+      {"p": "eu",    "pt": "Eu nunca [gastaria] tanto num jantar.", "en": "I would never spend so much on a dinner."},
+      {"p": "tu",    "pt": "Quanto [gastarias] numa casa?", "en": "How much would you spend on a house?"},
+      {"p": "ele",   "pt": "Assim, ele [gastaria] menos água.", "en": "That way, he would use less water."},
+      {"p": "voces", "pt": "Vocês [gastariam] menos de comboio.", "en": "You would spend less by train."}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "I spend a lot on coffee.", "pt": "Gasto muito em café."},
+      {"en": "How much do you spend a month?", "pt": "Quanto gastas por mês?"},
+      {"en": "This car uses a lot of petrol.", "pt": "Este carro gasta muita gasolina."}
+    ],
+    "perfeito": [
+      {"en": "I spent all my money.", "pt": "Gastei o dinheiro todo."},
+      {"en": "How much did you spend?", "pt": "Quanto gastaste?"},
+      {"en": "We spent too much.", "pt": "Gastámos demasiado."}
+    ],
+    "imperfeito": [
+      {"en": "We used to spend little.", "pt": "Gastávamos pouco."},
+      {"en": "She spent a lot on clothes.", "pt": "Ela gastava muito em roupa."},
+      {"en": "The old car used a lot of petrol.", "pt": "O carro velho gastava muita gasolina."}
+    ],
+    "futuro": [
+      {"en": "I'm going to spend less.", "pt": "Vou gastar menos."},
+      {"en": "Are you going to spend all that?", "pt": "Vais gastar isso tudo?"},
+      {"en": "We're not going to spend much.", "pt": "Não vamos gastar muito."}
+    ],
+    "condicional": [
+      {"en": "I wouldn't spend that much.", "pt": "Não gastaria tanto."},
+      {"en": "How much would you spend?", "pt": "Quanto gastarias?"},
+      {"en": "We would use less water.", "pt": "Gastaríamos menos água."}
+    ]
+  },
+  "notes": {
+    "presente": "Gastar = to spend money / to use up; passar = to spend time (Passei o dia na praia). Gastar tempo means using up or wasting time: Gastei uma hora no trânsito.",
+    "perfeito": "EP accent: gastámos (we spent) vs gastamos (we spend).",
+    "imperfeito": "Gastava = used to spend (a habit): Gastava muito em táxis.",
+    "futuro": "In speech: vou gastar. The opposite is poupar (to save): Vou poupar para as férias."
+  },
+  "patterns": [
+    {"pt": "gastar dinheiro em", "en": "to spend money on"},
+    {"pt": "gastar tempo a + infinitivo", "en": "to spend / waste time doing"},
+    {"pt": "gastar muito / pouco", "en": "to spend a lot / little"},
+    {"pt": "gastar gasolina / eletricidade", "en": "to use petrol / electricity"}
+  ],
+  "compare": [
+    {"verb": "passar", "en": "to spend (time)", "ex": "Passei o fim de semana em Sintra e gastei pouco."},
+    {"verb": "poupar", "en": "to save (money)", "ex": "Este mês vou poupar em vez de gastar."}
+  ],
+  "recap": "Gastei pouco, mas passei um dia ótimo! (I spent very little, but I had a great day!)"
+},
+{
+  "n": 26,
+  "inf": "chegar",
+  "en": "to arrive / to reach / to suffice",
+  "regular": true,
+  "group": "ar",
+  "intro": "Chegar means to arrive, to reach, and also to be enough (Chega! = That's enough!). It's a regular -ar verb; only the spelling changes in cheguei.",
+  "quick": [
+    {"pt": "Já cheguei!", "en": "I'm here! / I've arrived!"},
+    {"pt": "Chega!", "en": "That's enough!"},
+    {"pt": "A que horas chegas?", "en": "What time do you arrive?"},
+    {"pt": "Chega para todos.", "en": "There's enough for everyone."}
+  ],
+  "conj": {
+    "presente":    {"eu": "chego",     "tu": "chegas",     "ele": "chega",     "nos": "chegamos",     "voces": "chegam",     "eles": "chegam"},
+    "perfeito":    {"eu": "cheguei",   "tu": "chegaste",   "ele": "chegou",    "nos": "chegámos",     "voces": "chegaram",   "eles": "chegaram"},
+    "imperfeito":  {"eu": "chegava",   "tu": "chegavas",   "ele": "chegava",   "nos": "chegávamos",   "voces": "chegavam",   "eles": "chegavam"},
+    "futuro":      {"eu": "chegarei",  "tu": "chegarás",   "ele": "chegará",   "nos": "chegaremos",   "voces": "chegarão",   "eles": "chegarão"},
+    "condicional": {"eu": "chegaria",  "tu": "chegarias",  "ele": "chegaria",  "nos": "chegaríamos",  "voces": "chegariam",  "eles": "chegariam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",   "pt": "[Chego] a casa às seis.", "en": "I get home at six."},
+      {"p": "tu",   "pt": "A que horas [chegas] amanhã?", "en": "What time do you arrive tomorrow?"},
+      {"p": "ele",  "pt": "O comboio [chega] às dez e meia.", "en": "The train arrives at half past ten."},
+      {"p": "nos",  "pt": "Nós [chegamos] sempre a horas.", "en": "We always arrive on time."},
+      {"p": "eles", "pt": "Os meus amigos [chegam] hoje de Londres.", "en": "My friends arrive from London today."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "[Cheguei] a Lisboa ontem à noite.", "en": "I arrived in Lisbon last night."},
+      {"p": "tu",   "pt": "Quando [chegaste]?", "en": "When did you arrive?"},
+      {"p": "ele",  "pt": "A encomenda [chegou] esta manhã.", "en": "The parcel arrived this morning."},
+      {"p": "nos",  "pt": "[Chegámos] tarde ao jantar.", "en": "We arrived late for dinner."}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "[Chegava] sempre atrasado às aulas.", "en": "I always used to arrive late for class."},
+      {"p": "tu",   "pt": "Tu [chegavas] a casa muito tarde.", "en": "You used to get home very late."},
+      {"p": "ele",  "pt": "O dinheiro não [chegava] para tudo.", "en": "The money wasn't enough for everything."},
+      {"p": "nos",  "pt": "Quando [chegávamos] à praia, já estava cheia.", "en": "When we got to the beach, it was already full."}
+    ],
+    "futuro": [
+      {"p": "eu",    "pt": "[Chegarei] por volta das nove.", "en": "I will arrive around nine."},
+      {"p": "tu",    "pt": "Tu [chegarás] longe.", "en": "You'll go far."},
+      {"p": "ele",   "pt": "O voo [chegará] com atraso.", "en": "The flight will arrive late."},
+      {"p": "voces", "pt": "Vocês [chegarão] a tempo?", "en": "Will you arrive in time?"}
+    ],
+    "condicional": [
+      {"p": "eu",   "pt": "Eu [chegaria] mais cedo, mas há muito trânsito.", "en": "I would arrive earlier, but there's a lot of traffic."},
+      {"p": "tu",   "pt": "[Chegarias] a horas de carro?", "en": "Would you arrive on time by car?"},
+      {"p": "ele",  "pt": "O dinheiro [chegaria] para as férias.", "en": "The money would be enough for the holidays."},
+      {"p": "nos",  "pt": "Sem o GPS, nunca [chegaríamos].", "en": "Without the GPS, we would never get there."}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "I arrive at eight.", "pt": "Chego às oito."},
+      {"en": "That's enough!", "pt": "Chega!"},
+      {"en": "When does the bus arrive?", "pt": "Quando chega o autocarro?"}
+    ],
+    "perfeito": [
+      {"en": "I'm here! (I've arrived)", "pt": "Já cheguei!"},
+      {"en": "We arrived late.", "pt": "Chegámos tarde."},
+      {"en": "Did the letter arrive?", "pt": "A carta chegou?"}
+    ],
+    "imperfeito": [
+      {"en": "He always arrived late.", "pt": "Ele chegava sempre tarde."},
+      {"en": "The money wasn't enough.", "pt": "O dinheiro não chegava."},
+      {"en": "When I used to get home, the children were already asleep.", "pt": "Quando chegava a casa, as crianças já dormiam."}
+    ],
+    "futuro": [
+      {"en": "I'm going to arrive late.", "pt": "Vou chegar tarde."},
+      {"en": "What time are you going to arrive?", "pt": "A que horas vais chegar?"},
+      {"en": "The train is going to arrive soon.", "pt": "O comboio vai chegar daqui a pouco."}
+    ],
+    "condicional": [
+      {"en": "I would arrive on time.", "pt": "Chegaria a horas."},
+      {"en": "Would it be enough?", "pt": "Chegaria?"},
+      {"en": "We would arrive earlier by train.", "pt": "Chegaríamos mais cedo de comboio."}
+    ]
+  },
+  "notes": {
+    "presente": "Chegar a = to arrive at / in: Chego a Lisboa amanhã (not em). Chegar a casa = to get home. Chega! / Já chega! = That's enough!",
+    "perfeito": "Spelling: cheguei (g becomes gu before e). EP accent: chegámos (we arrived) vs chegamos (we arrive).",
+    "imperfeito": "Não chegava = it wasn't enough: O tempo não chegava.",
+    "futuro": "In speech: vou chegar. Chegar a + infinitive = to get to / to actually do: Chegaste a ver o filme? (Did you get to see the film?)"
+  },
+  "patterns": [
+    {"pt": "chegar a + lugar", "en": "to arrive at / in"},
+    {"pt": "chegar a casa", "en": "to get home"},
+    {"pt": "chegar a horas / atrasado", "en": "to arrive on time / late"},
+    {"pt": "chega! / já chega!", "en": "that's enough!"},
+    {"pt": "chegar para", "en": "to be enough for"},
+    {"pt": "chegar a + infinitivo", "en": "to get to do / to actually do"}
+  ],
+  "compare": [
+    {"verb": "partir", "en": "to leave / to depart", "ex": "O comboio parte às oito e chega às dez."},
+    {"verb": "vir", "en": "to come", "ex": "Ele vem de comboio e chega às dez."}
+  ],
+  "recap": "Cheguei a Lisboa e já não quero partir! (I've arrived in Lisbon and I don't want to leave anymore!)"
+},
+{
+  "n": 27,
+  "inf": "partir",
+  "en": "to leave / to depart / to break",
+  "regular": true,
+  "group": "ir",
+  "intro": "Partir has two main meanings: to leave or depart (O comboio parte às oito) and, in Portugal, to break (parti um copo). It's a regular -ir verb.",
+  "quick": [
+    {"pt": "Parti o telemóvel!", "en": "I broke my phone!"},
+    {"pt": "A que horas parte o comboio?", "en": "What time does the train leave?"},
+    {"pt": "Partiu-se.", "en": "It broke."},
+    {"pt": "Partimos amanhã.", "en": "We leave tomorrow."}
+  ],
+  "conj": {
+    "presente":    {"eu": "parto",     "tu": "partes",     "ele": "parte",     "nos": "partimos",     "voces": "partem",     "eles": "partem"},
+    "perfeito":    {"eu": "parti",     "tu": "partiste",   "ele": "partiu",    "nos": "partimos",     "voces": "partiram",   "eles": "partiram"},
+    "imperfeito":  {"eu": "partia",    "tu": "partias",    "ele": "partia",    "nos": "partíamos",    "voces": "partiam",    "eles": "partiam"},
+    "futuro":      {"eu": "partirei",  "tu": "partirás",   "ele": "partirá",   "nos": "partiremos",   "voces": "partirão",   "eles": "partirão"},
+    "condicional": {"eu": "partiria",  "tu": "partirias",  "ele": "partiria",  "nos": "partiríamos",  "voces": "partiriam",  "eles": "partiriam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",   "pt": "[Parto] para o Brasil na segunda-feira.", "en": "I leave for Brazil on Monday."},
+      {"p": "tu",   "pt": "Quando [partes] de férias?", "en": "When do you leave on holiday?"},
+      {"p": "ele",  "pt": "O autocarro [parte] da estação às oito.", "en": "The bus leaves from the station at eight."},
+      {"p": "nos",  "pt": "[Partimos] o bolo em oito fatias.", "en": "We cut the cake into eight slices."},
+      {"p": "eles", "pt": "Os barcos [partem] de Belém.", "en": "The boats leave from Belém."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "[Parti] um copo na cozinha.", "en": "I broke a glass in the kitchen."},
+      {"p": "tu",   "pt": "[Partiste] a perna a esquiar?", "en": "Did you break your leg skiing?"},
+      {"p": "ele",  "pt": "O avião [partiu] com uma hora de atraso.", "en": "The plane left an hour late."},
+      {"p": "eles", "pt": "Os miúdos [partiram] a janela com a bola.", "en": "The kids broke the window with the ball."}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "Em criança, [partia] tudo.", "en": "As a child, I used to break everything."},
+      {"p": "ele",  "pt": "O último comboio [partia] à meia-noite.", "en": "The last train used to leave at midnight."},
+      {"p": "nos",  "pt": "[Partíamos] sempre de madrugada.", "en": "We always used to leave at dawn."},
+      {"p": "eles", "pt": "Eles [partiam] de Lisboa todos os anos em agosto.", "en": "They used to leave Lisbon every year in August."}
+    ],
+    "futuro": [
+      {"p": "eu",   "pt": "[Partirei] amanhã cedo.", "en": "I will leave early tomorrow."},
+      {"p": "tu",   "pt": "[Partirás] sozinho?", "en": "Will you leave on your own?"},
+      {"p": "ele",  "pt": "O navio [partirá] às seis.", "en": "The ship will depart at six."},
+      {"p": "nos",  "pt": "[Partiremos] depois do almoço.", "en": "We will leave after lunch."}
+    ],
+    "condicional": [
+      {"p": "eu",   "pt": "Eu nunca [partiria] sem me despedir.", "en": "I would never leave without saying goodbye."},
+      {"p": "tu",   "pt": "[Partirias] para outro país por amor?", "en": "Would you leave for another country for love?"},
+      {"p": "ele",  "pt": "Com este vento, o barco não [partiria].", "en": "With this wind, the boat wouldn't leave."},
+      {"p": "nos",  "pt": "Nós [partiríamos] hoje, se pudéssemos.", "en": "We would leave today, if we could."}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "The train leaves at nine.", "pt": "O comboio parte às nove."},
+      {"en": "Careful, that breaks!", "pt": "Cuidado, isso parte-se!"},
+      {"en": "We leave tomorrow.", "pt": "Partimos amanhã."}
+    ],
+    "perfeito": [
+      {"en": "I broke a glass.", "pt": "Parti um copo."},
+      {"en": "She broke her arm.", "pt": "Ela partiu o braço."},
+      {"en": "The plane left late.", "pt": "O avião partiu atrasado."}
+    ],
+    "imperfeito": [
+      {"en": "He was always breaking things.", "pt": "Ele partia sempre tudo."},
+      {"en": "The boat used to leave at seven.", "pt": "O barco partia às sete."},
+      {"en": "We used to leave early.", "pt": "Partíamos cedo."}
+    ],
+    "futuro": [
+      {"en": "We're going to leave at noon.", "pt": "Vamos partir ao meio-dia."},
+      {"en": "Careful, you're going to break that!", "pt": "Cuidado, vais partir isso!"},
+      {"en": "When are you going to leave?", "pt": "Quando vais partir?"}
+    ],
+    "condicional": [
+      {"en": "Would you leave today?", "pt": "Partirias hoje?"},
+      {"en": "We would leave earlier.", "pt": "Partiríamos mais cedo."},
+      {"en": "They would break everything.", "pt": "Eles partiriam tudo."}
+    ]
+  },
+  "notes": {
+    "presente": "In Portugal partir is the everyday verb for 'to break': partir um copo, partir a perna (Brazil: quebrar). Partir-se = to break (by itself): O copo partiu-se.",
+    "perfeito": "Partimos is both 'we leave' and 'we left'. With body parts no possessive is needed: Parti o braço (I broke my arm).",
+    "imperfeito": "Partia = used to leave / used to break: O comboio partia às oito.",
+    "futuro": "For leaving, everyday speech often uses sair (to go out) or ir-se embora (to go away): Vou-me embora. Partir sounds a bit more formal for departures."
+  },
+  "patterns": [
+    {"pt": "partir para", "en": "to leave for"},
+    {"pt": "partir de", "en": "to leave from"},
+    {"pt": "partir um copo / a perna", "en": "to break a glass / one's leg"},
+    {"pt": "partir-se", "en": "to break (by itself)"},
+    {"pt": "a partir de", "en": "from ... on (a partir de amanhã)"}
+  ],
+  "compare": [
+    {"verb": "sair", "en": "to go out / to leave (a place)", "ex": "Saio de casa às oito; o comboio parte às nove."},
+    {"verb": "deixar", "en": "to leave (something / someone behind)", "ex": "Deixei as chaves em casa."}
+  ],
+  "recap": "Parti o telemóvel no dia em que parti para Lisboa! (I broke my phone the day I left for Lisbon!)"
+},
+{
+  "n": 28,
+  "inf": "deixar",
+  "en": "to leave / to let",
+  "regular": true,
+  "group": "ar",
+  "intro": "Deixar means to leave (something or someone somewhere), to let or allow, and with de + infinitive, to stop doing something (deixar de fumar). It's a regular -ar verb.",
+  "quick": [
+    {"pt": "Deixa estar.", "en": "Never mind. / Leave it."},
+    {"pt": "Deixa-me ver.", "en": "Let me see."},
+    {"pt": "Deixei as chaves em casa.", "en": "I left the keys at home."},
+    {"pt": "Deixei de fumar.", "en": "I've stopped smoking."}
+  ],
+  "conj": {
+    "presente":    {"eu": "deixo",     "tu": "deixas",     "ele": "deixa",     "nos": "deixamos",     "voces": "deixam",     "eles": "deixam"},
+    "perfeito":    {"eu": "deixei",    "tu": "deixaste",   "ele": "deixou",    "nos": "deixámos",     "voces": "deixaram",   "eles": "deixaram"},
+    "imperfeito":  {"eu": "deixava",   "tu": "deixavas",   "ele": "deixava",   "nos": "deixávamos",   "voces": "deixavam",   "eles": "deixavam"},
+    "futuro":      {"eu": "deixarei",  "tu": "deixarás",   "ele": "deixará",   "nos": "deixaremos",   "voces": "deixarão",   "eles": "deixarão"},
+    "condicional": {"eu": "deixaria",  "tu": "deixarias",  "ele": "deixaria",  "nos": "deixaríamos",  "voces": "deixariam",  "eles": "deixariam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",   "pt": "[Deixo] as crianças na escola às oito.", "en": "I drop the children at school at eight."},
+      {"p": "tu",   "pt": "[Deixas]-me ajudar?", "en": "Will you let me help?"},
+      {"p": "ele",  "pt": "O meu chefe não me [deixa] sair cedo.", "en": "My boss doesn't let me leave early."},
+      {"p": "nos",  "pt": "[Deixamos] sempre gorjeta.", "en": "We always leave a tip."},
+      {"p": "eles", "pt": "Os pais [deixam] os filhos brincar na rua.", "en": "The parents let their children play in the street."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "[Deixei] o guarda-chuva no autocarro.", "en": "I left my umbrella on the bus."},
+      {"p": "tu",   "pt": "Onde [deixaste] o carro?", "en": "Where did you leave the car?"},
+      {"p": "ele",  "pt": "Ele [deixou] de fumar no ano passado.", "en": "He stopped smoking last year."},
+      {"p": "nos",  "pt": "[Deixámos] uma mensagem na receção.", "en": "We left a message at reception."}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "Antes [deixava] sempre tudo para o último dia.", "en": "I always used to leave everything to the last day."},
+      {"p": "ele",  "pt": "A minha mãe não me [deixava] ver televisão à noite.", "en": "My mother didn't let me watch TV at night."},
+      {"p": "nos",  "pt": "[Deixávamos] a porta aberta no verão.", "en": "We used to leave the door open in summer."},
+      {"p": "eles", "pt": "Eles [deixavam] o cão em casa dos vizinhos.", "en": "They used to leave the dog at the neighbours'."}
+    ],
+    "futuro": [
+      {"p": "eu",   "pt": "[Deixarei] a chave debaixo do tapete.", "en": "I'll leave the key under the mat."},
+      {"p": "tu",   "pt": "Tu [deixarás] saudades.", "en": "You'll be missed."},
+      {"p": "ele",  "pt": "O comboio [deixará] de parar nesta estação.", "en": "The train will stop calling at this station."},
+      {"p": "nos",  "pt": "Nunca [deixaremos] de lutar.", "en": "We will never stop fighting."}
+    ],
+    "condicional": [
+      {"p": "eu",   "pt": "Eu nunca [deixaria] o meu cão sozinho.", "en": "I would never leave my dog alone."},
+      {"p": "tu",   "pt": "[Deixarias] o teu emprego por uma viagem?", "en": "Would you leave your job for a trip?"},
+      {"p": "ele",  "pt": "Ele [deixaria] de beber café, se pudesse.", "en": "He would stop drinking coffee, if he could."},
+      {"p": "eles", "pt": "Eles não te [deixariam] entrar sem bilhete.", "en": "They wouldn't let you in without a ticket."}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "Let me see.", "pt": "Deixa-me ver."},
+      {"en": "I drop the kids at school.", "pt": "Deixo os miúdos na escola."},
+      {"en": "Never mind.", "pt": "Deixa estar."}
+    ],
+    "perfeito": [
+      {"en": "I left my phone at home.", "pt": "Deixei o telemóvel em casa."},
+      {"en": "She stopped smoking.", "pt": "Ela deixou de fumar."},
+      {"en": "Where did you leave the car?", "pt": "Onde deixaste o carro?"}
+    ],
+    "imperfeito": [
+      {"en": "My parents didn't let me go out.", "pt": "Os meus pais não me deixavam sair."},
+      {"en": "We used to leave the windows open.", "pt": "Deixávamos as janelas abertas."},
+      {"en": "He always left everything on the table.", "pt": "Ele deixava sempre tudo em cima da mesa."}
+    ],
+    "futuro": [
+      {"en": "I'm going to stop eating sugar.", "pt": "Vou deixar de comer açúcar."},
+      {"en": "Are you going to let me go?", "pt": "Vais deixar-me ir?"},
+      {"en": "We're going to leave the car here.", "pt": "Vamos deixar o carro aqui."}
+    ],
+    "condicional": [
+      {"en": "I wouldn't leave you alone.", "pt": "Não te deixaria sozinho."},
+      {"en": "Would you leave your job?", "pt": "Deixarias o teu emprego?"},
+      {"en": "They wouldn't let us in.", "pt": "Eles não nos deixariam entrar."}
+    ]
+  },
+  "notes": {
+    "presente": "Three key uses: leave something somewhere (Deixo o carro aqui), let / allow (Deixa-me ver), and deixar de + infinitive = to stop doing (Deixei de fumar). Deixa estar = Never mind / Leave it.",
+    "perfeito": "Deixar = to leave something behind; sair = to leave a place; partir = to depart. Deixei as chaves em casa vs Saí de casa. EP accent: deixámos.",
+    "imperfeito": "Não me deixavam = they didn't let me (as a rule): Os meus pais não me deixavam sair.",
+    "futuro": "In speech: vou deixar. Não deixes de + infinitive = make sure you...: Não deixes de visitar Sintra!"
+  },
+  "patterns": [
+    {"pt": "deixar algo em", "en": "to leave something at / in"},
+    {"pt": "deixar alguém + infinitivo", "en": "to let someone do"},
+    {"pt": "deixar de + infinitivo", "en": "to stop doing"},
+    {"pt": "deixa estar", "en": "never mind / leave it"},
+    {"pt": "deixar recado", "en": "to leave a message"}
+  ],
+  "compare": [
+    {"verb": "sair", "en": "to go out / to leave (a place)", "ex": "Saí de casa e deixei a porta aberta."},
+    {"verb": "partir", "en": "to depart", "ex": "O comboio parte às dez."}
+  ],
+  "recap": "Deixa-me ver... deixei as chaves no carro! (Let me see... I left the keys in the car!)"
+},
+{
+  "n": 29,
+  "inf": "procurar",
+  "en": "to search / to look for",
+  "regular": true,
+  "group": "ar",
+  "intro": "Procurar means to look for or to search for. It's a regular -ar verb and takes a direct object with no preposition: procuro as chaves (I'm looking for the keys).",
+  "quick": [
+    {"pt": "Estou a procurar as chaves.", "en": "I'm looking for the keys."},
+    {"pt": "O que procuras?", "en": "What are you looking for?"},
+    {"pt": "Procurei em todo o lado.", "en": "I looked everywhere."},
+    {"pt": "Procura-se.", "en": "Wanted. (on a sign)"}
+  ],
+  "conj": {
+    "presente":    {"eu": "procuro",     "tu": "procuras",     "ele": "procura",     "nos": "procuramos",     "voces": "procuram",     "eles": "procuram"},
+    "perfeito":    {"eu": "procurei",    "tu": "procuraste",   "ele": "procurou",    "nos": "procurámos",     "voces": "procuraram",   "eles": "procuraram"},
+    "imperfeito":  {"eu": "procurava",   "tu": "procuravas",   "ele": "procurava",   "nos": "procurávamos",   "voces": "procuravam",   "eles": "procuravam"},
+    "futuro":      {"eu": "procurarei",  "tu": "procurarás",   "ele": "procurará",   "nos": "procuraremos",   "voces": "procurarão",   "eles": "procurarão"},
+    "condicional": {"eu": "procuraria",  "tu": "procurarias",  "ele": "procuraria",  "nos": "procuraríamos",  "voces": "procurariam",  "eles": "procurariam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",   "pt": "[Procuro] um quarto em Lisboa.", "en": "I'm looking for a room in Lisbon."},
+      {"p": "tu",   "pt": "O que [procuras]?", "en": "What are you looking for?"},
+      {"p": "ele",  "pt": "Ela [procura] trabalho há três meses.", "en": "She's been looking for work for three months."},
+      {"p": "nos",  "pt": "[Procuramos] um restaurante barato.", "en": "We're looking for a cheap restaurant."},
+      {"p": "eles", "pt": "Eles [procuram] sempre a melhor solução.", "en": "They always look for the best solution."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "[Procurei] o telemóvel em todo o lado.", "en": "I looked for my phone everywhere."},
+      {"p": "tu",   "pt": "Já [procuraste] na internet?", "en": "Have you looked on the internet?"},
+      {"p": "ele",  "pt": "Ele [procurou] o médico por causa das dores.", "en": "He went to the doctor because of the pain."},
+      {"p": "nos",  "pt": "[Procurámos] um hotel perto do centro.", "en": "We looked for a hotel near the centre."}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "[Procurava] uma farmácia quando te vi.", "en": "I was looking for a pharmacy when I saw you."},
+      {"p": "tu",   "pt": "Era isto que [procuravas]?", "en": "Was this what you were looking for?"},
+      {"p": "ele",  "pt": "O cão [procurava] o dono por todo o lado.", "en": "The dog was looking everywhere for its owner."},
+      {"p": "nos",  "pt": "Nós [procurávamos] casa naquela altura.", "en": "We were looking for a home at that time."}
+    ],
+    "futuro": [
+      {"p": "eu",   "pt": "Amanhã [procurarei] outra solução.", "en": "Tomorrow I'll look for another solution."},
+      {"p": "tu",   "pt": "[Procurarás] emprego em Portugal?", "en": "Will you look for a job in Portugal?"},
+      {"p": "ele",  "pt": "A polícia [procurará] o ladrão.", "en": "The police will look for the thief."},
+      {"p": "eles", "pt": "Eles [procurarão] um apartamento maior.", "en": "They will look for a bigger flat."}
+    ],
+    "condicional": [
+      {"p": "eu",   "pt": "Eu [procuraria] noutra loja.", "en": "I would look in another shop."},
+      {"p": "tu",   "pt": "[Procurarias] casa no centro ou fora?", "en": "Would you look for a home in the centre or outside?"},
+      {"p": "ele",  "pt": "Ele [procuraria] ajuda, se precisasse.", "en": "He would look for help, if he needed it."},
+      {"p": "nos",  "pt": "Nós [procuraríamos] um sítio mais calmo.", "en": "We would look for a quieter place."}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "I'm looking for the station.", "pt": "Estou a procurar a estação."},
+      {"en": "What are you looking for?", "pt": "O que procuras?"},
+      {"en": "We're looking for a flat.", "pt": "Procuramos um apartamento."}
+    ],
+    "perfeito": [
+      {"en": "I looked everywhere.", "pt": "Procurei em todo o lado."},
+      {"en": "Did you look in the car?", "pt": "Procuraste no carro?"},
+      {"en": "They looked for a hotel.", "pt": "Eles procuraram um hotel."}
+    ],
+    "imperfeito": [
+      {"en": "I was looking for you.", "pt": "Estava à tua procura."},
+      {"en": "She was looking for a job.", "pt": "Ela estava a procurar emprego."},
+      {"en": "What were you looking for?", "pt": "O que procuravas?"}
+    ],
+    "futuro": [
+      {"en": "I'm going to look for a new job.", "pt": "Vou procurar um emprego novo."},
+      {"en": "We're going to look for a restaurant.", "pt": "Vamos procurar um restaurante."},
+      {"en": "Are you going to look for a flat?", "pt": "Vais procurar casa?"}
+    ],
+    "condicional": [
+      {"en": "I would look on the internet.", "pt": "Procuraria na internet."},
+      {"en": "Where would you look?", "pt": "Onde procurarias?"},
+      {"en": "We would look for a cheaper hotel.", "pt": "Procuraríamos um hotel mais barato."}
+    ]
+  },
+  "notes": {
+    "presente": "No preposition: procurar algo = to look for something. Estar à procura de = to be looking for: Estou à procura de casa. Procurar por is used mainly for people: Alguém procurou por mim?",
+    "perfeito": "Procurar = to look for; encontrar = to find. Procurei as chaves, mas não as encontrei. EP accent: procurámos.",
+    "imperfeito": "Procurava = was looking for (background): Procurava um táxi quando começou a chover.",
+    "futuro": "In speech: vou procurar, vamos procurar."
+  },
+  "patterns": [
+    {"pt": "procurar emprego / casa", "en": "to look for a job / a home"},
+    {"pt": "estar à procura de", "en": "to be looking for"},
+    {"pt": "procurar em todo o lado", "en": "to look everywhere"},
+    {"pt": "procurar + infinitivo", "en": "to try to (formal): Procuro fazer o meu melhor."}
+  ],
+  "compare": [
+    {"verb": "encontrar", "en": "to find", "ex": "Procurei, procurei, e finalmente encontrei!"},
+    {"verb": "olhar", "en": "to look (at)", "ex": "Olha para isto!"}
+  ],
+  "recap": "Procuro casa em Lisboa: deseja-me sorte! (I'm looking for a flat in Lisbon: wish me luck!)"
+},
+{
+  "n": 30,
+  "inf": "encontrar",
+  "en": "to find / to meet",
+  "regular": true,
+  "group": "ar",
+  "intro": "Encontrar means to find, and also to meet or run into someone. It's a regular -ar verb. Encontrar-se com = to meet up with someone (on purpose).",
+  "quick": [
+    {"pt": "Encontrei!", "en": "I found it!"},
+    {"pt": "Não encontro as chaves.", "en": "I can't find the keys."},
+    {"pt": "Encontramo-nos às oito?", "en": "Shall we meet at eight?"},
+    {"pt": "Onde é que encontro...?", "en": "Where can I find...?"}
+  ],
+  "conj": {
+    "presente":    {"eu": "encontro",     "tu": "encontras",     "ele": "encontra",     "nos": "encontramos",     "voces": "encontram",     "eles": "encontram"},
+    "perfeito":    {"eu": "encontrei",    "tu": "encontraste",   "ele": "encontrou",    "nos": "encontrámos",     "voces": "encontraram",   "eles": "encontraram"},
+    "imperfeito":  {"eu": "encontrava",   "tu": "encontravas",   "ele": "encontrava",   "nos": "encontrávamos",   "voces": "encontravam",   "eles": "encontravam"},
+    "futuro":      {"eu": "encontrarei",  "tu": "encontrarás",   "ele": "encontrará",   "nos": "encontraremos",   "voces": "encontrarão",   "eles": "encontrarão"},
+    "condicional": {"eu": "encontraria",  "tu": "encontrarias",  "ele": "encontraria",  "nos": "encontraríamos",  "voces": "encontrariam",  "eles": "encontrariam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",   "pt": "Nunca [encontro] lugar para estacionar.", "en": "I never find a parking space."},
+      {"p": "tu",   "pt": "[Encontras] tudo no supermercado da esquina.", "en": "You find everything at the supermarket on the corner."},
+      {"p": "ele",  "pt": "Ela [encontra] sempre uma solução.", "en": "She always finds a solution."},
+      {"p": "nos",  "pt": "[Encontramos] bons preços no mercado.", "en": "We find good prices at the market."},
+      {"p": "eles", "pt": "Os turistas [encontram] facilmente o castelo.", "en": "Tourists find the castle easily."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "[Encontrei] cinco euros na rua.", "en": "I found five euros in the street."},
+      {"p": "tu",   "pt": "[Encontraste] a carteira?", "en": "Did you find your wallet?"},
+      {"p": "ele",  "pt": "Ontem ele [encontrou] um antigo colega no metro.", "en": "Yesterday he ran into an old colleague on the metro."},
+      {"p": "nos",  "pt": "Finalmente [encontrámos] um apartamento.", "en": "We finally found a flat."}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "Antes [encontrava] sempre os vizinhos no café.", "en": "I always used to meet the neighbours at the café."},
+      {"p": "ele",  "pt": "Ele nunca [encontrava] as chaves.", "en": "He could never find his keys."},
+      {"p": "nos",  "pt": "[Encontrávamos] conchas na praia.", "en": "We used to find shells on the beach."},
+      {"p": "eles", "pt": "Eles [encontravam]-se todos os sábados.", "en": "They used to meet every Saturday."}
+    ],
+    "futuro": [
+      {"p": "eu",   "pt": "[Encontrarei] uma solução.", "en": "I'll find a solution."},
+      {"p": "tu",   "pt": "[Encontrarás] o hotel ao lado da estação.", "en": "You'll find the hotel next to the station."},
+      {"p": "ele",  "pt": "Quem procura [encontrará].", "en": "Whoever looks will find."},
+      {"p": "nos",  "pt": "Nós [encontraremos] tempo para tudo.", "en": "We'll find time for everything."}
+    ],
+    "condicional": [
+      {"p": "eu",   "pt": "Eu nunca [encontraria] esta rua sem o mapa.", "en": "I would never find this street without the map."},
+      {"p": "tu",   "pt": "Onde [encontrarias] um bom café aqui?", "en": "Where would you find a good café around here?"},
+      {"p": "ele",  "pt": "Ele [encontraria] trabalho facilmente no Porto.", "en": "He would easily find work in Porto."},
+      {"p": "nos",  "pt": "Nós [encontraríamos] o caminho sozinhos.", "en": "We would find the way on our own."}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "I can't find my phone.", "pt": "Não encontro o telemóvel."},
+      {"en": "Shall we meet at the café?", "pt": "Encontramo-nos no café?"},
+      {"en": "You find everything here.", "pt": "Encontras tudo aqui."}
+    ],
+    "perfeito": [
+      {"en": "I found it!", "pt": "Encontrei!"},
+      {"en": "I ran into Maria in the street.", "pt": "Encontrei a Maria na rua."},
+      {"en": "Did you find the keys?", "pt": "Encontraste as chaves?"}
+    ],
+    "imperfeito": [
+      {"en": "We used to meet at the café.", "pt": "Encontrávamo-nos no café."},
+      {"en": "He never found anything.", "pt": "Ele nunca encontrava nada."},
+      {"en": "I used to find shells on the beach.", "pt": "Encontrava conchas na praia."}
+    ],
+    "futuro": [
+      {"en": "You're going to find it.", "pt": "Vais encontrar."},
+      {"en": "We're going to meet at eight.", "pt": "Vamos encontrar-nos às oito."},
+      {"en": "I'm going to find a solution.", "pt": "Vou encontrar uma solução."}
+    ],
+    "condicional": [
+      {"en": "I would never find it.", "pt": "Nunca o encontraria."},
+      {"en": "Where would you find a taxi?", "pt": "Onde encontrarias um táxi?"},
+      {"en": "We would find the way.", "pt": "Encontraríamos o caminho."}
+    ]
+  },
+  "notes": {
+    "presente": "Encontrar = to find, or to run into someone by chance: Encontrei o Rui no mercado. Encontrar-se com = to meet up (planned): Encontro-me com a Ana às cinco. With nos the final -s drops: encontramo-nos.",
+    "perfeito": "EP accent: encontrámos (we found) vs encontramos (we find). Procurar = to look for; encontrar = to find.",
+    "imperfeito": "Encontrava = used to find / used to meet: Encontrava sempre os amigos no café.",
+    "futuro": "In speech: vou encontrar, vamos encontrar-nos."
+  },
+  "patterns": [
+    {"pt": "encontrar algo / alguém", "en": "to find something / to run into someone"},
+    {"pt": "encontrar-se com", "en": "to meet up with"},
+    {"pt": "encontrar uma solução", "en": "to find a solution"},
+    {"pt": "encontrar trabalho", "en": "to find work"},
+    {"pt": "não encontrar nada", "en": "not to find anything"}
+  ],
+  "compare": [
+    {"verb": "procurar", "en": "to look for", "ex": "Procurei as chaves e encontrei-as no carro."},
+    {"verb": "conhecer", "en": "to meet (for the first time)", "ex": "Conheci a Ana numa festa; hoje encontrei-a no café."}
+  ],
+  "recap": "Quem procura sempre encontra! (Whoever looks will always find!)"
+}
+]

@@ -1,0 +1,3650 @@
+{
+  "sections": [
+    {
+      "id": "pronomes",
+      "title": "Pronomes",
+      "titleEn": "Pronouns",
+      "note": "Personal pronouns replace the subject of the sentence. Object pronouns replace the object, which can be direct (C.D.) or indirect (C.I.).\nClitic (átono) pronouns never come after a preposition; tonic (tónico) pronouns always do: para mim, sem ti. With com: comigo, contigo, connosco.\nClitics go after the verb in affirmative sentences (ajuda-me) and before it after não, já, também, que, quando… (não me ajuda).\nPossessives agree with the thing owned and normally take the article in PT-PT: o meu carro, a minha casa. dele / dela / deles / delas go after the noun.\nDemonstratives: este / isto = near the speaker, esse / isso = near the listener, aquele / aquilo = far from both. They contract with de, em and a: deste, nisso, àquele.",
+      "tables": [
+        {
+          "title": "Personal, clitic and tonic pronouns",
+          "head": [
+            "",
+            "Pessoais",
+            "Átonos C.D.",
+            "Átonos C.I.",
+            "Tónicos"
+          ],
+          "rows": [
+            [
+              "1ª pessoa sing.",
+              "eu",
+              "me",
+              "me",
+              "mim"
+            ],
+            [
+              "2ª pessoa sing.",
+              "tu",
+              "te",
+              "te",
+              "ti"
+            ],
+            [
+              "3ª pessoa sing.",
+              "você / ele / ela",
+              "o, a, se",
+              "lhe, se",
+              "si, ele, ela"
+            ],
+            [
+              "1ª pessoa pl.",
+              "nós",
+              "nos",
+              "nos",
+              "nós"
+            ],
+            [
+              "2ª pessoa pl.",
+              "vocês",
+              "os, as, vos",
+              "lhes, vos",
+              "vocês"
+            ],
+            [
+              "3ª pessoa pl.",
+              "eles / elas",
+              "os, as, se",
+              "lhes, se",
+              "si, eles, elas"
+            ]
+          ],
+          "cards": [
+            {
+              "front": "eu → direct object (C.D.)",
+              "back": "me"
+            },
+            {
+              "front": "eu → indirect object (C.I.)",
+              "back": "me"
+            },
+            {
+              "front": "eu → after a preposition (tónico)",
+              "back": "mim"
+            },
+            {
+              "front": "tu → direct object (C.D.)",
+              "back": "te"
+            },
+            {
+              "front": "tu → indirect object (C.I.)",
+              "back": "te"
+            },
+            {
+              "front": "tu → after a preposition (tónico)",
+              "back": "ti"
+            },
+            {
+              "front": "você / ele / ela → direct object (C.D.)",
+              "back": "o, a, se"
+            },
+            {
+              "front": "você / ele / ela → indirect object (C.I.)",
+              "back": "lhe, se"
+            },
+            {
+              "front": "você / ele / ela → after a preposition (tónico)",
+              "back": "si, ele, ela"
+            },
+            {
+              "front": "nós → direct object (C.D.)",
+              "back": "nos"
+            },
+            {
+              "front": "nós → indirect object (C.I.)",
+              "back": "nos"
+            },
+            {
+              "front": "nós → after a preposition (tónico)",
+              "back": "nós"
+            },
+            {
+              "front": "vocês → direct object (C.D.)",
+              "back": "os, as, vos"
+            },
+            {
+              "front": "vocês → indirect object (C.I.)",
+              "back": "lhes, vos"
+            },
+            {
+              "front": "vocês → after a preposition (tónico)",
+              "back": "vocês"
+            },
+            {
+              "front": "eles / elas → direct object (C.D.)",
+              "back": "os, as, se"
+            },
+            {
+              "front": "eles / elas → indirect object (C.I.)",
+              "back": "lhes, se"
+            },
+            {
+              "front": "eles / elas → after a preposition (tónico)",
+              "back": "si, eles, elas"
+            },
+            {
+              "front": "com + mim",
+              "back": "comigo"
+            },
+            {
+              "front": "com + ti",
+              "back": "contigo"
+            },
+            {
+              "front": "com + nós",
+              "back": "connosco"
+            }
+          ]
+        },
+        {
+          "title": "Possessive pronouns",
+          "head": [
+            "",
+            "masc. sing.",
+            "masc. pl.",
+            "fem. sing.",
+            "fem. pl."
+          ],
+          "rows": [
+            [
+              "EU",
+              "(o) meu",
+              "(os) meus",
+              "(a) minha",
+              "(as) minhas"
+            ],
+            [
+              "TU",
+              "(o) teu",
+              "(os) teus",
+              "(a) tua",
+              "(as) tuas"
+            ],
+            [
+              "VOCÊ",
+              "(o) seu",
+              "(os) seus",
+              "(a) sua",
+              "(as) suas"
+            ],
+            [
+              "ELE",
+              "(o) dele",
+              "(os) dele",
+              "(a) dele",
+              "(as) dele"
+            ],
+            [
+              "ELA",
+              "(o) dela",
+              "(os) dela",
+              "(a) dela",
+              "(as) dela"
+            ],
+            [
+              "NÓS",
+              "(o) nosso",
+              "(os) nossos",
+              "(a) nossa",
+              "(as) nossas"
+            ],
+            [
+              "VOCÊS",
+              "(o) vosso",
+              "(os) vossos",
+              "(a) vossa",
+              "(as) vossas"
+            ],
+            [
+              "ELES",
+              "(o) deles",
+              "(os) deles",
+              "(a) deles",
+              "(as) deles"
+            ],
+            [
+              "ELAS",
+              "(o) delas",
+              "(os) delas",
+              "(a) delas",
+              "(as) delas"
+            ]
+          ],
+          "cards": [
+            {
+              "front": "eu + o carro",
+              "back": "o meu carro"
+            },
+            {
+              "front": "eu + os livros",
+              "back": "os meus livros"
+            },
+            {
+              "front": "eu + a casa",
+              "back": "a minha casa"
+            },
+            {
+              "front": "eu + as chaves",
+              "back": "as minhas chaves"
+            },
+            {
+              "front": "tu + o carro",
+              "back": "o teu carro"
+            },
+            {
+              "front": "tu + os livros",
+              "back": "os teus livros"
+            },
+            {
+              "front": "tu + a casa",
+              "back": "a tua casa"
+            },
+            {
+              "front": "tu + as chaves",
+              "back": "as tuas chaves"
+            },
+            {
+              "front": "você + o carro",
+              "back": "o seu carro"
+            },
+            {
+              "front": "você + os livros",
+              "back": "os seus livros"
+            },
+            {
+              "front": "você + a casa",
+              "back": "a sua casa"
+            },
+            {
+              "front": "você + as chaves",
+              "back": "as suas chaves"
+            },
+            {
+              "front": "ele + o carro",
+              "back": "o carro dele"
+            },
+            {
+              "front": "ele + os livros",
+              "back": "os livros dele"
+            },
+            {
+              "front": "ele + a casa",
+              "back": "a casa dele"
+            },
+            {
+              "front": "ele + as chaves",
+              "back": "as chaves dele"
+            },
+            {
+              "front": "ela + o carro",
+              "back": "o carro dela"
+            },
+            {
+              "front": "ela + os livros",
+              "back": "os livros dela"
+            },
+            {
+              "front": "ela + a casa",
+              "back": "a casa dela"
+            },
+            {
+              "front": "ela + as chaves",
+              "back": "as chaves dela"
+            },
+            {
+              "front": "nós + o carro",
+              "back": "o nosso carro"
+            },
+            {
+              "front": "nós + os livros",
+              "back": "os nossos livros"
+            },
+            {
+              "front": "nós + a casa",
+              "back": "a nossa casa"
+            },
+            {
+              "front": "nós + as chaves",
+              "back": "as nossas chaves"
+            },
+            {
+              "front": "vocês + o carro",
+              "back": "o vosso carro"
+            },
+            {
+              "front": "vocês + os livros",
+              "back": "os vossos livros"
+            },
+            {
+              "front": "vocês + a casa",
+              "back": "a vossa casa"
+            },
+            {
+              "front": "vocês + as chaves",
+              "back": "as vossas chaves"
+            },
+            {
+              "front": "eles + o carro",
+              "back": "o carro deles"
+            },
+            {
+              "front": "eles + os livros",
+              "back": "os livros deles"
+            },
+            {
+              "front": "eles + a casa",
+              "back": "a casa deles"
+            },
+            {
+              "front": "eles + as chaves",
+              "back": "as chaves deles"
+            },
+            {
+              "front": "elas + o carro",
+              "back": "o carro delas"
+            },
+            {
+              "front": "elas + os livros",
+              "back": "os livros delas"
+            },
+            {
+              "front": "elas + a casa",
+              "back": "a casa delas"
+            },
+            {
+              "front": "elas + as chaves",
+              "back": "as chaves delas"
+            }
+          ]
+        },
+        {
+          "title": "Demonstrative pronouns",
+          "head": [
+            "",
+            "masc. sing.",
+            "masc. pl.",
+            "fem. sing.",
+            "fem. pl.",
+            "invariável"
+          ],
+          "rows": [
+            [
+              "1ª pessoa (near me)",
+              "este",
+              "estes",
+              "esta",
+              "estas",
+              "isto"
+            ],
+            [
+              "2ª pessoa (near you)",
+              "esse",
+              "esses",
+              "essa",
+              "essas",
+              "isso"
+            ],
+            [
+              "3ª pessoa (far from both)",
+              "aquele",
+              "aqueles",
+              "aquela",
+              "aquelas",
+              "aquilo"
+            ]
+          ],
+          "cards": [
+            {
+              "front": "this (masc. sing., near me)",
+              "back": "este"
+            },
+            {
+              "front": "these (masc. pl., near me)",
+              "back": "estes"
+            },
+            {
+              "front": "this (fem. sing., near me)",
+              "back": "esta"
+            },
+            {
+              "front": "these (fem. pl., near me)",
+              "back": "estas"
+            },
+            {
+              "front": "this (thing, invariable, near me)",
+              "back": "isto"
+            },
+            {
+              "front": "that (masc. sing., near you)",
+              "back": "esse"
+            },
+            {
+              "front": "those (masc. pl., near you)",
+              "back": "esses"
+            },
+            {
+              "front": "that (fem. sing., near you)",
+              "back": "essa"
+            },
+            {
+              "front": "those (fem. pl., near you)",
+              "back": "essas"
+            },
+            {
+              "front": "that (thing, invariable, near you)",
+              "back": "isso"
+            },
+            {
+              "front": "that (masc. sing., over there)",
+              "back": "aquele"
+            },
+            {
+              "front": "those (masc. pl., over there)",
+              "back": "aqueles"
+            },
+            {
+              "front": "that (fem. sing., over there)",
+              "back": "aquela"
+            },
+            {
+              "front": "those (fem. pl., over there)",
+              "back": "aquelas"
+            },
+            {
+              "front": "that (thing, invariable, over there)",
+              "back": "aquilo"
+            }
+          ]
+        },
+        {
+          "title": "Contractions with de",
+          "head": [
+            "",
+            "masc. sing.",
+            "masc. pl.",
+            "fem. sing.",
+            "fem. pl.",
+            "invariável (só pronome)"
+          ],
+          "rows": [
+            [
+              "1ª pessoa",
+              "deste",
+              "destes",
+              "desta",
+              "destas",
+              "disto"
+            ],
+            [
+              "2ª pessoa",
+              "desse",
+              "desses",
+              "dessa",
+              "dessas",
+              "disso"
+            ],
+            [
+              "3ª pessoa",
+              "daquele",
+              "daqueles",
+              "daquela",
+              "daquelas",
+              "daquilo"
+            ]
+          ],
+          "cards": [
+            {
+              "front": "de + este",
+              "back": "deste"
+            },
+            {
+              "front": "de + estes",
+              "back": "destes"
+            },
+            {
+              "front": "de + esta",
+              "back": "desta"
+            },
+            {
+              "front": "de + estas",
+              "back": "destas"
+            },
+            {
+              "front": "de + isto",
+              "back": "disto"
+            },
+            {
+              "front": "de + esse",
+              "back": "desse"
+            },
+            {
+              "front": "de + esses",
+              "back": "desses"
+            },
+            {
+              "front": "de + essa",
+              "back": "dessa"
+            },
+            {
+              "front": "de + essas",
+              "back": "dessas"
+            },
+            {
+              "front": "de + isso",
+              "back": "disso"
+            },
+            {
+              "front": "de + aquele",
+              "back": "daquele"
+            },
+            {
+              "front": "de + aqueles",
+              "back": "daqueles"
+            },
+            {
+              "front": "de + aquela",
+              "back": "daquela"
+            },
+            {
+              "front": "de + aquelas",
+              "back": "daquelas"
+            },
+            {
+              "front": "de + aquilo",
+              "back": "daquilo"
+            }
+          ]
+        },
+        {
+          "title": "Contractions with em",
+          "head": [
+            "",
+            "masc. sing.",
+            "masc. pl.",
+            "fem. sing.",
+            "fem. pl.",
+            "invariável (só pronome)"
+          ],
+          "rows": [
+            [
+              "1ª pessoa",
+              "neste",
+              "nestes",
+              "nesta",
+              "nestas",
+              "nisto"
+            ],
+            [
+              "2ª pessoa",
+              "nesse",
+              "nesses",
+              "nessa",
+              "nessas",
+              "nisso"
+            ],
+            [
+              "3ª pessoa",
+              "naquele",
+              "naqueles",
+              "naquela",
+              "naquelas",
+              "naquilo"
+            ]
+          ],
+          "cards": [
+            {
+              "front": "em + este",
+              "back": "neste"
+            },
+            {
+              "front": "em + estes",
+              "back": "nestes"
+            },
+            {
+              "front": "em + esta",
+              "back": "nesta"
+            },
+            {
+              "front": "em + estas",
+              "back": "nestas"
+            },
+            {
+              "front": "em + isto",
+              "back": "nisto"
+            },
+            {
+              "front": "em + esse",
+              "back": "nesse"
+            },
+            {
+              "front": "em + esses",
+              "back": "nesses"
+            },
+            {
+              "front": "em + essa",
+              "back": "nessa"
+            },
+            {
+              "front": "em + essas",
+              "back": "nessas"
+            },
+            {
+              "front": "em + isso",
+              "back": "nisso"
+            },
+            {
+              "front": "em + aquele",
+              "back": "naquele"
+            },
+            {
+              "front": "em + aqueles",
+              "back": "naqueles"
+            },
+            {
+              "front": "em + aquela",
+              "back": "naquela"
+            },
+            {
+              "front": "em + aquelas",
+              "back": "naquelas"
+            },
+            {
+              "front": "em + aquilo",
+              "back": "naquilo"
+            }
+          ]
+        },
+        {
+          "title": "Contractions with a",
+          "head": [
+            "",
+            "masc. sing.",
+            "masc. pl.",
+            "fem. sing.",
+            "fem. pl.",
+            "invariável (só pronome)"
+          ],
+          "rows": [
+            [
+              "3ª pessoa",
+              "àquele",
+              "àqueles",
+              "àquela",
+              "àquelas",
+              "àquilo"
+            ]
+          ],
+          "cards": [
+            {
+              "front": "a + aquele",
+              "back": "àquele"
+            },
+            {
+              "front": "a + aqueles",
+              "back": "àqueles"
+            },
+            {
+              "front": "a + aquela",
+              "back": "àquela"
+            },
+            {
+              "front": "a + aquelas",
+              "back": "àquelas"
+            },
+            {
+              "front": "a + aquilo",
+              "back": "àquilo"
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "title": "Pronomes pessoais",
+          "titleEn": "Personal pronouns",
+          "items": [
+            {
+              "n": 1,
+              "pt": "eu",
+              "en": "I",
+              "ex": {
+                "pt": "Eu sou de Lisboa.",
+                "en": "I'm from Lisbon."
+              }
+            },
+            {
+              "n": 2,
+              "pt": "tu",
+              "en": "you (informal)",
+              "note": "The default informal \"you\"; the verb is in the 2nd person (tu falas).",
+              "ex": {
+                "pt": "Tu falas português muito bem.",
+                "en": "You speak Portuguese very well."
+              }
+            },
+            {
+              "n": 3,
+              "pt": "você",
+              "en": "you (formal)",
+              "note": "Takes the 3rd-person singular verb (você fala). More distant than tu; often avoided by using the name or o senhor / a senhora.",
+              "ex": {
+                "pt": "Você é o novo professor?",
+                "en": "Are you the new teacher?"
+              }
+            },
+            {
+              "n": 4,
+              "pt": "ele",
+              "en": "he",
+              "ex": {
+                "pt": "Ele trabalha num banco.",
+                "en": "He works in a bank."
+              }
+            },
+            {
+              "n": 5,
+              "pt": "ela",
+              "en": "she",
+              "ex": {
+                "pt": "Ela tem dois irmãos.",
+                "en": "She has two brothers."
+              }
+            },
+            {
+              "n": 6,
+              "pt": "nós",
+              "en": "we",
+              "ex": {
+                "pt": "Nós vivemos perto da praia.",
+                "en": "We live near the beach."
+              }
+            },
+            {
+              "n": 7,
+              "pt": "vocês",
+              "en": "you (plural)",
+              "note": "Plural \"you\" (formal and informal); takes the 3rd-person plural verb (vocês falam).",
+              "ex": {
+                "pt": "Vocês querem um café?",
+                "en": "Do you want a coffee?"
+              }
+            },
+            {
+              "n": 8,
+              "pt": "eles",
+              "en": "they (masc. / mixed)",
+              "note": "For a group of men or a mixed group.",
+              "ex": {
+                "pt": "Eles estão a jogar à bola no jardim.",
+                "en": "They are playing ball in the garden."
+              }
+            },
+            {
+              "n": 9,
+              "pt": "elas",
+              "en": "they (fem.)",
+              "note": "Only for a group of women or feminine nouns.",
+              "ex": {
+                "pt": "Elas são irmãs.",
+                "en": "They are sisters."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Pronomes possessivos",
+          "titleEn": "Possessive pronouns",
+          "items": [
+            {
+              "n": 1,
+              "pt": "meu",
+              "en": "my / mine",
+              "note": "fem. minha; pl. meus, minhas",
+              "ex": {
+                "pt": "O meu irmão vive no Porto.",
+                "en": "My brother lives in Porto."
+              }
+            },
+            {
+              "n": 2,
+              "pt": "teu",
+              "en": "your / yours (tu)",
+              "note": "fem. tua; pl. teus, tuas",
+              "ex": {
+                "pt": "A tua casa é muito bonita.",
+                "en": "Your house is very pretty."
+              }
+            },
+            {
+              "n": 3,
+              "pt": "seu",
+              "en": "your / yours (você)",
+              "note": "fem. sua; pl. seus, suas. In PT-PT seu usually means \"your\" (você); for \"his / her\" use dele / dela.",
+              "ex": {
+                "pt": "O seu passaporte, por favor.",
+                "en": "Your passport, please."
+              }
+            },
+            {
+              "n": 4,
+              "pt": "dele",
+              "en": "his",
+              "note": "Invariable; goes after the noun: o carro dele, a casa dele.",
+              "ex": {
+                "pt": "O carro dele é novo.",
+                "en": "His car is new."
+              }
+            },
+            {
+              "n": 5,
+              "pt": "dela",
+              "en": "her / hers",
+              "note": "Invariable; goes after the noun: o livro dela, as chaves dela.",
+              "ex": {
+                "pt": "A mãe dela é professora.",
+                "en": "Her mother is a teacher."
+              }
+            },
+            {
+              "n": 6,
+              "pt": "nosso",
+              "en": "our / ours",
+              "note": "fem. nossa; pl. nossos, nossas",
+              "ex": {
+                "pt": "A nossa filha tem cinco anos.",
+                "en": "Our daughter is five years old."
+              }
+            },
+            {
+              "n": 7,
+              "pt": "vosso",
+              "en": "your / yours (vocês)",
+              "note": "fem. vossa; pl. vossos, vossas",
+              "ex": {
+                "pt": "Onde estão os vossos filhos?",
+                "en": "Where are your children?"
+              }
+            },
+            {
+              "n": 8,
+              "pt": "deles",
+              "en": "their / theirs (masc. / mixed)",
+              "note": "Invariable; goes after the noun: o filho deles, as filhas deles.",
+              "ex": {
+                "pt": "A casa deles fica perto do rio.",
+                "en": "Their house is near the river."
+              }
+            },
+            {
+              "n": 9,
+              "pt": "delas",
+              "en": "their / theirs (fem.)",
+              "note": "Invariable; goes after the noun: a casa delas.",
+              "ex": {
+                "pt": "Os pais delas são muito simpáticos.",
+                "en": "Their parents are very nice."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Pronomes demonstrativos",
+          "titleEn": "Demonstrative pronouns",
+          "items": [
+            {
+              "n": 1,
+              "pt": "este",
+              "en": "this (near me)",
+              "note": "fem. esta; pl. estes, estas",
+              "ex": {
+                "pt": "Este livro é muito interessante.",
+                "en": "This book is very interesting."
+              }
+            },
+            {
+              "n": 2,
+              "pt": "esse",
+              "en": "that (near you)",
+              "note": "fem. essa; pl. esses, essas",
+              "ex": {
+                "pt": "Essa camisola é tua?",
+                "en": "Is that jumper yours?"
+              }
+            },
+            {
+              "n": 3,
+              "pt": "aquele",
+              "en": "that (over there)",
+              "note": "fem. aquela; pl. aqueles, aquelas",
+              "ex": {
+                "pt": "Aquela casa ao fundo é a minha.",
+                "en": "That house at the end is mine."
+              }
+            },
+            {
+              "n": 4,
+              "pt": "isto",
+              "en": "this (thing)",
+              "note": "Invariable; used on its own for things, never before a noun.",
+              "ex": {
+                "pt": "O que é isto?",
+                "en": "What is this?"
+              }
+            },
+            {
+              "n": 5,
+              "pt": "isso",
+              "en": "that (thing, near you)",
+              "note": "Invariable; used on its own for things, never before a noun.",
+              "ex": {
+                "pt": "Isso é verdade.",
+                "en": "That's true."
+              }
+            },
+            {
+              "n": 6,
+              "pt": "aquilo",
+              "en": "that (thing, over there)",
+              "note": "Invariable; used on its own for things, never before a noun.",
+              "ex": {
+                "pt": "O que é aquilo ali?",
+                "en": "What's that over there?"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Pronomes interrogativos",
+          "titleEn": "Interrogative pronouns",
+          "items": [
+            {
+              "n": 1,
+              "pt": "o quê?",
+              "en": "what?",
+              "note": "At the end of a question or on its own (O quê?). At the start use \"O que…?\": O que fazes?",
+              "ex": {
+                "pt": "Estás a fazer o quê?",
+                "en": "What are you doing?"
+              }
+            },
+            {
+              "n": 2,
+              "pt": "porquê?",
+              "en": "why?",
+              "note": "With accent at the end of a question or on its own (Porquê?). At the start: Porque é que…? The answer \"because\" is porque.",
+              "ex": {
+                "pt": "Estás triste porquê?",
+                "en": "Why are you sad?"
+              }
+            },
+            {
+              "n": 3,
+              "pt": "como?",
+              "en": "how?",
+              "ex": {
+                "pt": "Como te chamas?",
+                "en": "What's your name?"
+              }
+            },
+            {
+              "n": 4,
+              "pt": "onde?",
+              "en": "where?",
+              "ex": {
+                "pt": "Onde fica a estação de comboios?",
+                "en": "Where is the train station?"
+              }
+            },
+            {
+              "n": 5,
+              "pt": "quando?",
+              "en": "when?",
+              "ex": {
+                "pt": "Quando é o teu aniversário?",
+                "en": "When is your birthday?"
+              }
+            },
+            {
+              "n": 6,
+              "pt": "quem?",
+              "en": "who?",
+              "ex": {
+                "pt": "Quem é aquela rapariga?",
+                "en": "Who is that girl?"
+              }
+            },
+            {
+              "n": 7,
+              "pt": "a quem?",
+              "en": "whom? / to whom?",
+              "ex": {
+                "pt": "A quem dás o presente?",
+                "en": "Who are you giving the present to?"
+              }
+            },
+            {
+              "n": 8,
+              "pt": "de quem?",
+              "en": "whose?",
+              "ex": {
+                "pt": "De quem é este telemóvel?",
+                "en": "Whose phone is this?"
+              }
+            },
+            {
+              "n": 9,
+              "pt": "por quem?",
+              "en": "by whom? / for whom?",
+              "ex": {
+                "pt": "Por quem esperas?",
+                "en": "Who are you waiting for?"
+              }
+            },
+            {
+              "n": 10,
+              "pt": "quanto?",
+              "en": "how much? / how many?",
+              "note": "Agrees with the noun: quanto, quanta, quantos, quantas (Quanta água bebes?).",
+              "ex": {
+                "pt": "Quantos anos tens?",
+                "en": "How old are you?"
+              }
+            },
+            {
+              "n": 11,
+              "pt": "qual?",
+              "en": "which? / what?",
+              "note": "pl. quais? (Quais são as tuas cores preferidas?)",
+              "ex": {
+                "pt": "Qual é o teu nome?",
+                "en": "What is your name?"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Pronomes relativos",
+          "titleEn": "Relative pronouns",
+          "items": [
+            {
+              "n": 1,
+              "pt": "alguém",
+              "en": "someone / somebody",
+              "ex": {
+                "pt": "Está alguém em casa?",
+                "en": "Is anyone home?"
+              }
+            },
+            {
+              "n": 2,
+              "pt": "ninguém",
+              "en": "no one / nobody",
+              "note": "With a verb after it, add não: não conheço ninguém.",
+              "ex": {
+                "pt": "Não conheço ninguém aqui.",
+                "en": "I don't know anyone here."
+              }
+            },
+            {
+              "n": 3,
+              "pt": "tudo",
+              "en": "everything / all",
+              "ex": {
+                "pt": "Está tudo bem?",
+                "en": "Is everything OK?"
+              }
+            },
+            {
+              "n": 4,
+              "pt": "nada",
+              "en": "nothing",
+              "note": "After a verb, add não: não tenho nada.",
+              "ex": {
+                "pt": "Não tenho nada no frigorífico.",
+                "en": "I have nothing in the fridge."
+              }
+            },
+            {
+              "n": 5,
+              "pt": "algo",
+              "en": "something",
+              "note": "Everyday speech often uses alguma coisa.",
+              "ex": {
+                "pt": "Queres beber algo?",
+                "en": "Do you want something to drink?"
+              }
+            },
+            {
+              "n": 6,
+              "pt": "cada",
+              "en": "each",
+              "note": "Invariable: cada dia, cada semana.",
+              "ex": {
+                "pt": "Cada aluno tem um livro.",
+                "en": "Each student has a book."
+              }
+            },
+            {
+              "n": 7,
+              "pt": "algum",
+              "en": "some",
+              "note": "fem. alguma; pl. alguns, algumas",
+              "ex": {
+                "pt": "Tens algum livro em inglês?",
+                "en": "Do you have any books in English?"
+              }
+            },
+            {
+              "n": 8,
+              "pt": "nenhum",
+              "en": "no / none",
+              "note": "fem. nenhuma; pl. nenhuns, nenhumas",
+              "ex": {
+                "pt": "Não tenho nenhum irmão.",
+                "en": "I don't have any brothers."
+              }
+            },
+            {
+              "n": 9,
+              "pt": "todo",
+              "en": "all / whole",
+              "note": "fem. toda; pl. todos, todas. todo o dia = all day; todos os dias = every day.",
+              "ex": {
+                "pt": "Trabalho todos os dias.",
+                "en": "I work every day."
+              }
+            },
+            {
+              "n": 10,
+              "pt": "qualquer",
+              "en": "any",
+              "note": "Same for both genders; pl. quaisquer.",
+              "ex": {
+                "pt": "Podes ligar-me a qualquer hora.",
+                "en": "You can call me at any time."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "numeros",
+      "title": "Números",
+      "titleEn": "Numbers",
+      "note": "1 and 2 have feminine forms (um / uma, dois / duas), also in 21, 22, 31… (vinte e uma), and so do the hundreds from 200 (duzentas, trezentas…).\nUse e between hundreds, tens and units: cento e vinte e um (121).\n100 is cem on its own, cento before other numbers (cento e um). mil never takes um: mil euros.\nPT-PT spellings: catorze, dezasseis, dezassete, dezanove. In written numbers, Portugal uses a dot (or space) for thousands and a comma for decimals: 10.000; 2,5.",
+      "groups": [
+        {
+          "title": "Números",
+          "titleEn": "Numbers",
+          "items": [
+            {
+              "n": 1,
+              "pt": "zero",
+              "en": "0",
+              "ex": {
+                "pt": "Hoje estão zero graus.",
+                "en": "It's zero degrees today."
+              }
+            },
+            {
+              "n": 2,
+              "pt": "um / uma",
+              "en": "1",
+              "note": "fem. uma",
+              "ex": {
+                "pt": "Tenho um irmão e uma irmã.",
+                "en": "I have one brother and one sister."
+              }
+            },
+            {
+              "n": 3,
+              "pt": "dois / duas",
+              "en": "2",
+              "note": "fem. duas",
+              "ex": {
+                "pt": "Quero dois cafés e duas águas, por favor.",
+                "en": "I want two coffees and two waters, please."
+              }
+            },
+            {
+              "n": 4,
+              "pt": "três",
+              "en": "3",
+              "ex": {
+                "pt": "A minha filha tem três anos.",
+                "en": "My daughter is three years old."
+              }
+            },
+            {
+              "n": 5,
+              "pt": "quatro",
+              "en": "4",
+              "ex": {
+                "pt": "A mesa tem quatro cadeiras.",
+                "en": "The table has four chairs."
+              }
+            },
+            {
+              "n": 6,
+              "pt": "cinco",
+              "en": "5",
+              "ex": {
+                "pt": "Trabalho cinco dias por semana.",
+                "en": "I work five days a week."
+              }
+            },
+            {
+              "n": 7,
+              "pt": "seis",
+              "en": "6",
+              "ex": {
+                "pt": "Acordo às seis da manhã.",
+                "en": "I wake up at six in the morning."
+              }
+            },
+            {
+              "n": 8,
+              "pt": "sete",
+              "en": "7",
+              "ex": {
+                "pt": "A semana tem sete dias.",
+                "en": "The week has seven days."
+              }
+            },
+            {
+              "n": 9,
+              "pt": "oito",
+              "en": "8",
+              "ex": {
+                "pt": "O jantar é às oito.",
+                "en": "Dinner is at eight."
+              }
+            },
+            {
+              "n": 10,
+              "pt": "nove",
+              "en": "9",
+              "ex": {
+                "pt": "O meu filho tem nove anos.",
+                "en": "My son is nine years old."
+              }
+            },
+            {
+              "n": 11,
+              "pt": "dez",
+              "en": "10",
+              "ex": {
+                "pt": "O autocarro chega daqui a dez minutos.",
+                "en": "The bus arrives in ten minutes."
+              }
+            },
+            {
+              "n": 12,
+              "pt": "onze",
+              "en": "11",
+              "ex": {
+                "pt": "Moro no número onze.",
+                "en": "I live at number eleven."
+              }
+            },
+            {
+              "n": 13,
+              "pt": "doze",
+              "en": "12",
+              "ex": {
+                "pt": "O ano tem doze meses.",
+                "en": "The year has twelve months."
+              }
+            },
+            {
+              "n": 14,
+              "pt": "treze",
+              "en": "13",
+              "ex": {
+                "pt": "O meu primo tem treze anos.",
+                "en": "My cousin is thirteen."
+              }
+            },
+            {
+              "n": 15,
+              "pt": "catorze",
+              "en": "14",
+              "note": "PT-PT spelling catorze (BR also quatorze).",
+              "ex": {
+                "pt": "A aula é às catorze horas.",
+                "en": "The class is at 2 p.m."
+              }
+            },
+            {
+              "n": 16,
+              "pt": "quinze",
+              "en": "15",
+              "ex": {
+                "pt": "Faltam quinze minutos para as nove.",
+                "en": "It's a quarter to nine."
+              }
+            },
+            {
+              "n": 17,
+              "pt": "dezasseis",
+              "en": "16",
+              "note": "PT-PT spelling (BR dezesseis).",
+              "ex": {
+                "pt": "Ela tem dezasseis anos.",
+                "en": "She is sixteen."
+              }
+            },
+            {
+              "n": 18,
+              "pt": "dezassete",
+              "en": "17",
+              "note": "PT-PT spelling (BR dezessete).",
+              "ex": {
+                "pt": "O comboio parte às dezassete horas.",
+                "en": "The train leaves at 5 p.m."
+              }
+            },
+            {
+              "n": 19,
+              "pt": "dezoito",
+              "en": "18",
+              "ex": {
+                "pt": "Em Portugal, podes conduzir a partir dos dezoito anos.",
+                "en": "In Portugal you can drive from the age of eighteen."
+              }
+            },
+            {
+              "n": 20,
+              "pt": "dezanove",
+              "en": "19",
+              "note": "PT-PT spelling (BR dezenove).",
+              "ex": {
+                "pt": "A loja fecha às dezanove horas.",
+                "en": "The shop closes at 7 p.m."
+              }
+            },
+            {
+              "n": 21,
+              "pt": "vinte",
+              "en": "20",
+              "ex": {
+                "pt": "O bilhete custa vinte euros.",
+                "en": "The ticket costs twenty euros."
+              }
+            },
+            {
+              "n": 22,
+              "pt": "vinte e um",
+              "en": "21",
+              "note": "fem. vinte e uma",
+              "ex": {
+                "pt": "Ele faz vinte e um anos amanhã.",
+                "en": "He turns twenty-one tomorrow."
+              }
+            },
+            {
+              "n": 23,
+              "pt": "vinte e dois",
+              "en": "22",
+              "note": "fem. vinte e duas",
+              "ex": {
+                "pt": "Há vinte e dois alunos na turma.",
+                "en": "There are twenty-two students in the class."
+              }
+            },
+            {
+              "n": 24,
+              "pt": "vinte e três",
+              "en": "23",
+              "ex": {
+                "pt": "Hoje é dia vinte e três.",
+                "en": "Today is the twenty-third."
+              }
+            },
+            {
+              "n": 25,
+              "pt": "vinte e quatro",
+              "en": "24",
+              "ex": {
+                "pt": "O dia tem vinte e quatro horas.",
+                "en": "A day has twenty-four hours."
+              }
+            },
+            {
+              "n": 26,
+              "pt": "vinte e cinco",
+              "en": "25",
+              "ex": {
+                "pt": "O Natal é a vinte e cinco de dezembro.",
+                "en": "Christmas is on the twenty-fifth of December."
+              }
+            },
+            {
+              "n": 27,
+              "pt": "vinte e seis",
+              "en": "26",
+              "ex": {
+                "pt": "A casa dela é o número vinte e seis.",
+                "en": "Her house is number twenty-six."
+              }
+            },
+            {
+              "n": 28,
+              "pt": "vinte e sete",
+              "en": "27",
+              "ex": {
+                "pt": "Hoje estão vinte e sete graus.",
+                "en": "It's twenty-seven degrees today."
+              }
+            },
+            {
+              "n": 29,
+              "pt": "vinte e oito",
+              "en": "28",
+              "ex": {
+                "pt": "Fevereiro tem vinte e oito dias.",
+                "en": "February has twenty-eight days."
+              }
+            },
+            {
+              "n": 30,
+              "pt": "vinte e nove",
+              "en": "29",
+              "ex": {
+                "pt": "O jantar custa vinte e nove euros.",
+                "en": "Dinner costs twenty-nine euros."
+              }
+            },
+            {
+              "n": 31,
+              "pt": "trinta",
+              "en": "30",
+              "ex": {
+                "pt": "Abril tem trinta dias.",
+                "en": "April has thirty days."
+              }
+            },
+            {
+              "n": 32,
+              "pt": "quarenta",
+              "en": "40",
+              "ex": {
+                "pt": "A viagem demora quarenta minutos.",
+                "en": "The trip takes forty minutes."
+              }
+            },
+            {
+              "n": 33,
+              "pt": "cinquenta",
+              "en": "50",
+              "ex": {
+                "pt": "Os meus pais têm cinquenta anos.",
+                "en": "My parents are fifty."
+              }
+            },
+            {
+              "n": 34,
+              "pt": "sessenta",
+              "en": "60",
+              "ex": {
+                "pt": "Uma hora tem sessenta minutos.",
+                "en": "An hour has sixty minutes."
+              }
+            },
+            {
+              "n": 35,
+              "pt": "setenta",
+              "en": "70",
+              "ex": {
+                "pt": "A minha avó tem setenta anos.",
+                "en": "My grandmother is seventy."
+              }
+            },
+            {
+              "n": 36,
+              "pt": "oitenta",
+              "en": "80",
+              "ex": {
+                "pt": "Este casaco custa oitenta euros.",
+                "en": "This coat costs eighty euros."
+              }
+            },
+            {
+              "n": 37,
+              "pt": "noventa",
+              "en": "90",
+              "ex": {
+                "pt": "O meu avô tem noventa anos.",
+                "en": "My grandfather is ninety."
+              }
+            },
+            {
+              "n": 38,
+              "pt": "cem",
+              "en": "100",
+              "note": "cem on its own (and in cem mil); cento before other numbers: cento e um.",
+              "ex": {
+                "pt": "Tenho cem euros na carteira.",
+                "en": "I have a hundred euros in my wallet."
+              }
+            },
+            {
+              "n": 39,
+              "pt": "cento e um",
+              "en": "101",
+              "note": "fem. cento e uma",
+              "ex": {
+                "pt": "O quarto dele é o cento e um.",
+                "en": "His room is number 101."
+              }
+            },
+            {
+              "n": 40,
+              "pt": "cento e vinte e um",
+              "en": "121",
+              "note": "e goes between hundreds, tens and units. fem. cento e vinte e uma",
+              "ex": {
+                "pt": "Há cento e vinte e um alunos na escola.",
+                "en": "There are 121 students at the school."
+              }
+            },
+            {
+              "n": 41,
+              "pt": "duzentos",
+              "en": "200",
+              "note": "fem. duzentas (duzentas pessoas)",
+              "ex": {
+                "pt": "O telemóvel custa duzentos euros.",
+                "en": "The phone costs two hundred euros."
+              }
+            },
+            {
+              "n": 42,
+              "pt": "trezentos",
+              "en": "300",
+              "note": "fem. trezentas",
+              "ex": {
+                "pt": "A escola tem trezentos alunos.",
+                "en": "The school has three hundred students."
+              }
+            },
+            {
+              "n": 43,
+              "pt": "quatrocentos",
+              "en": "400",
+              "note": "fem. quatrocentas",
+              "ex": {
+                "pt": "O voo custa quatrocentos euros.",
+                "en": "The flight costs four hundred euros."
+              }
+            },
+            {
+              "n": 44,
+              "pt": "quinhentos",
+              "en": "500",
+              "note": "fem. quinhentas",
+              "ex": {
+                "pt": "A praia fica a quinhentos metros.",
+                "en": "The beach is five hundred metres away."
+              }
+            },
+            {
+              "n": 45,
+              "pt": "seiscentos",
+              "en": "600",
+              "note": "fem. seiscentas",
+              "ex": {
+                "pt": "O apartamento custa seiscentos euros por mês.",
+                "en": "The flat costs six hundred euros a month."
+              }
+            },
+            {
+              "n": 46,
+              "pt": "setecentos",
+              "en": "700",
+              "note": "fem. setecentas",
+              "ex": {
+                "pt": "A aldeia tem setecentos habitantes.",
+                "en": "The village has seven hundred inhabitants."
+              }
+            },
+            {
+              "n": 47,
+              "pt": "oitocentos",
+              "en": "800",
+              "note": "fem. oitocentas",
+              "ex": {
+                "pt": "A ponte tem oitocentos metros.",
+                "en": "The bridge is eight hundred metres long."
+              }
+            },
+            {
+              "n": 48,
+              "pt": "novecentos",
+              "en": "900",
+              "note": "fem. novecentas",
+              "ex": {
+                "pt": "O frigorífico novo custa novecentos euros.",
+                "en": "The new fridge costs nine hundred euros."
+              }
+            },
+            {
+              "n": 49,
+              "pt": "mil",
+              "en": "1,000",
+              "note": "Invariable and without um: mil euros, dois mil euros.",
+              "ex": {
+                "pt": "Esta bicicleta custa mil euros.",
+                "en": "This bike costs a thousand euros."
+              }
+            },
+            {
+              "n": 50,
+              "pt": "mil e novecentos",
+              "en": "1900",
+              "note": "After mil, use e only when a round hundred (or a number under 100) follows: mil e novecentos, mil e dez.",
+              "ex": {
+                "pt": "Esta casa é de mil e novecentos.",
+                "en": "This house is from 1900."
+              }
+            },
+            {
+              "n": 51,
+              "pt": "mil novecentos e noventa e nove",
+              "en": "1999",
+              "note": "Years are read as normal numbers.",
+              "ex": {
+                "pt": "A minha irmã nasceu em mil novecentos e noventa e nove.",
+                "en": "My sister was born in 1999."
+              }
+            },
+            {
+              "n": 52,
+              "pt": "dois mil",
+              "en": "2000",
+              "ex": {
+                "pt": "O meu irmão nasceu em dois mil.",
+                "en": "My brother was born in 2000."
+              }
+            },
+            {
+              "n": 53,
+              "pt": "dez mil",
+              "en": "10,000",
+              "ex": {
+                "pt": "A cidade tem dez mil habitantes.",
+                "en": "The town has ten thousand inhabitants."
+              }
+            },
+            {
+              "n": 54,
+              "pt": "cem mil",
+              "en": "100,000",
+              "ex": {
+                "pt": "O apartamento custa cem mil euros.",
+                "en": "The flat costs a hundred thousand euros."
+              }
+            },
+            {
+              "n": 55,
+              "pt": "um milhão",
+              "en": "1,000,000",
+              "note": "Takes de before a noun: um milhão de euros. pl. milhões.",
+              "ex": {
+                "pt": "Ele quer ganhar um milhão de euros.",
+                "en": "He wants to win a million euros."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adjetivos",
+      "title": "Adjetivos",
+      "titleEn": "Adjectives",
+      "note": "Adjectives describe nouns and agree with them in gender and number. The list gives the masculine singular.\nFeminine: -o → -a (bonito → bonita); -dor → -dora (assustador → assustadora). Adjectives marked \"invariable in gender\" keep the same form: um homem feliz, uma mulher feliz. Irregular feminines are in the notes (bom → boa, mau → má).\nPlural: formed like nouns (bonito → bonitos, feliz → felizes, fácil → fáceis).\nComparatives:\n• mais + adj. + do que: O João é mais forte do que a Maria. (João is stronger than Maria.)\n• menos + adj. + do que: O João é menos divertido do que a Maria. (João is less fun than Maria.)\n• tão + adj. + como: O João é tão inteligente como a Maria. (João is as intelligent as Maria.)\nSuperlatives:\n• o / a mais + adj. (+ de todos): O João é o mais forte (de todos). (João is the strongest of all.)\n• o / a menos + adj. (+ de todos): O João é o menos divertido (de todos). (João is the least fun of all.)\n• \"very\": muito + adj., or adj. + -íssimo / -íssima: O João é muito inteligente = O João é inteligentíssimo.",
+      "tables": [
+        {
+          "title": "Irregular comparatives and superlatives",
+          "head": [
+            "adjetivo",
+            "comparativo",
+            "superlativo"
+          ],
+          "rows": [
+            [
+              "bom",
+              "melhor",
+              "o melhor"
+            ],
+            [
+              "mau",
+              "pior",
+              "o pior"
+            ],
+            [
+              "grande",
+              "maior",
+              "o maior"
+            ],
+            [
+              "pequeno",
+              "menor / mais pequeno",
+              "o menor / o mais pequeno"
+            ]
+          ],
+          "cards": [
+            {
+              "front": "bom → comparative",
+              "back": "melhor"
+            },
+            {
+              "front": "bom → superlative",
+              "back": "o melhor"
+            },
+            {
+              "front": "mau → comparative",
+              "back": "pior"
+            },
+            {
+              "front": "mau → superlative",
+              "back": "o pior"
+            },
+            {
+              "front": "grande → comparative",
+              "back": "maior"
+            },
+            {
+              "front": "grande → superlative",
+              "back": "o maior"
+            },
+            {
+              "front": "pequeno → comparative",
+              "back": "menor / mais pequeno"
+            },
+            {
+              "front": "pequeno → superlative",
+              "back": "o menor / o mais pequeno"
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "title": "Adjetivos mais comuns",
+          "titleEn": "Most common adjectives",
+          "items": [
+            {
+              "n": 1,
+              "pt": "bom",
+              "en": "good",
+              "note": "fem. boa; pl. bons, boas. Comparative: melhor.",
+              "ex": {
+                "pt": "Este restaurante é muito bom.",
+                "en": "This restaurant is very good."
+              }
+            },
+            {
+              "n": 2,
+              "pt": "mau",
+              "en": "bad",
+              "note": "fem. má; pl. maus, más. Comparative: pior.",
+              "ex": {
+                "pt": "Hoje está mau tempo.",
+                "en": "The weather is bad today."
+              }
+            },
+            {
+              "n": 3,
+              "pt": "melhor",
+              "en": "better",
+              "note": "invariable in gender; pl. melhores. Comparative of bom; o / a melhor = the best.",
+              "ex": {
+                "pt": "O teu bolo é melhor do que o meu.",
+                "en": "Your cake is better than mine."
+              }
+            },
+            {
+              "n": 4,
+              "pt": "pior",
+              "en": "worse",
+              "note": "invariable in gender; pl. piores. Comparative of mau; o / a pior = the worst.",
+              "ex": {
+                "pt": "Este filme é pior do que o primeiro.",
+                "en": "This film is worse than the first one."
+              }
+            },
+            {
+              "n": 5,
+              "pt": "ótimo",
+              "en": "great",
+              "ex": {
+                "pt": "A comida aqui é ótima!",
+                "en": "The food here is great!"
+              }
+            },
+            {
+              "n": 6,
+              "pt": "péssimo",
+              "en": "awful",
+              "ex": {
+                "pt": "O serviço é péssimo.",
+                "en": "The service is awful."
+              }
+            },
+            {
+              "n": 7,
+              "pt": "grande",
+              "en": "big",
+              "note": "invariable in gender; pl. grandes. Comparative: maior.",
+              "ex": {
+                "pt": "A casa deles é muito grande.",
+                "en": "Their house is very big."
+              }
+            },
+            {
+              "n": 8,
+              "pt": "pequeno",
+              "en": "small",
+              "note": "Comparative: mais pequeno (usual in PT-PT) or menor.",
+              "ex": {
+                "pt": "Tenho um quarto pequeno.",
+                "en": "I have a small bedroom."
+              }
+            },
+            {
+              "n": 9,
+              "pt": "bonito",
+              "en": "pretty",
+              "ex": {
+                "pt": "Que vestido tão bonito!",
+                "en": "What a pretty dress!"
+              }
+            },
+            {
+              "n": 10,
+              "pt": "feio",
+              "en": "ugly",
+              "ex": {
+                "pt": "Este edifício é muito feio.",
+                "en": "This building is very ugly."
+              }
+            },
+            {
+              "n": 11,
+              "pt": "certo",
+              "en": "right / correct",
+              "ex": {
+                "pt": "A tua resposta está certa.",
+                "en": "Your answer is right."
+              }
+            },
+            {
+              "n": 12,
+              "pt": "errado",
+              "en": "wrong",
+              "ex": {
+                "pt": "Acho que este número está errado.",
+                "en": "I think this number is wrong."
+              }
+            },
+            {
+              "n": 13,
+              "pt": "velho",
+              "en": "old",
+              "ex": {
+                "pt": "O meu carro já é velho.",
+                "en": "My car is old now."
+              }
+            },
+            {
+              "n": 14,
+              "pt": "novo",
+              "en": "new",
+              "note": "Also \"young\": ele é muito novo.",
+              "ex": {
+                "pt": "Tenho um telemóvel novo.",
+                "en": "I have a new phone."
+              }
+            },
+            {
+              "n": 15,
+              "pt": "jovem",
+              "en": "young",
+              "note": "invariable in gender; pl. jovens",
+              "ex": {
+                "pt": "Ela é uma professora jovem.",
+                "en": "She is a young teacher."
+              }
+            },
+            {
+              "n": 16,
+              "pt": "alto",
+              "en": "tall / high",
+              "ex": {
+                "pt": "O meu irmão é muito alto.",
+                "en": "My brother is very tall."
+              }
+            },
+            {
+              "n": 17,
+              "pt": "baixo",
+              "en": "short",
+              "note": "Short in height; also \"low\".",
+              "ex": {
+                "pt": "A minha avó é baixa.",
+                "en": "My grandmother is short."
+              }
+            },
+            {
+              "n": 18,
+              "pt": "feliz",
+              "en": "happy",
+              "note": "invariable in gender; pl. felizes",
+              "ex": {
+                "pt": "Estou muito feliz hoje.",
+                "en": "I'm very happy today."
+              }
+            },
+            {
+              "n": 19,
+              "pt": "triste",
+              "en": "sad",
+              "note": "invariable in gender",
+              "ex": {
+                "pt": "Porque é que estás triste?",
+                "en": "Why are you sad?"
+              }
+            },
+            {
+              "n": 20,
+              "pt": "alegre",
+              "en": "joyful",
+              "note": "invariable in gender",
+              "ex": {
+                "pt": "A Ana é uma pessoa muito alegre.",
+                "en": "Ana is a very cheerful person."
+              }
+            },
+            {
+              "n": 21,
+              "pt": "primeiro",
+              "en": "first",
+              "ex": {
+                "pt": "É a minha primeira vez em Portugal.",
+                "en": "It's my first time in Portugal."
+              }
+            },
+            {
+              "n": 22,
+              "pt": "último",
+              "en": "last",
+              "ex": {
+                "pt": "Este é o último comboio da noite.",
+                "en": "This is the last train of the night."
+              }
+            },
+            {
+              "n": 23,
+              "pt": "comprido",
+              "en": "long",
+              "ex": {
+                "pt": "Ela tem o cabelo comprido.",
+                "en": "She has long hair."
+              }
+            },
+            {
+              "n": 24,
+              "pt": "curto",
+              "en": "short",
+              "note": "Short in length or time (for height use baixo).",
+              "ex": {
+                "pt": "O filme é curto.",
+                "en": "The film is short."
+              }
+            },
+            {
+              "n": 25,
+              "pt": "largo",
+              "en": "wide",
+              "note": "False friend: \"large\" is grande.",
+              "ex": {
+                "pt": "Esta rua é muito larga.",
+                "en": "This street is very wide."
+              }
+            },
+            {
+              "n": 26,
+              "pt": "estreito",
+              "en": "narrow",
+              "ex": {
+                "pt": "As ruas de Alfama são estreitas.",
+                "en": "The streets of Alfama are narrow."
+              }
+            },
+            {
+              "n": 27,
+              "pt": "quente",
+              "en": "hot / warm",
+              "note": "invariable in gender",
+              "ex": {
+                "pt": "A sopa está muito quente.",
+                "en": "The soup is very hot."
+              }
+            },
+            {
+              "n": 28,
+              "pt": "frio",
+              "en": "cold",
+              "ex": {
+                "pt": "A água do mar está fria.",
+                "en": "The sea water is cold."
+              }
+            },
+            {
+              "n": 29,
+              "pt": "fácil",
+              "en": "easy",
+              "note": "invariable in gender; pl. fáceis",
+              "ex": {
+                "pt": "Este exercício é fácil.",
+                "en": "This exercise is easy."
+              }
+            },
+            {
+              "n": 30,
+              "pt": "difícil",
+              "en": "difficult",
+              "note": "invariable in gender; pl. difíceis",
+              "ex": {
+                "pt": "O português é difícil?",
+                "en": "Is Portuguese difficult?"
+              }
+            },
+            {
+              "n": 31,
+              "pt": "perto",
+              "en": "near",
+              "note": "Invariable (works like an adverb); perto de = near to.",
+              "ex": {
+                "pt": "O supermercado fica perto.",
+                "en": "The supermarket is near."
+              }
+            },
+            {
+              "n": 32,
+              "pt": "longe",
+              "en": "far",
+              "note": "Invariable (works like an adverb); longe de = far from.",
+              "ex": {
+                "pt": "A praia fica longe daqui.",
+                "en": "The beach is far from here."
+              }
+            },
+            {
+              "n": 33,
+              "pt": "forte",
+              "en": "strong",
+              "note": "invariable in gender",
+              "ex": {
+                "pt": "Este café é muito forte.",
+                "en": "This coffee is very strong."
+              }
+            },
+            {
+              "n": 34,
+              "pt": "fraco",
+              "en": "weak",
+              "ex": {
+                "pt": "Hoje sinto-me fraco.",
+                "en": "I feel weak today."
+              }
+            },
+            {
+              "n": 35,
+              "pt": "esperto",
+              "en": "smart / clever",
+              "ex": {
+                "pt": "O teu cão é muito esperto.",
+                "en": "Your dog is very clever."
+              }
+            },
+            {
+              "n": 36,
+              "pt": "inteligente",
+              "en": "intelligent",
+              "note": "invariable in gender",
+              "ex": {
+                "pt": "A minha irmã é muito inteligente.",
+                "en": "My sister is very intelligent."
+              }
+            },
+            {
+              "n": 37,
+              "pt": "burro",
+              "en": "dumb",
+              "note": "Informal and can be rude; also the noun \"donkey\".",
+              "ex": {
+                "pt": "Não sou burro, só estou cansado.",
+                "en": "I'm not dumb, I'm just tired."
+              }
+            },
+            {
+              "n": 38,
+              "pt": "estúpido",
+              "en": "stupid",
+              "ex": {
+                "pt": "Que pergunta estúpida!",
+                "en": "What a stupid question!"
+              }
+            },
+            {
+              "n": 39,
+              "pt": "igual",
+              "en": "equal / same",
+              "note": "invariable in gender; pl. iguais",
+              "ex": {
+                "pt": "Os dois carros são iguais.",
+                "en": "The two cars are the same."
+              }
+            },
+            {
+              "n": 40,
+              "pt": "diferente",
+              "en": "different",
+              "note": "invariable in gender",
+              "ex": {
+                "pt": "A vida aqui é muito diferente.",
+                "en": "Life here is very different."
+              }
+            },
+            {
+              "n": 41,
+              "pt": "aberto",
+              "en": "open",
+              "ex": {
+                "pt": "A farmácia está aberta até às dez.",
+                "en": "The pharmacy is open until ten."
+              }
+            },
+            {
+              "n": 42,
+              "pt": "fechado",
+              "en": "closed",
+              "ex": {
+                "pt": "O museu está fechado à segunda-feira.",
+                "en": "The museum is closed on Mondays."
+              }
+            },
+            {
+              "n": 43,
+              "pt": "educado",
+              "en": "polite",
+              "note": "False friend: means \"polite\", not \"educated\".",
+              "ex": {
+                "pt": "O teu filho é muito educado.",
+                "en": "Your son is very polite."
+              }
+            },
+            {
+              "n": 44,
+              "pt": "mal-educado / malcriado",
+              "en": "impolite / rude",
+              "ex": {
+                "pt": "Não sejas mal-educado!",
+                "en": "Don't be rude!"
+              }
+            },
+            {
+              "n": 45,
+              "pt": "próprio",
+              "en": "own",
+              "ex": {
+                "pt": "Ela tem o seu próprio negócio.",
+                "en": "She has her own business."
+              }
+            },
+            {
+              "n": 46,
+              "pt": "atrasado",
+              "en": "late",
+              "note": "Used with estar: estou atrasado.",
+              "ex": {
+                "pt": "Desculpa, estou atrasado.",
+                "en": "Sorry, I'm late."
+              }
+            },
+            {
+              "n": 47,
+              "pt": "importante",
+              "en": "important",
+              "note": "invariable in gender",
+              "ex": {
+                "pt": "Amanhã tenho uma reunião importante.",
+                "en": "I have an important meeting tomorrow."
+              }
+            },
+            {
+              "n": 48,
+              "pt": "chato",
+              "en": "annoying",
+              "note": "Informal; also \"boring\" or \"a pain\".",
+              "ex": {
+                "pt": "O meu vizinho é muito chato.",
+                "en": "My neighbour is really annoying."
+              }
+            },
+            {
+              "n": 49,
+              "pt": "calmo",
+              "en": "calm",
+              "ex": {
+                "pt": "O mar hoje está calmo.",
+                "en": "The sea is calm today."
+              }
+            },
+            {
+              "n": 50,
+              "pt": "nervoso",
+              "en": "nervous",
+              "ex": {
+                "pt": "Estou nervoso antes do exame.",
+                "en": "I'm nervous before the exam."
+              }
+            },
+            {
+              "n": 51,
+              "pt": "seguro",
+              "en": "safe / sure",
+              "ex": {
+                "pt": "Este bairro é muito seguro.",
+                "en": "This neighbourhood is very safe."
+              }
+            },
+            {
+              "n": 52,
+              "pt": "inseguro",
+              "en": "unsafe / unsure",
+              "ex": {
+                "pt": "Ela ainda está insegura com o português.",
+                "en": "She still feels unsure about her Portuguese."
+              }
+            },
+            {
+              "n": 53,
+              "pt": "orgulhoso",
+              "en": "proud",
+              "ex": {
+                "pt": "Os pais estão orgulhosos da filha.",
+                "en": "The parents are proud of their daughter."
+              }
+            },
+            {
+              "n": 54,
+              "pt": "envergonhado",
+              "en": "ashamed",
+              "note": "Also \"embarrassed\".",
+              "ex": {
+                "pt": "Ele está envergonhado com o erro.",
+                "en": "He is ashamed of the mistake."
+              }
+            },
+            {
+              "n": 55,
+              "pt": "duro",
+              "en": "hard",
+              "ex": {
+                "pt": "Este pão está duro.",
+                "en": "This bread is hard."
+              }
+            },
+            {
+              "n": 56,
+              "pt": "mole",
+              "en": "soft",
+              "note": "invariable in gender",
+              "ex": {
+                "pt": "Gosto de pão mole.",
+                "en": "I like soft bread."
+              }
+            },
+            {
+              "n": 57,
+              "pt": "seco",
+              "en": "dry",
+              "ex": {
+                "pt": "A roupa já está seca.",
+                "en": "The clothes are dry now."
+              }
+            },
+            {
+              "n": 58,
+              "pt": "molhado",
+              "en": "wet",
+              "ex": {
+                "pt": "Os meus sapatos estão molhados.",
+                "en": "My shoes are wet."
+              }
+            },
+            {
+              "n": 59,
+              "pt": "suave",
+              "en": "smooth",
+              "note": "invariable in gender; also \"soft / gentle\".",
+              "ex": {
+                "pt": "Esta toalha é muito suave.",
+                "en": "This towel is very smooth."
+              }
+            },
+            {
+              "n": 60,
+              "pt": "áspero",
+              "en": "rough",
+              "ex": {
+                "pt": "A parede é áspera.",
+                "en": "The wall is rough."
+              }
+            },
+            {
+              "n": 61,
+              "pt": "leve",
+              "en": "light",
+              "note": "invariable in gender",
+              "ex": {
+                "pt": "A mala está leve.",
+                "en": "The bag is light."
+              }
+            },
+            {
+              "n": 62,
+              "pt": "pesado",
+              "en": "heavy",
+              "ex": {
+                "pt": "Esta caixa é muito pesada.",
+                "en": "This box is very heavy."
+              }
+            },
+            {
+              "n": 63,
+              "pt": "barato",
+              "en": "cheap",
+              "ex": {
+                "pt": "A fruta aqui é barata.",
+                "en": "The fruit here is cheap."
+              }
+            },
+            {
+              "n": 64,
+              "pt": "caro",
+              "en": "expensive",
+              "ex": {
+                "pt": "Lisboa está cada vez mais cara.",
+                "en": "Lisbon is getting more and more expensive."
+              }
+            },
+            {
+              "n": 65,
+              "pt": "ocupado",
+              "en": "busy",
+              "ex": {
+                "pt": "Hoje estou muito ocupado.",
+                "en": "I'm very busy today."
+              }
+            },
+            {
+              "n": 66,
+              "pt": "disponível",
+              "en": "available",
+              "note": "invariable in gender; pl. disponíveis",
+              "ex": {
+                "pt": "O médico está disponível amanhã?",
+                "en": "Is the doctor available tomorrow?"
+              }
+            },
+            {
+              "n": 67,
+              "pt": "divertido",
+              "en": "fun",
+              "ex": {
+                "pt": "A festa é muito divertida.",
+                "en": "The party is a lot of fun."
+              }
+            },
+            {
+              "n": 68,
+              "pt": "engraçado",
+              "en": "funny",
+              "ex": {
+                "pt": "O teu irmão é muito engraçado.",
+                "en": "Your brother is very funny."
+              }
+            },
+            {
+              "n": 69,
+              "pt": "aborrecido",
+              "en": "boring",
+              "note": "ser aborrecido = to be boring; estar aborrecido = to be bored / annoyed.",
+              "ex": {
+                "pt": "Este livro é aborrecido.",
+                "en": "This book is boring."
+              }
+            },
+            {
+              "n": 70,
+              "pt": "saudável",
+              "en": "healthy",
+              "note": "invariable in gender; pl. saudáveis",
+              "ex": {
+                "pt": "A sopa é uma refeição saudável.",
+                "en": "Soup is a healthy meal."
+              }
+            },
+            {
+              "n": 71,
+              "pt": "doente",
+              "en": "sick",
+              "note": "invariable in gender",
+              "ex": {
+                "pt": "O meu filho está doente.",
+                "en": "My son is sick."
+              }
+            },
+            {
+              "n": 72,
+              "pt": "limpo",
+              "en": "clean",
+              "ex": {
+                "pt": "A cozinha está limpa.",
+                "en": "The kitchen is clean."
+              }
+            },
+            {
+              "n": 73,
+              "pt": "sujo",
+              "en": "dirty",
+              "ex": {
+                "pt": "O carro está muito sujo.",
+                "en": "The car is very dirty."
+              }
+            },
+            {
+              "n": 74,
+              "pt": "assustador",
+              "en": "scary",
+              "note": "fem. assustadora",
+              "ex": {
+                "pt": "Este filme é assustador.",
+                "en": "This film is scary."
+              }
+            },
+            {
+              "n": 75,
+              "pt": "maravilhoso",
+              "en": "wonderful",
+              "ex": {
+                "pt": "A vista daqui é maravilhosa.",
+                "en": "The view from here is wonderful."
+              }
+            },
+            {
+              "n": 76,
+              "pt": "cansado",
+              "en": "tired",
+              "ex": {
+                "pt": "Estou muito cansado hoje.",
+                "en": "I'm very tired today."
+              }
+            },
+            {
+              "n": 77,
+              "pt": "rico",
+              "en": "rich",
+              "ex": {
+                "pt": "Ele é rico, mas não é feliz.",
+                "en": "He's rich, but he isn't happy."
+              }
+            },
+            {
+              "n": 78,
+              "pt": "pobre",
+              "en": "poor",
+              "note": "invariable in gender",
+              "ex": {
+                "pt": "É uma região pobre.",
+                "en": "It's a poor region."
+              }
+            },
+            {
+              "n": 79,
+              "pt": "famoso",
+              "en": "famous",
+              "ex": {
+                "pt": "Este café é famoso pelos pastéis de nata.",
+                "en": "This café is famous for its custard tarts."
+              }
+            },
+            {
+              "n": 80,
+              "pt": "conhecido",
+              "en": "known",
+              "ex": {
+                "pt": "Ele é um cantor muito conhecido.",
+                "en": "He is a very well-known singer."
+              }
+            },
+            {
+              "n": 81,
+              "pt": "desconhecido",
+              "en": "unknown",
+              "ex": {
+                "pt": "O autor do livro é desconhecido.",
+                "en": "The author of the book is unknown."
+              }
+            },
+            {
+              "n": 82,
+              "pt": "lento",
+              "en": "slow",
+              "ex": {
+                "pt": "A internet hoje está muito lenta.",
+                "en": "The internet is very slow today."
+              }
+            },
+            {
+              "n": 83,
+              "pt": "rápido",
+              "en": "quick / fast",
+              "ex": {
+                "pt": "O comboio é mais rápido do que o autocarro.",
+                "en": "The train is faster than the bus."
+              }
+            },
+            {
+              "n": 84,
+              "pt": "fantástico",
+              "en": "fantastic",
+              "ex": {
+                "pt": "As férias são fantásticas!",
+                "en": "The holidays are fantastic!"
+              }
+            },
+            {
+              "n": 85,
+              "pt": "horrível",
+              "en": "horrible",
+              "note": "invariable in gender; pl. horríveis",
+              "ex": {
+                "pt": "O tempo está horrível.",
+                "en": "The weather is horrible."
+              }
+            },
+            {
+              "n": 86,
+              "pt": "terrível",
+              "en": "terrible",
+              "note": "invariable in gender; pl. terríveis",
+              "ex": {
+                "pt": "Tenho uma dor de cabeça terrível.",
+                "en": "I have a terrible headache."
+              }
+            },
+            {
+              "n": 87,
+              "pt": "honesto",
+              "en": "honest",
+              "ex": {
+                "pt": "Ele é um homem honesto.",
+                "en": "He is an honest man."
+              }
+            },
+            {
+              "n": 88,
+              "pt": "desonesto",
+              "en": "dishonest",
+              "ex": {
+                "pt": "Não gosto de pessoas desonestas.",
+                "en": "I don't like dishonest people."
+              }
+            },
+            {
+              "n": 89,
+              "pt": "claro",
+              "en": "bright / light",
+              "note": "Also \"clear\"; Claro! = Of course!",
+              "ex": {
+                "pt": "A sala é muito clara.",
+                "en": "The living room is very bright."
+              }
+            },
+            {
+              "n": 90,
+              "pt": "escuro",
+              "en": "dark",
+              "ex": {
+                "pt": "À noite, a rua é muito escura.",
+                "en": "At night the street is very dark."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cores",
+      "title": "Cores",
+      "titleEn": "Colors",
+      "note": "Colours can be nouns or adjectives; as adjectives they go after the noun and agree like other adjectives: um carro branco, uma casa branca, sapatos brancos.\nFor shades, add claro (light) or escuro (dark) after the colour with a hyphen: azul-escuro (dark blue), castanho-claro (light brown).",
+      "groups": [
+        {
+          "title": "Cores",
+          "titleEn": "Colors",
+          "items": [
+            {
+              "n": 1,
+              "pt": "branco",
+              "en": "white",
+              "ex": {
+                "pt": "Tenho uma camisa branca nova.",
+                "en": "I have a new white shirt."
+              }
+            },
+            {
+              "n": 2,
+              "pt": "preto / negro",
+              "en": "black",
+              "note": "preto is the everyday word; negro is more formal or literary.",
+              "ex": {
+                "pt": "O gato da vizinha é preto.",
+                "en": "The neighbour's cat is black."
+              }
+            },
+            {
+              "n": 3,
+              "pt": "cinzento",
+              "en": "grey",
+              "note": "PT-PT (BR cinza).",
+              "ex": {
+                "pt": "O céu está cinzento hoje.",
+                "en": "The sky is grey today."
+              }
+            },
+            {
+              "n": 4,
+              "pt": "vermelho",
+              "en": "red",
+              "ex": {
+                "pt": "Ela tem um carro vermelho.",
+                "en": "She has a red car."
+              }
+            },
+            {
+              "n": 5,
+              "pt": "verde",
+              "en": "green",
+              "note": "invariable in gender; pl. verdes",
+              "ex": {
+                "pt": "Os olhos dele são verdes.",
+                "en": "His eyes are green."
+              }
+            },
+            {
+              "n": 6,
+              "pt": "azul",
+              "en": "blue",
+              "note": "invariable in gender; pl. azuis",
+              "ex": {
+                "pt": "Hoje o mar está muito azul.",
+                "en": "The sea is very blue today."
+              }
+            },
+            {
+              "n": 7,
+              "pt": "amarelo",
+              "en": "yellow",
+              "ex": {
+                "pt": "As bananas maduras são amarelas.",
+                "en": "Ripe bananas are yellow."
+              }
+            },
+            {
+              "n": 8,
+              "pt": "cor-de-laranja",
+              "en": "orange",
+              "note": "Invariable in gender and number; also just laranja.",
+              "ex": {
+                "pt": "Gosto do teu chapéu cor-de-laranja.",
+                "en": "I like your orange hat."
+              }
+            },
+            {
+              "n": 9,
+              "pt": "castanho",
+              "en": "brown",
+              "note": "PT-PT (BR marrom).",
+              "ex": {
+                "pt": "Ela tem o cabelo castanho.",
+                "en": "She has brown hair."
+              }
+            },
+            {
+              "n": 10,
+              "pt": "cor-de-rosa",
+              "en": "pink",
+              "note": "Invariable in gender and number: as flores cor-de-rosa.",
+              "ex": {
+                "pt": "A minha filha adora vestidos cor-de-rosa.",
+                "en": "My daughter loves pink dresses."
+              }
+            },
+            {
+              "n": 11,
+              "pt": "roxo",
+              "en": "purple",
+              "ex": {
+                "pt": "Estas flores roxas são lindas.",
+                "en": "These purple flowers are beautiful."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adverbios",
+      "title": "Advérbios",
+      "titleEn": "Adverbs",
+      "note": "Adverbs modify verbs, adjectives or other adverbs, expressing time, manner, place, intensity, inclusion, affirmation, etc. The list is organised by category.\nMany adverbs come from adjectives: add -mente to the feminine form. rápido → rápida → rapidamente; calmo → calmamente; fácil → facilmente.\nMany English adverbs in -ly are the same in Portuguese with -mente: frequently = frequentemente.",
+      "groups": [
+        {
+          "title": "Advérbios interrogativos",
+          "titleEn": "Interrogative adverbs",
+          "items": [
+            {
+              "n": 1,
+              "pt": "porque?",
+              "en": "why?",
+              "note": "In PT-PT questions usually start Porque é que…?; on its own or at the end: porquê?",
+              "ex": {
+                "pt": "Porque é que estás a rir?",
+                "en": "Why are you laughing?"
+              }
+            },
+            {
+              "n": 2,
+              "pt": "como?",
+              "en": "how?",
+              "ex": {
+                "pt": "Como vais para o trabalho?",
+                "en": "How do you get to work?"
+              }
+            },
+            {
+              "n": 3,
+              "pt": "quando?",
+              "en": "when?",
+              "ex": {
+                "pt": "Quando começam as aulas?",
+                "en": "When do classes start?"
+              }
+            },
+            {
+              "n": 4,
+              "pt": "onde?",
+              "en": "where?",
+              "ex": {
+                "pt": "Onde moras?",
+                "en": "Where do you live?"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Advérbios de tempo",
+          "titleEn": "Adverbs of time",
+          "items": [
+            {
+              "n": 1,
+              "pt": "hoje",
+              "en": "today",
+              "ex": {
+                "pt": "Hoje está muito calor.",
+                "en": "It's very hot today."
+              }
+            },
+            {
+              "n": 2,
+              "pt": "ontem",
+              "en": "yesterday",
+              "ex": {
+                "pt": "Ontem fui ao cinema com a minha irmã.",
+                "en": "Yesterday I went to the cinema with my sister."
+              }
+            },
+            {
+              "n": 3,
+              "pt": "amanhã",
+              "en": "tomorrow",
+              "ex": {
+                "pt": "Amanhã tenho um exame.",
+                "en": "I have an exam tomorrow."
+              }
+            },
+            {
+              "n": 4,
+              "pt": "cedo",
+              "en": "early",
+              "ex": {
+                "pt": "Levanto-me cedo todos os dias.",
+                "en": "I get up early every day."
+              }
+            },
+            {
+              "n": 5,
+              "pt": "tarde",
+              "en": "late",
+              "note": "As a noun, a tarde = the afternoon.",
+              "ex": {
+                "pt": "Ele chega sempre tarde.",
+                "en": "He always arrives late."
+              }
+            },
+            {
+              "n": 6,
+              "pt": "agora",
+              "en": "now",
+              "ex": {
+                "pt": "Agora não posso falar.",
+                "en": "I can't talk now."
+              }
+            },
+            {
+              "n": 7,
+              "pt": "já",
+              "en": "already / now",
+              "note": "Also \"right away\": Já vou! = Coming!",
+              "ex": {
+                "pt": "Já sei a resposta.",
+                "en": "I already know the answer."
+              }
+            },
+            {
+              "n": 8,
+              "pt": "logo",
+              "en": "later / right away / therefore",
+              "ex": {
+                "pt": "Até logo!",
+                "en": "See you later!"
+              }
+            },
+            {
+              "n": 9,
+              "pt": "então",
+              "en": "then / so",
+              "ex": {
+                "pt": "Então, vamos?",
+                "en": "So, shall we go?"
+              }
+            },
+            {
+              "n": 10,
+              "pt": "sempre",
+              "en": "always",
+              "ex": {
+                "pt": "Ela está sempre bem-disposta.",
+                "en": "She's always in a good mood."
+              }
+            },
+            {
+              "n": 11,
+              "pt": "nunca",
+              "en": "never",
+              "ex": {
+                "pt": "Nunca bebo café à noite.",
+                "en": "I never drink coffee at night."
+              }
+            },
+            {
+              "n": 12,
+              "pt": "às vezes",
+              "en": "sometimes",
+              "ex": {
+                "pt": "Às vezes vou a pé para o trabalho.",
+                "en": "Sometimes I walk to work."
+              }
+            },
+            {
+              "n": 13,
+              "pt": "frequentemente",
+              "en": "often / frequently",
+              "ex": {
+                "pt": "Vamos frequentemente à praia no verão.",
+                "en": "We often go to the beach in summer."
+              }
+            },
+            {
+              "n": 14,
+              "pt": "antes",
+              "en": "before",
+              "note": "antes de + noun / infinitive.",
+              "ex": {
+                "pt": "Lavo as mãos antes de comer.",
+                "en": "I wash my hands before eating."
+              }
+            },
+            {
+              "n": 15,
+              "pt": "depois",
+              "en": "after / afterwards",
+              "note": "depois de + noun / infinitive.",
+              "ex": {
+                "pt": "Depois do jantar, vemos um filme.",
+                "en": "After dinner, we watch a film."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Advérbios de afirmação, negação, inclusão e exclusão",
+          "titleEn": "Adverbs of affirmation, denial, inclusion and exclusion",
+          "items": [
+            {
+              "n": 1,
+              "pt": "sim",
+              "en": "yes",
+              "ex": {
+                "pt": "Sim, quero um café, por favor.",
+                "en": "Yes, I want a coffee, please."
+              }
+            },
+            {
+              "n": 2,
+              "pt": "certamente / decerto",
+              "en": "certainly / surely",
+              "ex": {
+                "pt": "Ele certamente vai gostar do presente.",
+                "en": "He'll certainly like the present."
+              }
+            },
+            {
+              "n": 3,
+              "pt": "não",
+              "en": "no / not",
+              "note": "Goes before the verb (and before any clitic): não me lembro.",
+              "ex": {
+                "pt": "Não, obrigado.",
+                "en": "No, thank you."
+              }
+            },
+            {
+              "n": 4,
+              "pt": "nem",
+              "en": "neither / nor / not even",
+              "ex": {
+                "pt": "Ele nem sabe o meu nome.",
+                "en": "He doesn't even know my name."
+              }
+            },
+            {
+              "n": 5,
+              "pt": "talvez",
+              "en": "maybe",
+              "note": "Before a verb it takes the subjunctive: talvez vá.",
+              "ex": {
+                "pt": "— Vens jantar? — Talvez.",
+                "en": "— Are you coming to dinner? — Maybe."
+              }
+            },
+            {
+              "n": 6,
+              "pt": "mesmo",
+              "en": "even / really",
+              "ex": {
+                "pt": "Isto é mesmo bom!",
+                "en": "This is really good!"
+              }
+            },
+            {
+              "n": 7,
+              "pt": "senão",
+              "en": "otherwise",
+              "ex": {
+                "pt": "Despacha-te, senão perdes o comboio.",
+                "en": "Hurry up, otherwise you'll miss the train."
+              }
+            },
+            {
+              "n": 8,
+              "pt": "também",
+              "en": "also",
+              "note": "Clitics go before the verb after também: também me lembro.",
+              "ex": {
+                "pt": "Eu também gosto de chocolate.",
+                "en": "I also like chocolate."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Advérbios de modo",
+          "titleEn": "Adverbs of manner",
+          "items": [
+            {
+              "n": 1,
+              "pt": "bem",
+              "en": "well",
+              "ex": {
+                "pt": "Ela canta muito bem.",
+                "en": "She sings very well."
+              }
+            },
+            {
+              "n": 2,
+              "pt": "mal",
+              "en": "badly",
+              "note": "Adverb; the adjective is mau.",
+              "ex": {
+                "pt": "Ele conduz mal.",
+                "en": "He drives badly."
+              }
+            },
+            {
+              "n": 3,
+              "pt": "melhor",
+              "en": "better",
+              "ex": {
+                "pt": "Hoje sinto-me melhor.",
+                "en": "I feel better today."
+              }
+            },
+            {
+              "n": 4,
+              "pt": "pior",
+              "en": "worse",
+              "ex": {
+                "pt": "Hoje o trânsito está pior do que ontem.",
+                "en": "The traffic is worse today than yesterday."
+              }
+            },
+            {
+              "n": 5,
+              "pt": "assim",
+              "en": "so / this way",
+              "ex": {
+                "pt": "Faz assim, é mais fácil.",
+                "en": "Do it this way, it's easier."
+              }
+            },
+            {
+              "n": 6,
+              "pt": "rapidamente",
+              "en": "quickly / fast",
+              "ex": {
+                "pt": "Ele responde rapidamente às mensagens.",
+                "en": "He answers messages quickly."
+              }
+            },
+            {
+              "n": 7,
+              "pt": "depressa",
+              "en": "fast / quickly",
+              "ex": {
+                "pt": "Anda depressa, estamos atrasados!",
+                "en": "Come on, quick, we're late!"
+              }
+            },
+            {
+              "n": 8,
+              "pt": "devagar",
+              "en": "slowly",
+              "ex": {
+                "pt": "Fala mais devagar, por favor.",
+                "en": "Speak more slowly, please."
+              }
+            },
+            {
+              "n": 9,
+              "pt": "realmente",
+              "en": "really",
+              "ex": {
+                "pt": "Este bolo é realmente delicioso.",
+                "en": "This cake is really delicious."
+              }
+            },
+            {
+              "n": 10,
+              "pt": "sobretudo",
+              "en": "above all",
+              "ex": {
+                "pt": "Gosto de fruta, sobretudo de morangos.",
+                "en": "I like fruit, above all strawberries."
+              }
+            },
+            {
+              "n": 11,
+              "pt": "principalmente",
+              "en": "mainly",
+              "ex": {
+                "pt": "Viajo principalmente no verão.",
+                "en": "I mainly travel in summer."
+              }
+            },
+            {
+              "n": 12,
+              "pt": "facilmente",
+              "en": "easily",
+              "ex": {
+                "pt": "Ela aprende línguas facilmente.",
+                "en": "She learns languages easily."
+              }
+            },
+            {
+              "n": 13,
+              "pt": "felizmente",
+              "en": "fortunately",
+              "ex": {
+                "pt": "Felizmente, ninguém está ferido.",
+                "en": "Fortunately, nobody is hurt."
+              }
+            },
+            {
+              "n": 14,
+              "pt": "infelizmente",
+              "en": "unfortunately",
+              "ex": {
+                "pt": "Infelizmente, não posso ir à festa.",
+                "en": "Unfortunately, I can't go to the party."
+              }
+            },
+            {
+              "n": 15,
+              "pt": "calmamente",
+              "en": "calmly",
+              "ex": {
+                "pt": "O professor explica tudo calmamente.",
+                "en": "The teacher explains everything calmly."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Advérbios de lugar",
+          "titleEn": "Adverbs of place",
+          "items": [
+            {
+              "n": 1,
+              "pt": "aqui / cá",
+              "en": "here",
+              "note": "cá is very common in PT-PT, especially with verbs of movement: vem cá.",
+              "ex": {
+                "pt": "Vem cá, por favor.",
+                "en": "Come here, please."
+              }
+            },
+            {
+              "n": 2,
+              "pt": "ali / lá",
+              "en": "there",
+              "note": "ali = over there (nearby, visible); lá = there (further away): vou lá amanhã.",
+              "ex": {
+                "pt": "A farmácia é ali, à esquerda.",
+                "en": "The pharmacy is over there, on the left."
+              }
+            },
+            {
+              "n": 3,
+              "pt": "perto",
+              "en": "near / close to",
+              "note": "perto de + noun.",
+              "ex": {
+                "pt": "A minha casa fica perto da escola.",
+                "en": "My house is near the school."
+              }
+            },
+            {
+              "n": 4,
+              "pt": "longe",
+              "en": "far",
+              "note": "longe de + noun.",
+              "ex": {
+                "pt": "O aeroporto fica longe daqui?",
+                "en": "Is the airport far from here?"
+              }
+            },
+            {
+              "n": 5,
+              "pt": "dentro",
+              "en": "in / inside",
+              "note": "dentro de + noun.",
+              "ex": {
+                "pt": "As chaves estão dentro da mala.",
+                "en": "The keys are inside the bag."
+              }
+            },
+            {
+              "n": 6,
+              "pt": "fora",
+              "en": "out / outside",
+              "ex": {
+                "pt": "As crianças estão a brincar lá fora.",
+                "en": "The children are playing outside."
+              }
+            },
+            {
+              "n": 7,
+              "pt": "à frente",
+              "en": "in front",
+              "note": "à frente de + noun.",
+              "ex": {
+                "pt": "Há um café à frente do hotel.",
+                "en": "There's a café in front of the hotel."
+              }
+            },
+            {
+              "n": 8,
+              "pt": "atrás",
+              "en": "behind",
+              "note": "atrás de + noun.",
+              "ex": {
+                "pt": "O jardim fica atrás da casa.",
+                "en": "The garden is behind the house."
+              }
+            },
+            {
+              "n": 9,
+              "pt": "acima",
+              "en": "above",
+              "ex": {
+                "pt": "Hoje a temperatura está acima dos trinta graus.",
+                "en": "Today the temperature is above thirty degrees."
+              }
+            },
+            {
+              "n": 10,
+              "pt": "em cima",
+              "en": "on top of / upstairs",
+              "note": "em cima de + noun.",
+              "ex": {
+                "pt": "O livro está em cima da mesa.",
+                "en": "The book is on the table."
+              }
+            },
+            {
+              "n": 11,
+              "pt": "abaixo",
+              "en": "below",
+              "ex": {
+                "pt": "À noite, a temperatura fica abaixo de zero.",
+                "en": "At night the temperature drops below zero."
+              }
+            },
+            {
+              "n": 12,
+              "pt": "em baixo",
+              "en": "under / below / downstairs",
+              "note": "For \"under\" (+ noun) debaixo de is more common: debaixo da cama.",
+              "ex": {
+                "pt": "A cozinha fica em baixo.",
+                "en": "The kitchen is downstairs."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Advérbios de quantidade e intensidade",
+          "titleEn": "Adverbs of quantity and intensity",
+          "items": [
+            {
+              "n": 1,
+              "pt": "muito",
+              "en": "very / much / many",
+              "note": "Before a noun it agrees: muitos livros, muitas pessoas.",
+              "ex": {
+                "pt": "Gosto muito de ler.",
+                "en": "I like reading very much."
+              }
+            },
+            {
+              "n": 2,
+              "pt": "pouco",
+              "en": "little / few",
+              "note": "um pouco = a little. Before a noun it agrees: poucas pessoas.",
+              "ex": {
+                "pt": "Ele fala pouco.",
+                "en": "He doesn't talk much."
+              }
+            },
+            {
+              "n": 3,
+              "pt": "mais",
+              "en": "more / plus",
+              "ex": {
+                "pt": "Queres mais sopa?",
+                "en": "Do you want more soup?"
+              }
+            },
+            {
+              "n": 4,
+              "pt": "menos",
+              "en": "less / minus",
+              "ex": {
+                "pt": "Hoje está menos frio.",
+                "en": "It's less cold today."
+              }
+            },
+            {
+              "n": 5,
+              "pt": "tanto",
+              "en": "as much / as many",
+              "note": "Before a noun it agrees: tantas vezes. tanto… como = as much as.",
+              "ex": {
+                "pt": "Trabalhas tanto!",
+                "en": "You work so much!"
+              }
+            },
+            {
+              "n": 6,
+              "pt": "tão",
+              "en": "so / so much / as much",
+              "note": "Before adjectives and adverbs: tão bom, tão longe.",
+              "ex": {
+                "pt": "Este bolo é tão bom!",
+                "en": "This cake is so good!"
+              }
+            },
+            {
+              "n": 7,
+              "pt": "quanto",
+              "en": "how much / how many",
+              "ex": {
+                "pt": "Quanto custa este bilhete?",
+                "en": "How much is this ticket?"
+              }
+            },
+            {
+              "n": 8,
+              "pt": "quase",
+              "en": "almost",
+              "ex": {
+                "pt": "São quase nove horas.",
+                "en": "It's almost nine o'clock."
+              }
+            },
+            {
+              "n": 9,
+              "pt": "bastante",
+              "en": "a lot / quite",
+              "ex": {
+                "pt": "Ela estuda bastante.",
+                "en": "She studies quite a lot."
+              }
+            },
+            {
+              "n": 10,
+              "pt": "suficiente",
+              "en": "enough",
+              "ex": {
+                "pt": "Já temos comida suficiente.",
+                "en": "We already have enough food."
+              }
+            },
+            {
+              "n": 11,
+              "pt": "só / apenas",
+              "en": "only / just",
+              "ex": {
+                "pt": "Só quero um copo de água.",
+                "en": "I just want a glass of water."
+              }
+            },
+            {
+              "n": 12,
+              "pt": "demasiado / demais",
+              "en": "too / too much / too many",
+              "note": "demasiado goes before an adjective; demais usually comes after: comes demais.",
+              "ex": {
+                "pt": "Este café está demasiado quente.",
+                "en": "This coffee is too hot."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "conjuncoes",
+      "title": "Conjunções",
+      "titleEn": "Conjunctions",
+      "note": "Conjunctions connect clauses, or words within the same clause, expressing logical relationships between them (addition, contrast, cause, time, condition…).",
+      "groups": [
+        {
+          "title": "Conjunções",
+          "titleEn": "Conjunctions",
+          "items": [
+            {
+              "n": 1,
+              "pt": "e",
+              "en": "and",
+              "ex": {
+                "pt": "Eu e a minha irmã vamos ao cinema.",
+                "en": "My sister and I are going to the cinema."
+              }
+            },
+            {
+              "n": 2,
+              "pt": "ou",
+              "en": "or",
+              "ex": {
+                "pt": "Queres chá ou café?",
+                "en": "Do you want tea or coffee?"
+              }
+            },
+            {
+              "n": 3,
+              "pt": "se",
+              "en": "if",
+              "ex": {
+                "pt": "Se tens fome, há sopa no frigorífico.",
+                "en": "If you're hungry, there's soup in the fridge."
+              }
+            },
+            {
+              "n": 4,
+              "pt": "que",
+              "en": "that",
+              "ex": {
+                "pt": "Acho que ele tem razão.",
+                "en": "I think (that) he is right."
+              }
+            },
+            {
+              "n": 5,
+              "pt": "mas",
+              "en": "but",
+              "ex": {
+                "pt": "Gosto de Lisboa, mas prefiro o Porto.",
+                "en": "I like Lisbon, but I prefer Porto."
+              }
+            },
+            {
+              "n": 6,
+              "pt": "no entanto",
+              "en": "however",
+              "ex": {
+                "pt": "O restaurante é caro. No entanto, a comida é ótima.",
+                "en": "The restaurant is expensive. However, the food is great."
+              }
+            },
+            {
+              "n": 7,
+              "pt": "embora",
+              "en": "although",
+              "note": "Followed by the subjunctive: embora esteja.",
+              "ex": {
+                "pt": "Embora esteja frio, vamos à praia.",
+                "en": "Although it's cold, we're going to the beach."
+              }
+            },
+            {
+              "n": 8,
+              "pt": "apesar de",
+              "en": "despite / in spite of",
+              "note": "de contracts with the article (apesar da chuva); + infinitive: apesar de estar cansado.",
+              "ex": {
+                "pt": "Apesar da chuva, vamos sair.",
+                "en": "Despite the rain, we're going out."
+              }
+            },
+            {
+              "n": 9,
+              "pt": "quando",
+              "en": "when",
+              "ex": {
+                "pt": "Quando chego a casa, tomo um banho.",
+                "en": "When I get home, I have a shower."
+              }
+            },
+            {
+              "n": 10,
+              "pt": "entretanto",
+              "en": "meanwhile / in the meantime",
+              "ex": {
+                "pt": "Eu cozinho e, entretanto, tu pões a mesa.",
+                "en": "I cook and, in the meantime, you set the table."
+              }
+            },
+            {
+              "n": 11,
+              "pt": "assim que",
+              "en": "as soon as",
+              "note": "For the future it takes the future subjunctive: ligo-te assim que chegar.",
+              "ex": {
+                "pt": "Assim que acordo, bebo um café.",
+                "en": "As soon as I wake up, I drink a coffee."
+              }
+            },
+            {
+              "n": 12,
+              "pt": "bem como",
+              "en": "as well as",
+              "ex": {
+                "pt": "Ele fala inglês e francês, bem como um pouco de alemão.",
+                "en": "He speaks English and French, as well as a little German."
+              }
+            },
+            {
+              "n": 13,
+              "pt": "porque",
+              "en": "because / for",
+              "ex": {
+                "pt": "Não vou sair porque estou doente.",
+                "en": "I'm not going out because I'm sick."
+              }
+            },
+            {
+              "n": 14,
+              "pt": "pois",
+              "en": "for / because",
+              "ex": {
+                "pt": "Fico em casa, pois está a chover.",
+                "en": "I'm staying at home, because it's raining."
+              }
+            },
+            {
+              "n": 15,
+              "pt": "portanto / por isso",
+              "en": "therefore",
+              "ex": {
+                "pt": "Estou cansado, por isso vou dormir.",
+                "en": "I'm tired, so I'm going to bed."
+              }
+            },
+            {
+              "n": 16,
+              "pt": "dado que",
+              "en": "given that",
+              "ex": {
+                "pt": "Dado que o museu está fechado, vamos ao parque.",
+                "en": "Given that the museum is closed, we're going to the park."
+              }
+            },
+            {
+              "n": 17,
+              "pt": "já que",
+              "en": "since",
+              "ex": {
+                "pt": "Já que estás aqui, ajuda-me com isto.",
+                "en": "Since you're here, help me with this."
+              }
+            },
+            {
+              "n": 18,
+              "pt": "já agora",
+              "en": "by the way",
+              "ex": {
+                "pt": "Já agora, como está a tua mãe?",
+                "en": "By the way, how is your mother?"
+              }
+            },
+            {
+              "n": 19,
+              "pt": "não só... mas também...",
+              "en": "not only... but also...",
+              "ex": {
+                "pt": "Ela fala não só inglês, mas também alemão.",
+                "en": "She speaks not only English but also German."
+              }
+            },
+            {
+              "n": 20,
+              "pt": "tanto... como...",
+              "en": "both... and...",
+              "ex": {
+                "pt": "Gosto tanto de praia como de montanha.",
+                "en": "I like both the beach and the mountains."
+              }
+            },
+            {
+              "n": 21,
+              "pt": "ou... ou...",
+              "en": "either... or...",
+              "ex": {
+                "pt": "Ou vens agora, ou vou sozinho.",
+                "en": "Either you come now, or I go alone."
+              }
+            },
+            {
+              "n": 22,
+              "pt": "não... nem...",
+              "en": "neither... nor...",
+              "ex": {
+                "pt": "Não bebo café nem chá.",
+                "en": "I drink neither coffee nor tea."
+              }
+            },
+            {
+              "n": 23,
+              "pt": "quanto mais... mais/menos...",
+              "en": "the more... the more/less...",
+              "ex": {
+                "pt": "Quanto mais estudo, mais aprendo.",
+                "en": "The more I study, the more I learn."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

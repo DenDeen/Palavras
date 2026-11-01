@@ -1,0 +1,3354 @@
+{
+ "sections": [
+  {
+   "id": "basicas",
+   "title": "Palavras e expressões básicas",
+   "titleEn": "Basic words and expressions",
+   "note": "Before we move on to the word classes, there are 18 words and expressions that don't fit into a grammatical category but are used daily by the Portuguese, and therefore deserve their own category.",
+   "groups": [
+    {
+     "title": "Palavras e expressões básicas",
+     "titleEn": "Basic words and expressions",
+     "items": [
+      {
+       "n": 1,
+       "pt": "olá / oi",
+       "en": "hello / hi",
+       "ex": {
+        "pt": "Olá, Ana! Tudo bem?",
+        "en": "Hi, Ana! How are you?"
+       }
+      },
+      {
+       "n": 2,
+       "pt": "tudo bem?",
+       "en": "how are you? / all good?",
+       "ex": {
+        "pt": "Olá, Pedro, tudo bem? — Tudo bem, obrigado.",
+        "en": "Hi, Pedro, how are you? — All good, thanks."
+       },
+       "note": "Also used as an answer: \"Tudo bem.\" (All good.)"
+      },
+      {
+       "n": 3,
+       "pt": "bom dia",
+       "en": "good morning / good day",
+       "ex": {
+        "pt": "Bom dia! Um café, por favor.",
+        "en": "Good morning! A coffee, please."
+       }
+      },
+      {
+       "n": 4,
+       "pt": "boa tarde",
+       "en": "good afternoon",
+       "ex": {
+        "pt": "Boa tarde, como está?",
+        "en": "Good afternoon, how are you?"
+       }
+      },
+      {
+       "n": 5,
+       "pt": "boa noite",
+       "en": "good evening / good night",
+       "ex": {
+        "pt": "Boa noite e até amanhã!",
+        "en": "Good night, see you tomorrow!"
+       }
+      },
+      {
+       "n": 6,
+       "pt": "adeus",
+       "en": "goodbye",
+       "ex": {
+        "pt": "Adeus, até amanhã!",
+        "en": "Goodbye, see you tomorrow!"
+       }
+      },
+      {
+       "n": 7,
+       "pt": "até à próxima",
+       "en": "see you next time",
+       "ex": {
+        "pt": "Obrigado por tudo. Até à próxima!",
+        "en": "Thanks for everything. See you next time!"
+       }
+      },
+      {
+       "n": 8,
+       "pt": "obrigado",
+       "en": "thank you (said by a man)",
+       "ex": {
+        "pt": "Obrigado pela ajuda!",
+        "en": "Thanks for the help!"
+       },
+       "note": "A man says obrigado, a woman says obrigada."
+      },
+      {
+       "n": 9,
+       "pt": "obrigada",
+       "en": "thank you (said by a woman)",
+       "ex": {
+        "pt": "Muito obrigada, és muito simpático.",
+        "en": "Thank you very much, you're very kind."
+       },
+       "note": "A woman says obrigada, a man says obrigado."
+      },
+      {
+       "n": 10,
+       "pt": "de nada",
+       "en": "you're welcome",
+       "ex": {
+        "pt": "— Obrigado! — De nada.",
+        "en": "— Thank you! — You're welcome."
+       }
+      },
+      {
+       "n": 11,
+       "pt": "com licença",
+       "en": "excuse me",
+       "ex": {
+        "pt": "Com licença, posso passar?",
+        "en": "Excuse me, may I get past?"
+       }
+      },
+      {
+       "n": 12,
+       "pt": "desculpe",
+       "en": "sorry / excuse me (formal)",
+       "ex": {
+        "pt": "Desculpe, onde fica a estação?",
+        "en": "Excuse me, where is the station?"
+       },
+       "note": "Formal: use it with strangers (você / o senhor / a senhora)."
+      },
+      {
+       "n": 13,
+       "pt": "desculpa",
+       "en": "sorry / excuse me (informal)",
+       "ex": {
+        "pt": "Desculpa, estou atrasado.",
+        "en": "Sorry, I'm late."
+       },
+       "note": "Informal: use it with people you call tu."
+      },
+      {
+       "n": 14,
+       "pt": "não percebi",
+       "en": "I didn't understand / I didn't get it",
+       "ex": {
+        "pt": "Desculpe, não percebi. Pode repetir?",
+        "en": "Sorry, I didn't understand. Can you repeat that?"
+       }
+      },
+      {
+       "n": 15,
+       "pt": "boa sorte!",
+       "en": "good luck!",
+       "ex": {
+        "pt": "Tens um exame amanhã? Boa sorte!",
+        "en": "You have an exam tomorrow? Good luck!"
+       }
+      },
+      {
+       "n": 16,
+       "pt": "sim",
+       "en": "yes",
+       "ex": {
+        "pt": "Sim, quero um café.",
+        "en": "Yes, I want a coffee."
+       }
+      },
+      {
+       "n": 17,
+       "pt": "não",
+       "en": "no",
+       "ex": {
+        "pt": "Não, obrigado. Não bebo café.",
+        "en": "No, thanks. I don't drink coffee."
+       }
+      },
+      {
+       "n": 18,
+       "pt": "talvez",
+       "en": "maybe",
+       "ex": {
+        "pt": "— Vens à festa? — Talvez.",
+        "en": "— Are you coming to the party? — Maybe."
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "artigos",
+   "title": "Artigos definidos e indefinidos",
+   "titleEn": "Definite and indefinite articles",
+   "note": "We begin with articles because they are present in all speech and we need them whenever we use nouns.\nThere are 4 definite articles and 4 indefinite articles. Definite articles are used before a noun whose identity is known and correspond to the English word \"the\". Indefinite articles are used before a noun whose identity is not known and correspond to \"a\" or \"an\" (plural: \"some\").",
+   "tables": [
+    {
+     "title": "Definite and indefinite articles",
+     "head": [
+      "",
+      "definido masc.",
+      "definido fem.",
+      "indefinido masc.",
+      "indefinido fem."
+     ],
+     "rows": [
+      [
+       "singular",
+       "o",
+       "a",
+       "um",
+       "uma"
+      ],
+      [
+       "plural",
+       "os",
+       "as",
+       "uns",
+       "umas"
+      ]
+     ],
+     "cards": [
+      {
+       "front": "the (masc. sing.)",
+       "back": "o"
+      },
+      {
+       "front": "the (fem. sing.)",
+       "back": "a"
+      },
+      {
+       "front": "the (masc. pl.)",
+       "back": "os"
+      },
+      {
+       "front": "the (fem. pl.)",
+       "back": "as"
+      },
+      {
+       "front": "a / an (masc.)",
+       "back": "um"
+      },
+      {
+       "front": "a / an (fem.)",
+       "back": "uma"
+      },
+      {
+       "front": "some (masc. pl.)",
+       "back": "uns"
+      },
+      {
+       "front": "some (fem. pl.)",
+       "back": "umas"
+      }
+     ]
+    }
+   ],
+   "groups": [
+    {
+     "title": "Artigos",
+     "titleEn": "Articles",
+     "items": [
+      {
+       "n": 1,
+       "pt": "o",
+       "en": "the (masc. sing.)",
+       "ex": {
+        "pt": "O café está quente.",
+        "en": "The coffee is hot."
+       }
+      },
+      {
+       "n": 2,
+       "pt": "a",
+       "en": "the (fem. sing.)",
+       "ex": {
+        "pt": "A casa é grande.",
+        "en": "The house is big."
+       }
+      },
+      {
+       "n": 3,
+       "pt": "os",
+       "en": "the (masc. pl.)",
+       "ex": {
+        "pt": "Os pais do Rui moram em Lisboa.",
+        "en": "Rui's parents live in Lisbon."
+       }
+      },
+      {
+       "n": 4,
+       "pt": "as",
+       "en": "the (fem. pl.)",
+       "ex": {
+        "pt": "As janelas estão abertas.",
+        "en": "The windows are open."
+       }
+      },
+      {
+       "n": 5,
+       "pt": "um",
+       "en": "a / an (masc.)",
+       "ex": {
+        "pt": "Quero um copo de água.",
+        "en": "I'd like a glass of water."
+       }
+      },
+      {
+       "n": 6,
+       "pt": "uma",
+       "en": "a / an (fem.)",
+       "ex": {
+        "pt": "Tenho uma irmã.",
+        "en": "I have a sister."
+       }
+      },
+      {
+       "n": 7,
+       "pt": "uns",
+       "en": "some (masc. pl.)",
+       "ex": {
+        "pt": "Tenho uns amigos no Porto.",
+        "en": "I have some friends in Porto."
+       }
+      },
+      {
+       "n": 8,
+       "pt": "umas",
+       "en": "some (fem. pl.)",
+       "ex": {
+        "pt": "Há umas cadeiras na varanda.",
+        "en": "There are some chairs on the balcony."
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "preposicoes",
+   "title": "Preposições",
+   "titleEn": "Prepositions",
+   "note": "Prepositions are words that connect 2 words in a clause, expressing grammatical relations between them. Remember that prepositions are very arbitrary, and therefore very hard to translate from one language to another.\nThe prepositions a, de, em and por merge with the definite articles that follow them, e.g. por + o = pelo (for the / through the). The preposition em also merges with indefinite articles: em + um = num (in a).",
+   "tables": [
+    {
+     "title": "Contractions with the definite article",
+     "head": [
+      "",
+      "o",
+      "a",
+      "os",
+      "as"
+     ],
+     "rows": [
+      [
+       "a",
+       "ao",
+       "à",
+       "aos",
+       "às"
+      ],
+      [
+       "de",
+       "do",
+       "da",
+       "dos",
+       "das"
+      ],
+      [
+       "em",
+       "no",
+       "na",
+       "nos",
+       "nas"
+      ],
+      [
+       "por",
+       "pelo",
+       "pela",
+       "pelos",
+       "pelas"
+      ]
+     ],
+     "cards": [
+      {
+       "front": "a + o",
+       "back": "ao"
+      },
+      {
+       "front": "a + a",
+       "back": "à"
+      },
+      {
+       "front": "a + os",
+       "back": "aos"
+      },
+      {
+       "front": "a + as",
+       "back": "às"
+      },
+      {
+       "front": "de + o",
+       "back": "do"
+      },
+      {
+       "front": "de + a",
+       "back": "da"
+      },
+      {
+       "front": "de + os",
+       "back": "dos"
+      },
+      {
+       "front": "de + as",
+       "back": "das"
+      },
+      {
+       "front": "em + o",
+       "back": "no"
+      },
+      {
+       "front": "em + a",
+       "back": "na"
+      },
+      {
+       "front": "em + os",
+       "back": "nos"
+      },
+      {
+       "front": "em + as",
+       "back": "nas"
+      },
+      {
+       "front": "por + o",
+       "back": "pelo"
+      },
+      {
+       "front": "por + a",
+       "back": "pela"
+      },
+      {
+       "front": "por + os",
+       "back": "pelos"
+      },
+      {
+       "front": "por + as",
+       "back": "pelas"
+      }
+     ]
+    },
+    {
+     "title": "Contractions of em with the indefinite article",
+     "head": [
+      "",
+      "um",
+      "uma",
+      "uns",
+      "umas"
+     ],
+     "rows": [
+      [
+       "em",
+       "num",
+       "numa",
+       "nuns",
+       "numas"
+      ]
+     ],
+     "cards": [
+      {
+       "front": "em + um",
+       "back": "num"
+      },
+      {
+       "front": "em + uma",
+       "back": "numa"
+      },
+      {
+       "front": "em + uns",
+       "back": "nuns"
+      },
+      {
+       "front": "em + umas",
+       "back": "numas"
+      }
+     ]
+    }
+   ],
+   "groups": [
+    {
+     "title": "Preposições",
+     "titleEn": "Prepositions",
+     "items": [
+      {
+       "n": 1,
+       "pt": "a",
+       "en": "to / at",
+       "ex": {
+        "pt": "Vou a Lisboa amanhã.",
+        "en": "I'm going to Lisbon tomorrow."
+       }
+      },
+      {
+       "n": 2,
+       "pt": "de",
+       "en": "of / from",
+       "ex": {
+        "pt": "O Rui é de Lisboa.",
+        "en": "Rui is from Lisbon."
+       }
+      },
+      {
+       "n": 3,
+       "pt": "em",
+       "en": "in / on / at",
+       "ex": {
+        "pt": "Moro em Lisboa.",
+        "en": "I live in Lisbon."
+       }
+      },
+      {
+       "n": 4,
+       "pt": "por",
+       "en": "for / by / through",
+       "ex": {
+        "pt": "Obrigado por tudo.",
+        "en": "Thanks for everything."
+       }
+      },
+      {
+       "n": 5,
+       "pt": "para",
+       "en": "to / towards / for",
+       "ex": {
+        "pt": "Este presente é para ti.",
+        "en": "This present is for you."
+       }
+      },
+      {
+       "n": 6,
+       "pt": "até",
+       "en": "until / up to",
+       "ex": {
+        "pt": "Trabalho até às seis.",
+        "en": "I work until six."
+       }
+      },
+      {
+       "n": 7,
+       "pt": "com",
+       "en": "with",
+       "ex": {
+        "pt": "Moro com os meus pais.",
+        "en": "I live with my parents."
+       }
+      },
+      {
+       "n": 8,
+       "pt": "sem",
+       "en": "without",
+       "ex": {
+        "pt": "Bebo café sem açúcar.",
+        "en": "I drink coffee without sugar."
+       }
+      },
+      {
+       "n": 9,
+       "pt": "contra",
+       "en": "against",
+       "ex": {
+        "pt": "Hoje o Benfica joga contra o Porto.",
+        "en": "Today Benfica plays against Porto."
+       }
+      },
+      {
+       "n": 10,
+       "pt": "desde",
+       "en": "since / from",
+       "ex": {
+        "pt": "Moro aqui desde 2020.",
+        "en": "I've lived here since 2020."
+       }
+      },
+      {
+       "n": 11,
+       "pt": "durante",
+       "en": "during / for",
+       "ex": {
+        "pt": "Durante a semana, trabalho muito.",
+        "en": "During the week, I work a lot."
+       }
+      },
+      {
+       "n": 12,
+       "pt": "sobre",
+       "en": "about / over",
+       "ex": {
+        "pt": "É um livro sobre Portugal.",
+        "en": "It's a book about Portugal."
+       }
+      },
+      {
+       "n": 13,
+       "pt": "em cima de",
+       "en": "on / on top of",
+       "ex": {
+        "pt": "O livro está em cima da mesa.",
+        "en": "The book is on the table."
+       }
+      },
+      {
+       "n": 14,
+       "pt": "em baixo de",
+       "en": "under / below",
+       "ex": {
+        "pt": "O gato está em baixo da cama.",
+        "en": "The cat is under the bed."
+       },
+       "note": "Also common: debaixo de."
+      },
+      {
+       "n": 15,
+       "pt": "à frente de",
+       "en": "in front of",
+       "ex": {
+        "pt": "O carro está à frente da casa.",
+        "en": "The car is in front of the house."
+       }
+      },
+      {
+       "n": 16,
+       "pt": "atrás de",
+       "en": "behind",
+       "ex": {
+        "pt": "O jardim fica atrás da casa.",
+        "en": "The garden is behind the house."
+       }
+      },
+      {
+       "n": 17,
+       "pt": "entre",
+       "en": "between / among",
+       "ex": {
+        "pt": "O café fica entre o banco e a farmácia.",
+        "en": "The café is between the bank and the pharmacy."
+       }
+      },
+      {
+       "n": 18,
+       "pt": "ao lado de",
+       "en": "next to",
+       "ex": {
+        "pt": "Moro ao lado da escola.",
+        "en": "I live next to the school."
+       }
+      },
+      {
+       "n": 19,
+       "pt": "à direita (de)",
+       "en": "to the right (of)",
+       "ex": {
+        "pt": "A casa de banho fica à direita.",
+        "en": "The bathroom is on the right."
+       }
+      },
+      {
+       "n": 20,
+       "pt": "à esquerda (de)",
+       "en": "to the left (of)",
+       "ex": {
+        "pt": "O banco fica à esquerda do supermercado.",
+        "en": "The bank is to the left of the supermarket."
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "substantivos",
+   "title": "Substantivos",
+   "titleEn": "Nouns",
+   "note": "Nouns are the words we use to name things, such as objects, living creatures, feelings, emotions and professions. Every noun in the list is given with its definite article and grouped by topic.\nThere are 2 genders in Portuguese: masculine and feminine. As a rule of thumb, nouns ending in -o are masculine and nouns ending in -a are feminine, but there are exceptions, and many nouns end in other letters.\nHow to form the plural:\n• Words ending in a vowel add -s: o tempo → os tempos.\n• Words ending in a consonant add -es: a vez → as vezes.\n• Words ending in -m replace it with -ns: o homem → os homens.\n• Words ending in -l replace it with -is: o final → os finais.\n• Words ending in -ão replace it with -ões: a relação → as relações.",
+   "groups": [
+    {
+     "title": "Vocabulário de tempo",
+     "titleEn": "Time-related vocabulary",
+     "items": [
+      {
+       "n": 1,
+       "pt": "o tempo",
+       "en": "the time",
+       "ex": {
+        "pt": "Não tenho tempo hoje.",
+        "en": "I don't have time today."
+       },
+       "note": "Also means \"the weather\": Está bom tempo."
+      },
+      {
+       "n": 2,
+       "pt": "o momento",
+       "en": "the moment",
+       "ex": {
+        "pt": "Um momento, por favor.",
+        "en": "One moment, please."
+       }
+      },
+      {
+       "n": 3,
+       "pt": "a vez",
+       "en": "the time / the turn",
+       "ex": {
+        "pt": "É a tua vez.",
+        "en": "It's your turn."
+       },
+       "note": "Plural: as vezes (uma vez = once, às vezes = sometimes)."
+      },
+      {
+       "n": 4,
+       "pt": "o século",
+       "en": "the century",
+       "ex": {
+        "pt": "Esta igreja é do século XV.",
+        "en": "This church is from the 15th century."
+       }
+      },
+      {
+       "n": 5,
+       "pt": "a década",
+       "en": "the decade",
+       "ex": {
+        "pt": "Moro em Portugal há uma década.",
+        "en": "I've lived in Portugal for a decade."
+       }
+      },
+      {
+       "n": 6,
+       "pt": "o ano",
+       "en": "the year",
+       "ex": {
+        "pt": "O meu filho tem dez anos.",
+        "en": "My son is ten years old."
+       }
+      },
+      {
+       "n": 7,
+       "pt": "o mês",
+       "en": "the month",
+       "ex": {
+        "pt": "Vou de férias no próximo mês.",
+        "en": "I'm going on holiday next month."
+       },
+       "note": "Plural: os meses."
+      },
+      {
+       "n": 8,
+       "pt": "a semana",
+       "en": "the week",
+       "ex": {
+        "pt": "Trabalho cinco dias por semana.",
+        "en": "I work five days a week."
+       }
+      },
+      {
+       "n": 9,
+       "pt": "o dia",
+       "en": "the day",
+       "ex": {
+        "pt": "Hoje é um bom dia.",
+        "en": "Today is a good day."
+       },
+       "note": "Masculine, although it ends in -a."
+      },
+      {
+       "n": 10,
+       "pt": "a hora",
+       "en": "the hour",
+       "ex": {
+        "pt": "Que horas são?",
+        "en": "What time is it?"
+       }
+      },
+      {
+       "n": 11,
+       "pt": "o minuto",
+       "en": "the minute",
+       "ex": {
+        "pt": "O autocarro chega daqui a dez minutos.",
+        "en": "The bus arrives in ten minutes."
+       }
+      },
+      {
+       "n": 12,
+       "pt": "o segundo",
+       "en": "the second",
+       "ex": {
+        "pt": "Espera um segundo!",
+        "en": "Wait a second!"
+       }
+      },
+      {
+       "n": 13,
+       "pt": "o calendário",
+       "en": "the calendar",
+       "ex": {
+        "pt": "O calendário está na parede da cozinha.",
+        "en": "The calendar is on the kitchen wall."
+       }
+      },
+      {
+       "n": 14,
+       "pt": "o relógio",
+       "en": "the clock / the watch",
+       "ex": {
+        "pt": "O meu relógio está parado.",
+        "en": "My watch has stopped."
+       }
+      },
+      {
+       "n": 15,
+       "pt": "a manhã",
+       "en": "the morning",
+       "ex": {
+        "pt": "Bebo café de manhã.",
+        "en": "I drink coffee in the morning."
+       }
+      },
+      {
+       "n": 16,
+       "pt": "a tarde",
+       "en": "the afternoon",
+       "ex": {
+        "pt": "À tarde, vou ao ginásio.",
+        "en": "In the afternoon, I go to the gym."
+       }
+      },
+      {
+       "n": 17,
+       "pt": "a noite",
+       "en": "the night",
+       "ex": {
+        "pt": "À noite, leio um livro na cama.",
+        "en": "At night, I read a book in bed."
+       }
+      },
+      {
+       "n": 18,
+       "pt": "o meio-dia",
+       "en": "noon / midday",
+       "ex": {
+        "pt": "Almoçamos ao meio-dia.",
+        "en": "We have lunch at noon."
+       }
+      },
+      {
+       "n": 19,
+       "pt": "a meia-noite",
+       "en": "midnight",
+       "ex": {
+        "pt": "Vou para a cama à meia-noite.",
+        "en": "I go to bed at midnight."
+       }
+      },
+      {
+       "n": 20,
+       "pt": "o passado",
+       "en": "the past",
+       "ex": {
+        "pt": "Não penso no passado.",
+        "en": "I don't think about the past."
+       }
+      },
+      {
+       "n": 21,
+       "pt": "o presente",
+       "en": "the present",
+       "ex": {
+        "pt": "Vive o presente!",
+        "en": "Live in the present!"
+       },
+       "note": "Also means \"the gift\"."
+      },
+      {
+       "n": 22,
+       "pt": "o futuro",
+       "en": "the future",
+       "ex": {
+        "pt": "No futuro, quero morar em Lisboa.",
+        "en": "In the future, I want to live in Lisbon."
+       }
+      },
+      {
+       "n": 23,
+       "pt": "ontem",
+       "en": "yesterday",
+       "ex": {
+        "pt": "Ontem foi domingo.",
+        "en": "Yesterday was Sunday."
+       }
+      },
+      {
+       "n": 24,
+       "pt": "hoje",
+       "en": "today",
+       "ex": {
+        "pt": "Hoje está muito calor.",
+        "en": "It's very hot today."
+       }
+      },
+      {
+       "n": 25,
+       "pt": "amanhã",
+       "en": "tomorrow",
+       "ex": {
+        "pt": "Amanhã tenho um exame.",
+        "en": "Tomorrow I have an exam."
+       }
+      }
+     ]
+    },
+    {
+     "title": "Dias da semana, meses e estações do ano",
+     "titleEn": "Days of the week, months and seasons",
+     "items": [
+      {
+       "n": 26,
+       "pt": "segunda-feira",
+       "en": "Monday",
+       "ex": {
+        "pt": "Na segunda-feira, começo um trabalho novo.",
+        "en": "On Monday, I start a new job."
+       }
+      },
+      {
+       "n": 27,
+       "pt": "terça-feira",
+       "en": "Tuesday",
+       "ex": {
+        "pt": "Tenho aulas de português às terças-feiras.",
+        "en": "I have Portuguese classes on Tuesdays."
+       }
+      },
+      {
+       "n": 28,
+       "pt": "quarta-feira",
+       "en": "Wednesday",
+       "ex": {
+        "pt": "A reunião é na quarta-feira.",
+        "en": "The meeting is on Wednesday."
+       }
+      },
+      {
+       "n": 29,
+       "pt": "quinta-feira",
+       "en": "Thursday",
+       "ex": {
+        "pt": "Na quinta-feira, janto com os meus pais.",
+        "en": "On Thursday, I'm having dinner with my parents."
+       }
+      },
+      {
+       "n": 30,
+       "pt": "sexta-feira",
+       "en": "Friday",
+       "ex": {
+        "pt": "Sexta-feira é o meu dia favorito.",
+        "en": "Friday is my favourite day."
+       }
+      },
+      {
+       "n": 31,
+       "pt": "sábado",
+       "en": "Saturday",
+       "ex": {
+        "pt": "Ao sábado, vou ao mercado.",
+        "en": "On Saturdays, I go to the market."
+       }
+      },
+      {
+       "n": 32,
+       "pt": "domingo",
+       "en": "Sunday",
+       "ex": {
+        "pt": "No domingo, almoçamos em casa da avó.",
+        "en": "On Sunday, we have lunch at Grandma's."
+       }
+      },
+      {
+       "n": 33,
+       "pt": "o fim de semana",
+       "en": "the weekend",
+       "ex": {
+        "pt": "O que fazes ao fim de semana?",
+        "en": "What do you do at the weekend?"
+       }
+      },
+      {
+       "n": 34,
+       "pt": "janeiro",
+       "en": "January",
+       "ex": {
+        "pt": "Faz muito frio em janeiro.",
+        "en": "It's very cold in January."
+       },
+       "note": "Months are written in lowercase in Portuguese."
+      },
+      {
+       "n": 35,
+       "pt": "fevereiro",
+       "en": "February",
+       "ex": {
+        "pt": "Fevereiro é o mês mais curto do ano.",
+        "en": "February is the shortest month of the year."
+       }
+      },
+      {
+       "n": 36,
+       "pt": "março",
+       "en": "March",
+       "ex": {
+        "pt": "O meu aniversário é em março.",
+        "en": "My birthday is in March."
+       }
+      },
+      {
+       "n": 37,
+       "pt": "abril",
+       "en": "April",
+       "ex": {
+        "pt": "Em abril, chove muito.",
+        "en": "It rains a lot in April."
+       }
+      },
+      {
+       "n": 38,
+       "pt": "maio",
+       "en": "May",
+       "ex": {
+        "pt": "Em maio, os dias são mais longos.",
+        "en": "In May, the days are longer."
+       }
+      },
+      {
+       "n": 39,
+       "pt": "junho",
+       "en": "June",
+       "ex": {
+        "pt": "Em junho, há festas em Lisboa.",
+        "en": "In June, there are festivals in Lisbon."
+       }
+      },
+      {
+       "n": 40,
+       "pt": "julho",
+       "en": "July",
+       "ex": {
+        "pt": "As férias começam em julho.",
+        "en": "The holidays start in July."
+       }
+      },
+      {
+       "n": 41,
+       "pt": "agosto",
+       "en": "August",
+       "ex": {
+        "pt": "Em agosto, vamos para o Algarve.",
+        "en": "In August, we go to the Algarve."
+       }
+      },
+      {
+       "n": 42,
+       "pt": "setembro",
+       "en": "September",
+       "ex": {
+        "pt": "As aulas começam em setembro.",
+        "en": "Classes start in September."
+       }
+      },
+      {
+       "n": 43,
+       "pt": "outubro",
+       "en": "October",
+       "ex": {
+        "pt": "Em outubro, começa a chover.",
+        "en": "In October, it starts to rain."
+       }
+      },
+      {
+       "n": 44,
+       "pt": "novembro",
+       "en": "November",
+       "ex": {
+        "pt": "Novembro é um mês cinzento.",
+        "en": "November is a grey month."
+       }
+      },
+      {
+       "n": 45,
+       "pt": "dezembro",
+       "en": "December",
+       "ex": {
+        "pt": "O Natal é em dezembro.",
+        "en": "Christmas is in December."
+       }
+      },
+      {
+       "n": 46,
+       "pt": "a estação do ano",
+       "en": "the season (of the year)",
+       "ex": {
+        "pt": "Qual é a tua estação do ano favorita?",
+        "en": "What's your favourite season?"
+       }
+      },
+      {
+       "n": 47,
+       "pt": "a primavera",
+       "en": "spring",
+       "ex": {
+        "pt": "Na primavera, o tempo é agradável.",
+        "en": "In spring, the weather is pleasant."
+       }
+      },
+      {
+       "n": 48,
+       "pt": "o verão",
+       "en": "summer",
+       "ex": {
+        "pt": "No verão, vou à praia todos os dias.",
+        "en": "In summer, I go to the beach every day."
+       }
+      },
+      {
+       "n": 49,
+       "pt": "o outono",
+       "en": "fall / autumn",
+       "ex": {
+        "pt": "No outono, as folhas caem.",
+        "en": "In autumn, the leaves fall."
+       }
+      },
+      {
+       "n": 50,
+       "pt": "o inverno",
+       "en": "winter",
+       "ex": {
+        "pt": "No inverno, faz frio no norte.",
+        "en": "In winter, it's cold in the north."
+       }
+      }
+     ]
+    },
+    {
+     "title": "Feriados e dias especiais",
+     "titleEn": "Holidays and special days",
+     "items": [
+      {
+       "n": 51,
+       "pt": "as férias",
+       "en": "the vacations",
+       "ex": {
+        "pt": "Vou de férias em agosto.",
+        "en": "I'm going on holiday in August."
+       },
+       "note": "Always plural: as férias."
+      },
+      {
+       "n": 52,
+       "pt": "o ano letivo",
+       "en": "the academic / school year",
+       "ex": {
+        "pt": "O ano letivo começa em setembro.",
+        "en": "The school year starts in September."
+       }
+      },
+      {
+       "n": 53,
+       "pt": "o feriado",
+       "en": "the holiday",
+       "ex": {
+        "pt": "Amanhã é feriado, não há escola.",
+        "en": "Tomorrow is a public holiday, there's no school."
+       },
+       "note": "A public holiday (one day); a vacation is as férias."
+      },
+      {
+       "n": 54,
+       "pt": "o Natal",
+       "en": "Christmas",
+       "ex": {
+        "pt": "Passamos o Natal com a família.",
+        "en": "We spend Christmas with the family."
+       }
+      },
+      {
+       "n": 55,
+       "pt": "o Ano Novo",
+       "en": "New Year / New Year's Day",
+       "ex": {
+        "pt": "Feliz Ano Novo!",
+        "en": "Happy New Year!"
+       }
+      },
+      {
+       "n": 56,
+       "pt": "o Carnaval",
+       "en": "Carnival",
+       "ex": {
+        "pt": "No Carnaval, as crianças usam máscaras.",
+        "en": "At Carnival, children wear masks."
+       }
+      },
+      {
+       "n": 57,
+       "pt": "a Páscoa",
+       "en": "Easter",
+       "ex": {
+        "pt": "Na Páscoa, comemos amêndoas.",
+        "en": "At Easter, we eat sugared almonds."
+       }
+      },
+      {
+       "n": 58,
+       "pt": "o Dia do Trabalhador",
+       "en": "Labour Day (May 1st)",
+       "ex": {
+        "pt": "O Dia do Trabalhador é a 1 de maio.",
+        "en": "Labour Day is on May 1st."
+       }
+      },
+      {
+       "n": 59,
+       "pt": "o Dia de Todos os Santos",
+       "en": "All Saints' Day (November 1st)",
+       "ex": {
+        "pt": "O Dia de Todos os Santos é feriado em Portugal.",
+        "en": "All Saints' Day is a public holiday in Portugal."
+       }
+      }
+     ]
+    },
+    {
+     "title": "Família e relações",
+     "titleEn": "Family and relationships",
+     "items": [
+      {
+       "n": 60,
+       "pt": "a família",
+       "en": "the family",
+       "ex": {
+        "pt": "A minha família é grande.",
+        "en": "My family is big."
+       }
+      },
+      {
+       "n": 61,
+       "pt": "a relação",
+       "en": "the relationship",
+       "ex": {
+        "pt": "Tenho uma boa relação com a minha irmã.",
+        "en": "I have a good relationship with my sister."
+       }
+      },
+      {
+       "n": 62,
+       "pt": "a pessoa",
+       "en": "the person",
+       "ex": {
+        "pt": "Ela é uma pessoa simpática.",
+        "en": "She's a nice person."
+       }
+      },
+      {
+       "n": 63,
+       "pt": "o homem",
+       "en": "the man",
+       "ex": {
+        "pt": "Aquele homem é o meu tio.",
+        "en": "That man is my uncle."
+       },
+       "note": "Plural: os homens."
+      },
+      {
+       "n": 64,
+       "pt": "o marido",
+       "en": "the husband",
+       "ex": {
+        "pt": "O meu marido é professor.",
+        "en": "My husband is a teacher."
+       }
+      },
+      {
+       "n": 65,
+       "pt": "a mulher",
+       "en": "the woman / the wife",
+       "ex": {
+        "pt": "A mulher do Rui é médica.",
+        "en": "Rui's wife is a doctor."
+       }
+      },
+      {
+       "n": 66,
+       "pt": "o senhor",
+       "en": "the gentleman / sir",
+       "ex": {
+        "pt": "O senhor deseja mais alguma coisa?",
+        "en": "Would you like anything else, sir?"
+       }
+      },
+      {
+       "n": 67,
+       "pt": "a senhora",
+       "en": "the lady / madam",
+       "ex": {
+        "pt": "A senhora pode sentar-se aqui.",
+        "en": "You can sit here, madam."
+       }
+      },
+      {
+       "n": 68,
+       "pt": "o adulto",
+       "en": "the adult",
+       "ex": {
+        "pt": "O bilhete para adultos custa dez euros.",
+        "en": "The adult ticket costs ten euros."
+       }
+      },
+      {
+       "n": 69,
+       "pt": "a criança",
+       "en": "the child / the kid",
+       "ex": {
+        "pt": "As crianças brincam no jardim.",
+        "en": "The children play in the garden."
+       }
+      },
+      {
+       "n": 70,
+       "pt": "o rapaz",
+       "en": "the boy",
+       "ex": {
+        "pt": "O rapaz joga futebol na rua.",
+        "en": "The boy plays football in the street."
+       },
+       "note": "Plural: os rapazes."
+      },
+      {
+       "n": 71,
+       "pt": "a rapariga",
+       "en": "the girl",
+       "ex": {
+        "pt": "A rapariga lê um livro.",
+        "en": "The girl is reading a book."
+       }
+      },
+      {
+       "n": 72,
+       "pt": "o pai",
+       "en": "the father",
+       "ex": {
+        "pt": "O meu pai trabalha num banco.",
+        "en": "My father works in a bank."
+       }
+      },
+      {
+       "n": 73,
+       "pt": "a mãe",
+       "en": "the mother",
+       "ex": {
+        "pt": "A minha mãe cozinha muito bem.",
+        "en": "My mother cooks very well."
+       },
+       "note": "Plural: as mães."
+      },
+      {
+       "n": 74,
+       "pt": "os pais",
+       "en": "the parents",
+       "ex": {
+        "pt": "Os meus pais moram no Porto.",
+        "en": "My parents live in Porto."
+       }
+      },
+      {
+       "n": 75,
+       "pt": "o filho",
+       "en": "the son",
+       "ex": {
+        "pt": "O meu filho tem cinco anos.",
+        "en": "My son is five years old."
+       }
+      },
+      {
+       "n": 76,
+       "pt": "a filha",
+       "en": "the daughter",
+       "ex": {
+        "pt": "A filha da Ana estuda na universidade.",
+        "en": "Ana's daughter studies at university."
+       }
+      },
+      {
+       "n": 77,
+       "pt": "o irmão",
+       "en": "the brother",
+       "ex": {
+        "pt": "O meu irmão mais velho mora em Londres.",
+        "en": "My older brother lives in London."
+       },
+       "note": "Irregular plural: os irmãos (not -ões)."
+      },
+      {
+       "n": 78,
+       "pt": "a irmã",
+       "en": "the sister",
+       "ex": {
+        "pt": "A minha irmã é mais nova do que eu.",
+        "en": "My sister is younger than me."
+       },
+       "note": "Plural: as irmãs."
+      },
+      {
+       "n": 79,
+       "pt": "os irmãos",
+       "en": "the siblings",
+       "ex": {
+        "pt": "Tens irmãos?",
+        "en": "Do you have any siblings?"
+       },
+       "note": "Also \"the brothers\"."
+      },
+      {
+       "n": 80,
+       "pt": "os gémeos",
+       "en": "the twins",
+       "ex": {
+        "pt": "Os gémeos são muito parecidos.",
+        "en": "The twins look very alike."
+       },
+       "note": "Feminine: as gémeas."
+      },
+      {
+       "n": 81,
+       "pt": "o avô",
+       "en": "the grandfather",
+       "ex": {
+        "pt": "O meu avô tem oitenta anos.",
+        "en": "My grandfather is eighty."
+       }
+      },
+      {
+       "n": 82,
+       "pt": "a avó",
+       "en": "the grandmother",
+       "ex": {
+        "pt": "A avó faz um bolo ao domingo.",
+        "en": "Grandma makes a cake on Sundays."
+       }
+      },
+      {
+       "n": 83,
+       "pt": "os avós",
+       "en": "the grandparents",
+       "ex": {
+        "pt": "Visito os meus avós ao fim de semana.",
+        "en": "I visit my grandparents at the weekend."
+       }
+      },
+      {
+       "n": 84,
+       "pt": "o neto",
+       "en": "the grandson",
+       "ex": {
+        "pt": "O meu neto vem jantar hoje.",
+        "en": "My grandson is coming for dinner today."
+       }
+      },
+      {
+       "n": 85,
+       "pt": "a neta",
+       "en": "the granddaughter",
+       "ex": {
+        "pt": "A neta brinca com o avô.",
+        "en": "The granddaughter plays with her grandfather."
+       }
+      },
+      {
+       "n": 86,
+       "pt": "o tio",
+       "en": "the uncle",
+       "ex": {
+        "pt": "O meu tio tem uma loja no centro.",
+        "en": "My uncle has a shop in the centre."
+       }
+      },
+      {
+       "n": 87,
+       "pt": "a tia",
+       "en": "the aunt",
+       "ex": {
+        "pt": "A minha tia vive no Algarve.",
+        "en": "My aunt lives in the Algarve."
+       }
+      },
+      {
+       "n": 88,
+       "pt": "o primo",
+       "en": "the cousin (masculine)",
+       "ex": {
+        "pt": "O meu primo joga futebol comigo.",
+        "en": "My cousin plays football with me."
+       }
+      },
+      {
+       "n": 89,
+       "pt": "a prima",
+       "en": "the cousin (feminine)",
+       "ex": {
+        "pt": "A minha prima é enfermeira.",
+        "en": "My cousin is a nurse."
+       }
+      },
+      {
+       "n": 90,
+       "pt": "o casal",
+       "en": "the couple",
+       "ex": {
+        "pt": "Eles são um casal muito simpático.",
+        "en": "They're a very nice couple."
+       },
+       "note": "Plural: os casais."
+      },
+      {
+       "n": 91,
+       "pt": "o namorado",
+       "en": "the boyfriend",
+       "ex": {
+        "pt": "O namorado da Sofia é espanhol.",
+        "en": "Sofia's boyfriend is Spanish."
+       }
+      },
+      {
+       "n": 92,
+       "pt": "a namorada",
+       "en": "the girlfriend",
+       "ex": {
+        "pt": "Tens namorada?",
+        "en": "Do you have a girlfriend?"
+       }
+      },
+      {
+       "n": 93,
+       "pt": "o casamento",
+       "en": "the wedding / the marriage",
+       "ex": {
+        "pt": "O casamento é no sábado.",
+        "en": "The wedding is on Saturday."
+       }
+      },
+      {
+       "n": 94,
+       "pt": "o noivo",
+       "en": "the fiancé / the groom",
+       "ex": {
+        "pt": "O noivo está nervoso.",
+        "en": "The groom is nervous."
+       }
+      },
+      {
+       "n": 95,
+       "pt": "a noiva",
+       "en": "the fiancée / the bride",
+       "ex": {
+        "pt": "A noiva usa um vestido branco.",
+        "en": "The bride is wearing a white dress."
+       }
+      }
+     ]
+    },
+    {
+     "title": "O corpo humano",
+     "titleEn": "The human body",
+     "items": [
+      {
+       "n": 96,
+       "pt": "o corpo",
+       "en": "the body",
+       "ex": {
+        "pt": "O corpo precisa de água.",
+        "en": "The body needs water."
+       }
+      },
+      {
+       "n": 97,
+       "pt": "o pelo",
+       "en": "the hair (on the body)",
+       "ex": {
+        "pt": "Tenho pelos nos braços.",
+        "en": "I have hair on my arms."
+       },
+       "note": "Also an animal's fur: o pelo do gato."
+      },
+      {
+       "n": 98,
+       "pt": "a cabeça",
+       "en": "the head",
+       "ex": {
+        "pt": "Dói-me a cabeça.",
+        "en": "My head hurts."
+       }
+      },
+      {
+       "n": 99,
+       "pt": "o cabelo",
+       "en": "the hair (on the head)",
+       "ex": {
+        "pt": "A Ana tem o cabelo comprido.",
+        "en": "Ana has long hair."
+       }
+      },
+      {
+       "n": 100,
+       "pt": "a cara",
+       "en": "the face",
+       "ex": {
+        "pt": "Lavo a cara com água fria.",
+        "en": "I wash my face with cold water."
+       }
+      },
+      {
+       "n": 101,
+       "pt": "o olho",
+       "en": "the eye",
+       "ex": {
+        "pt": "Ela tem olhos azuis.",
+        "en": "She has blue eyes."
+       }
+      },
+      {
+       "n": 102,
+       "pt": "o nariz",
+       "en": "the nose",
+       "ex": {
+        "pt": "Tenho o nariz entupido.",
+        "en": "My nose is blocked."
+       },
+       "note": "Plural: os narizes."
+      },
+      {
+       "n": 103,
+       "pt": "a boca",
+       "en": "the mouth",
+       "ex": {
+        "pt": "Não fales com a boca cheia!",
+        "en": "Don't talk with your mouth full!"
+       }
+      },
+      {
+       "n": 104,
+       "pt": "a orelha",
+       "en": "the ear",
+       "ex": {
+        "pt": "Ele tem as orelhas grandes.",
+        "en": "He has big ears."
+       }
+      },
+      {
+       "n": 105,
+       "pt": "o queixo",
+       "en": "the chin",
+       "ex": {
+        "pt": "Ela tem uma cicatriz no queixo.",
+        "en": "She has a scar on her chin."
+       }
+      },
+      {
+       "n": 106,
+       "pt": "o pescoço",
+       "en": "the neck",
+       "ex": {
+        "pt": "Uso um cachecol no pescoço.",
+        "en": "I wear a scarf around my neck."
+       }
+      },
+      {
+       "n": 107,
+       "pt": "o ombro",
+       "en": "the shoulder",
+       "ex": {
+        "pt": "Dói-me o ombro esquerdo.",
+        "en": "My left shoulder hurts."
+       }
+      },
+      {
+       "n": 108,
+       "pt": "o braço",
+       "en": "the arm",
+       "ex": {
+        "pt": "O bebé está nos braços da mãe.",
+        "en": "The baby is in its mother's arms."
+       }
+      },
+      {
+       "n": 109,
+       "pt": "o cotovelo",
+       "en": "the elbow",
+       "ex": {
+        "pt": "Não ponhas os cotovelos na mesa!",
+        "en": "Don't put your elbows on the table!"
+       }
+      },
+      {
+       "n": 110,
+       "pt": "o pulso",
+       "en": "the wrist",
+       "ex": {
+        "pt": "Uso o relógio no pulso esquerdo.",
+        "en": "I wear my watch on my left wrist."
+       }
+      },
+      {
+       "n": 111,
+       "pt": "a mão",
+       "en": "the hand",
+       "ex": {
+        "pt": "Lava as mãos antes de comer.",
+        "en": "Wash your hands before eating."
+       },
+       "note": "Irregular plural: as mãos (not -ões). Feminine, although it ends in -ão."
+      },
+      {
+       "n": 112,
+       "pt": "o peito",
+       "en": "the chest",
+       "ex": {
+        "pt": "Tenho uma dor no peito.",
+        "en": "I have a pain in my chest."
+       }
+      },
+      {
+       "n": 113,
+       "pt": "a barriga",
+       "en": "the stomach / the belly",
+       "ex": {
+        "pt": "Dói-me a barriga.",
+        "en": "My stomach hurts."
+       }
+      },
+      {
+       "n": 114,
+       "pt": "as costas",
+       "en": "the back",
+       "ex": {
+        "pt": "Tenho dores nas costas.",
+        "en": "I have back pain."
+       },
+       "note": "Always plural: as costas."
+      },
+      {
+       "n": 115,
+       "pt": "o rabo",
+       "en": "the butt",
+       "ex": {
+        "pt": "O bebé cai de rabo no chão.",
+        "en": "The baby falls on its bottom on the floor."
+       },
+       "note": "Also an animal's tail."
+      },
+      {
+       "n": 116,
+       "pt": "a perna",
+       "en": "the leg",
+       "ex": {
+        "pt": "Ele tem as pernas compridas.",
+        "en": "He has long legs."
+       }
+      },
+      {
+       "n": 117,
+       "pt": "o joelho",
+       "en": "the knee",
+       "ex": {
+        "pt": "Dói-me o joelho quando corro.",
+        "en": "My knee hurts when I run."
+       }
+      },
+      {
+       "n": 118,
+       "pt": "o tornozelo",
+       "en": "the ankle",
+       "ex": {
+        "pt": "Torci o tornozelo a correr.",
+        "en": "I twisted my ankle running."
+       }
+      },
+      {
+       "n": 119,
+       "pt": "o pé",
+       "en": "the foot",
+       "ex": {
+        "pt": "Vou a pé para o trabalho.",
+        "en": "I walk to work."
+       },
+       "note": "a pé = on foot."
+      },
+      {
+       "n": 120,
+       "pt": "o dedo",
+       "en": "the finger / the toe",
+       "ex": {
+        "pt": "Tenho cinco dedos em cada mão.",
+        "en": "I have five fingers on each hand."
+       }
+      }
+     ]
+    },
+    {
+     "title": "Comida e refeições",
+     "titleEn": "Food and meals",
+     "items": [
+      {
+       "n": 121,
+       "pt": "a comida",
+       "en": "the food",
+       "ex": {
+        "pt": "A comida portuguesa é ótima.",
+        "en": "Portuguese food is great."
+       }
+      },
+      {
+       "n": 122,
+       "pt": "a bebida",
+       "en": "the drink",
+       "ex": {
+        "pt": "Que bebida queres?",
+        "en": "What would you like to drink?"
+       }
+      },
+      {
+       "n": 123,
+       "pt": "a refeição",
+       "en": "the meal",
+       "ex": {
+        "pt": "O almoço é a refeição mais importante do dia.",
+        "en": "Lunch is the most important meal of the day."
+       }
+      },
+      {
+       "n": 124,
+       "pt": "o pequeno-almoço",
+       "en": "breakfast",
+       "ex": {
+        "pt": "Ao pequeno-almoço, como pão com manteiga.",
+        "en": "For breakfast, I eat bread and butter."
+       },
+       "note": "Plural: os pequenos-almoços."
+      },
+      {
+       "n": 125,
+       "pt": "o almoço",
+       "en": "lunch",
+       "ex": {
+        "pt": "O almoço está pronto!",
+        "en": "Lunch is ready!"
+       }
+      },
+      {
+       "n": 126,
+       "pt": "o jantar",
+       "en": "dinner",
+       "ex": {
+        "pt": "Ao jantar, comemos peixe.",
+        "en": "For dinner, we eat fish."
+       }
+      },
+      {
+       "n": 127,
+       "pt": "a ceia",
+       "en": "supper",
+       "ex": {
+        "pt": "Na noite de Natal, a ceia é bacalhau.",
+        "en": "On Christmas Eve, supper is salt cod."
+       }
+      },
+      {
+       "n": 128,
+       "pt": "o lanche",
+       "en": "the snack",
+       "ex": {
+        "pt": "As crianças comem o lanche às quatro.",
+        "en": "The children have their snack at four."
+       },
+       "note": "The afternoon snack; lanchar = to have a snack."
+      },
+      {
+       "n": 129,
+       "pt": "a entrada",
+       "en": "the appetizer",
+       "ex": {
+        "pt": "De entrada, quero uma sopa.",
+        "en": "As a starter, I'd like a soup."
+       },
+       "note": "Also means \"the entrance\"."
+      },
+      {
+       "n": 130,
+       "pt": "o prato principal",
+       "en": "the main course",
+       "ex": {
+        "pt": "O prato principal é carne com batatas.",
+        "en": "The main course is meat with potatoes."
+       }
+      },
+      {
+       "n": 131,
+       "pt": "a sobremesa",
+       "en": "the dessert",
+       "ex": {
+        "pt": "Qual é a sobremesa de hoje?",
+        "en": "What's today's dessert?"
+       }
+      },
+      {
+       "n": 132,
+       "pt": "o prato",
+       "en": "the dish / the plate",
+       "ex": {
+        "pt": "Põe os pratos na mesa, por favor.",
+        "en": "Put the plates on the table, please."
+       }
+      },
+      {
+       "n": 133,
+       "pt": "o copo",
+       "en": "the glass",
+       "ex": {
+        "pt": "Um copo de água, por favor.",
+        "en": "A glass of water, please."
+       }
+      },
+      {
+       "n": 134,
+       "pt": "a chávena",
+       "en": "the cup",
+       "ex": {
+        "pt": "Bebo uma chávena de chá todas as manhãs.",
+        "en": "I drink a cup of tea every morning."
+       }
+      },
+      {
+       "n": 135,
+       "pt": "a taça",
+       "en": "the bowl",
+       "ex": {
+        "pt": "Como cereais numa taça.",
+        "en": "I eat cereal from a bowl."
+       }
+      },
+      {
+       "n": 136,
+       "pt": "a garrafa",
+       "en": "the bottle",
+       "ex": {
+        "pt": "Compro uma garrafa de vinho.",
+        "en": "I'm buying a bottle of wine."
+       }
+      },
+      {
+       "n": 137,
+       "pt": "os talheres",
+       "en": "the cutlery",
+       "ex": {
+        "pt": "Os talheres estão na gaveta.",
+        "en": "The cutlery is in the drawer."
+       }
+      },
+      {
+       "n": 138,
+       "pt": "a faca",
+       "en": "the knife",
+       "ex": {
+        "pt": "Preciso de uma faca para cortar o pão.",
+        "en": "I need a knife to cut the bread."
+       }
+      },
+      {
+       "n": 139,
+       "pt": "o garfo",
+       "en": "the fork",
+       "ex": {
+        "pt": "Come com o garfo, não com as mãos!",
+        "en": "Eat with the fork, not with your hands!"
+       }
+      },
+      {
+       "n": 140,
+       "pt": "a colher",
+       "en": "the spoon",
+       "ex": {
+        "pt": "Como a sopa com uma colher.",
+        "en": "I eat soup with a spoon."
+       },
+       "note": "Plural: as colheres."
+      },
+      {
+       "n": 141,
+       "pt": "a panela",
+       "en": "the pot",
+       "ex": {
+        "pt": "A sopa está na panela.",
+        "en": "The soup is in the pot."
+       }
+      },
+      {
+       "n": 142,
+       "pt": "a frigideira",
+       "en": "the pan",
+       "ex": {
+        "pt": "Frito os ovos na frigideira.",
+        "en": "I fry the eggs in the pan."
+       }
+      },
+      {
+       "n": 143,
+       "pt": "a tampa",
+       "en": "the lid",
+       "ex": {
+        "pt": "Põe a tampa na panela.",
+        "en": "Put the lid on the pot."
+       }
+      },
+      {
+       "n": 144,
+       "pt": "a água",
+       "en": "the water",
+       "ex": {
+        "pt": "Bebo muita água.",
+        "en": "I drink a lot of water."
+       }
+      },
+      {
+       "n": 145,
+       "pt": "o vinho",
+       "en": "the wine",
+       "ex": {
+        "pt": "O vinho do Porto é famoso.",
+        "en": "Port wine is famous."
+       }
+      },
+      {
+       "n": 146,
+       "pt": "a cerveja",
+       "en": "the beer",
+       "ex": {
+        "pt": "Uma cerveja, por favor.",
+        "en": "A beer, please."
+       }
+      },
+      {
+       "n": 147,
+       "pt": "o chá",
+       "en": "the tea",
+       "ex": {
+        "pt": "Queres chá ou café?",
+        "en": "Do you want tea or coffee?"
+       }
+      },
+      {
+       "n": 148,
+       "pt": "o café",
+       "en": "the coffee",
+       "ex": {
+        "pt": "Bebo um café depois do almoço.",
+        "en": "I have a coffee after lunch."
+       }
+      },
+      {
+       "n": 149,
+       "pt": "o leite",
+       "en": "the milk",
+       "ex": {
+        "pt": "As crianças bebem leite ao pequeno-almoço.",
+        "en": "The children drink milk at breakfast."
+       }
+      },
+      {
+       "n": 150,
+       "pt": "os cereais",
+       "en": "the cereal",
+       "ex": {
+        "pt": "Como cereais com leite.",
+        "en": "I eat cereal with milk."
+       },
+       "note": "Usually plural: os cereais."
+      },
+      {
+       "n": 151,
+       "pt": "o sumo",
+       "en": "the juice",
+       "ex": {
+        "pt": "Quero um sumo de laranja.",
+        "en": "I'd like an orange juice."
+       }
+      },
+      {
+       "n": 152,
+       "pt": "o batido",
+       "en": "the shake / the smoothie",
+       "ex": {
+        "pt": "Faço um batido de banana.",
+        "en": "I'm making a banana smoothie."
+       }
+      },
+      {
+       "n": 153,
+       "pt": "o refrigerante",
+       "en": "the soda",
+       "ex": {
+        "pt": "Não bebo refrigerantes.",
+        "en": "I don't drink soft drinks."
+       }
+      },
+      {
+       "n": 154,
+       "pt": "a sopa",
+       "en": "the soup",
+       "ex": {
+        "pt": "Em Portugal, come-se sopa todos os dias.",
+        "en": "In Portugal, people eat soup every day."
+       }
+      },
+      {
+       "n": 155,
+       "pt": "a carne",
+       "en": "the meat",
+       "ex": {
+        "pt": "Hoje há carne ou peixe?",
+        "en": "Is there meat or fish today?"
+       }
+      },
+      {
+       "n": 156,
+       "pt": "o peixe",
+       "en": "the fish",
+       "ex": {
+        "pt": "Gosto muito de peixe grelhado.",
+        "en": "I really like grilled fish."
+       }
+      },
+      {
+       "n": 157,
+       "pt": "a fruta",
+       "en": "the fruit",
+       "ex": {
+        "pt": "Como fruta à sobremesa.",
+        "en": "I eat fruit for dessert."
+       }
+      },
+      {
+       "n": 158,
+       "pt": "o vegetal",
+       "en": "the vegetable",
+       "ex": {
+        "pt": "Como vegetais todos os dias.",
+        "en": "I eat vegetables every day."
+       },
+       "note": "Plural: os vegetais."
+      },
+      {
+       "n": 159,
+       "pt": "o arroz",
+       "en": "the rice",
+       "ex": {
+        "pt": "O arroz de pato é muito bom.",
+        "en": "Duck rice is very good."
+       }
+      },
+      {
+       "n": 160,
+       "pt": "a salada",
+       "en": "the salad",
+       "ex": {
+        "pt": "Quero uma salada de tomate.",
+        "en": "I'd like a tomato salad."
+       }
+      },
+      {
+       "n": 161,
+       "pt": "a massa",
+       "en": "the pasta / the noodles",
+       "ex": {
+        "pt": "Hoje o jantar é massa.",
+        "en": "Dinner today is pasta."
+       }
+      },
+      {
+       "n": 162,
+       "pt": "a batata",
+       "en": "the potato",
+       "ex": {
+        "pt": "O peixe vem com batatas cozidas.",
+        "en": "The fish comes with boiled potatoes."
+       }
+      },
+      {
+       "n": 163,
+       "pt": "o pão",
+       "en": "the bread",
+       "ex": {
+        "pt": "Compro pão fresco todas as manhãs.",
+        "en": "I buy fresh bread every morning."
+       },
+       "note": "Irregular plural: os pães."
+      },
+      {
+       "n": 164,
+       "pt": "a sandes",
+       "en": "the sandwich",
+       "ex": {
+        "pt": "Como uma sandes de queijo ao almoço.",
+        "en": "I eat a cheese sandwich for lunch."
+       },
+       "note": "Same form in the plural: as sandes."
+      },
+      {
+       "n": 165,
+       "pt": "a tosta",
+       "en": "the toasted sandwich",
+       "ex": {
+        "pt": "Quero uma tosta mista, por favor.",
+        "en": "I'd like a toasted ham and cheese sandwich, please."
+       },
+       "note": "In Portugal, a tosta is a toasted (grilled) sandwich; uma tosta mista has ham and cheese."
+      },
+      {
+       "n": 166,
+       "pt": "a torrada",
+       "en": "the toast",
+       "ex": {
+        "pt": "Ao pequeno-almoço, como uma torrada com manteiga.",
+        "en": "For breakfast, I have a slice of buttered toast."
+       },
+       "note": "A thick slice of toasted bread, usually with butter."
+      },
+      {
+       "n": 167,
+       "pt": "a manteiga",
+       "en": "the butter",
+       "ex": {
+        "pt": "Passas-me a manteiga?",
+        "en": "Can you pass me the butter?"
+       }
+      },
+      {
+       "n": 168,
+       "pt": "o queijo",
+       "en": "the cheese",
+       "ex": {
+        "pt": "Gosto muito de queijo da Serra.",
+        "en": "I really like Serra cheese."
+       }
+      },
+      {
+       "n": 169,
+       "pt": "o fiambre",
+       "en": "the ham",
+       "ex": {
+        "pt": "Quero uma sandes de fiambre.",
+        "en": "I'd like a ham sandwich."
+       },
+       "note": "Cooked ham; cured ham is o presunto."
+      },
+      {
+       "n": 170,
+       "pt": "o ovo",
+       "en": "the egg",
+       "ex": {
+        "pt": "Como dois ovos ao pequeno-almoço.",
+        "en": "I eat two eggs for breakfast."
+       }
+      },
+      {
+       "n": 171,
+       "pt": "o sal",
+       "en": "the salt",
+       "ex": {
+        "pt": "A sopa precisa de mais sal.",
+        "en": "The soup needs more salt."
+       }
+      },
+      {
+       "n": 172,
+       "pt": "a pimenta",
+       "en": "the pepper",
+       "ex": {
+        "pt": "Põe sal e pimenta na carne.",
+        "en": "Put salt and pepper on the meat."
+       }
+      },
+      {
+       "n": 173,
+       "pt": "o azeite",
+       "en": "the olive oil",
+       "ex": {
+        "pt": "Os portugueses usam muito azeite.",
+        "en": "The Portuguese use a lot of olive oil."
+       }
+      },
+      {
+       "n": 174,
+       "pt": "o alho",
+       "en": "the garlic",
+       "ex": {
+        "pt": "A sopa leva alho e cebola.",
+        "en": "The soup has garlic and onion in it."
+       }
+      },
+      {
+       "n": 175,
+       "pt": "a cebola",
+       "en": "the onion",
+       "ex": {
+        "pt": "Corta a cebola, por favor.",
+        "en": "Cut the onion, please."
+       }
+      }
+     ]
+    },
+    {
+     "title": "Edifícios, lugares e veículos",
+     "titleEn": "Buildings, places and vehicles",
+     "items": [
+      {
+       "n": 176,
+       "pt": "a cidade",
+       "en": "the city / the town",
+       "ex": {
+        "pt": "Lisboa é uma cidade bonita.",
+        "en": "Lisbon is a beautiful city."
+       }
+      },
+      {
+       "n": 177,
+       "pt": "a rua",
+       "en": "the street",
+       "ex": {
+        "pt": "Moro nesta rua.",
+        "en": "I live on this street."
+       }
+      },
+      {
+       "n": 178,
+       "pt": "a avenida",
+       "en": "the avenue",
+       "ex": {
+        "pt": "A Avenida da Liberdade é muito larga.",
+        "en": "Avenida da Liberdade is very wide."
+       }
+      },
+      {
+       "n": 179,
+       "pt": "a estrada",
+       "en": "the road",
+       "ex": {
+        "pt": "Esta estrada vai até ao Porto.",
+        "en": "This road goes to Porto."
+       }
+      },
+      {
+       "n": 180,
+       "pt": "a autoestrada",
+       "en": "the highway",
+       "ex": {
+        "pt": "Vamos pela autoestrada, é mais rápido.",
+        "en": "Let's take the motorway, it's faster."
+       }
+      },
+      {
+       "n": 181,
+       "pt": "o beco",
+       "en": "the alley",
+       "ex": {
+        "pt": "A casa fica num beco estreito.",
+        "en": "The house is in a narrow alley."
+       }
+      },
+      {
+       "n": 182,
+       "pt": "o passeio",
+       "en": "the sidewalk",
+       "ex": {
+        "pt": "As crianças andam no passeio.",
+        "en": "The children walk on the pavement."
+       },
+       "note": "Also means \"the walk / the stroll\"."
+      },
+      {
+       "n": 183,
+       "pt": "a passadeira",
+       "en": "the crosswalk",
+       "ex": {
+        "pt": "Atravessa na passadeira!",
+        "en": "Cross at the crosswalk!"
+       }
+      },
+      {
+       "n": 184,
+       "pt": "a praça",
+       "en": "the square",
+       "ex": {
+        "pt": "Há um café na praça.",
+        "en": "There's a café in the square."
+       }
+      },
+      {
+       "n": 185,
+       "pt": "a esquina",
+       "en": "the corner",
+       "ex": {
+        "pt": "O banco fica na esquina.",
+        "en": "The bank is on the corner."
+       }
+      },
+      {
+       "n": 186,
+       "pt": "o edifício / o prédio",
+       "en": "the building",
+       "ex": {
+        "pt": "Moro num prédio de cinco andares.",
+        "en": "I live in a five-storey building."
+       },
+       "note": "O prédio is the everyday word for an apartment building."
+      },
+      {
+       "n": 187,
+       "pt": "o arranha-céus",
+       "en": "the skyscraper",
+       "ex": {
+        "pt": "Não há muitos arranha-céus em Lisboa.",
+        "en": "There aren't many skyscrapers in Lisbon."
+       },
+       "note": "Same form in the plural: os arranha-céus."
+      },
+      {
+       "n": 188,
+       "pt": "o aeroporto",
+       "en": "the airport",
+       "ex": {
+        "pt": "Vou para o aeroporto de táxi.",
+        "en": "I'm going to the airport by taxi."
+       }
+      },
+      {
+       "n": 189,
+       "pt": "o metro",
+       "en": "the metro / the subway",
+       "ex": {
+        "pt": "Vou para o trabalho de metro.",
+        "en": "I go to work by metro."
+       }
+      },
+      {
+       "n": 190,
+       "pt": "a estação de comboios",
+       "en": "the train station",
+       "ex": {
+        "pt": "A estação de comboios fica perto daqui.",
+        "en": "The train station is near here."
+       }
+      },
+      {
+       "n": 191,
+       "pt": "a paragem de autocarros",
+       "en": "the bus stop",
+       "ex": {
+        "pt": "Espero na paragem de autocarros.",
+        "en": "I wait at the bus stop."
+       }
+      },
+      {
+       "n": 192,
+       "pt": "a bomba de gasolina",
+       "en": "the gas station",
+       "ex": {
+        "pt": "Há uma bomba de gasolina nesta estrada.",
+        "en": "There's a petrol station on this road."
+       }
+      },
+      {
+       "n": 193,
+       "pt": "a loja",
+       "en": "the store / the shop",
+       "ex": {
+        "pt": "A loja abre às nove.",
+        "en": "The shop opens at nine."
+       }
+      },
+      {
+       "n": 194,
+       "pt": "o minimercado",
+       "en": "the grocery store",
+       "ex": {
+        "pt": "Compro leite no minimercado da esquina.",
+        "en": "I buy milk at the grocery shop on the corner."
+       }
+      },
+      {
+       "n": 195,
+       "pt": "o supermercado",
+       "en": "the supermarket",
+       "ex": {
+        "pt": "Vou ao supermercado ao sábado.",
+        "en": "I go to the supermarket on Saturdays."
+       }
+      },
+      {
+       "n": 196,
+       "pt": "o talho",
+       "en": "the butcher shop",
+       "ex": {
+        "pt": "Compro a carne no talho.",
+        "en": "I buy meat at the butcher's."
+       }
+      },
+      {
+       "n": 197,
+       "pt": "o restaurante",
+       "en": "the restaurant",
+       "ex": {
+        "pt": "Este restaurante tem bom peixe.",
+        "en": "This restaurant has good fish."
+       }
+      },
+      {
+       "n": 198,
+       "pt": "o café",
+       "en": "the café",
+       "ex": {
+        "pt": "Encontramo-nos no café às cinco.",
+        "en": "We're meeting at the café at five."
+       },
+       "note": "Same word as \"the coffee\" (#148)."
+      },
+      {
+       "n": 199,
+       "pt": "o bar",
+       "en": "the bar",
+       "ex": {
+        "pt": "Hoje à noite vamos a um bar.",
+        "en": "Tonight we're going to a bar."
+       },
+       "note": "Plural: os bares."
+      },
+      {
+       "n": 200,
+       "pt": "o cabeleireiro",
+       "en": "the hairdresser",
+       "ex": {
+        "pt": "Tenho de ir ao cabeleireiro.",
+        "en": "I have to go to the hairdresser's."
+       },
+       "note": "Both the place and the person."
+      },
+      {
+       "n": 201,
+       "pt": "o barbeiro",
+       "en": "the barber shop",
+       "ex": {
+        "pt": "O meu pai vai ao barbeiro todos os meses.",
+        "en": "My father goes to the barber every month."
+       },
+       "note": "Both the place and the person."
+      },
+      {
+       "n": 202,
+       "pt": "a livraria",
+       "en": "the bookstore",
+       "ex": {
+        "pt": "Compro livros na livraria.",
+        "en": "I buy books at the bookshop."
+       },
+       "note": "False friend: a library is a biblioteca."
+      },
+      {
+       "n": 203,
+       "pt": "a biblioteca",
+       "en": "the library",
+       "ex": {
+        "pt": "Estudo na biblioteca.",
+        "en": "I study at the library."
+       }
+      },
+      {
+       "n": 204,
+       "pt": "a escola",
+       "en": "the school",
+       "ex": {
+        "pt": "As crianças vão para a escola às oito.",
+        "en": "The children go to school at eight."
+       }
+      },
+      {
+       "n": 205,
+       "pt": "a universidade",
+       "en": "the university",
+       "ex": {
+        "pt": "A minha irmã estuda na universidade.",
+        "en": "My sister studies at university."
+       }
+      },
+      {
+       "n": 206,
+       "pt": "o hospital",
+       "en": "the hospital",
+       "ex": {
+        "pt": "O hospital fica longe daqui.",
+        "en": "The hospital is far from here."
+       },
+       "note": "Plural: os hospitais."
+      },
+      {
+       "n": 207,
+       "pt": "os correios",
+       "en": "the post office",
+       "ex": {
+        "pt": "Vou aos correios enviar uma carta.",
+        "en": "I'm going to the post office to send a letter."
+       },
+       "note": "Always plural: os correios."
+      },
+      {
+       "n": 208,
+       "pt": "o banco",
+       "en": "the bank",
+       "ex": {
+        "pt": "O banco fecha às três.",
+        "en": "The bank closes at three."
+       },
+       "note": "Also means \"the bench\"."
+      },
+      {
+       "n": 209,
+       "pt": "o multibanco",
+       "en": "the ATM",
+       "ex": {
+        "pt": "Há um multibanco perto daqui?",
+        "en": "Is there an ATM near here?"
+       }
+      },
+      {
+       "n": 210,
+       "pt": "o centro comercial",
+       "en": "the mall / the shopping center",
+       "ex": {
+        "pt": "Vamos ao centro comercial no domingo.",
+        "en": "We're going to the shopping centre on Sunday."
+       }
+      },
+      {
+       "n": 211,
+       "pt": "o cinema",
+       "en": "the movie theater",
+       "ex": {
+        "pt": "Vamos ao cinema hoje à noite?",
+        "en": "Shall we go to the cinema tonight?"
+       }
+      },
+      {
+       "n": 212,
+       "pt": "o teatro",
+       "en": "the theater (for plays)",
+       "ex": {
+        "pt": "O teatro fica no centro da cidade.",
+        "en": "The theatre is in the city centre."
+       }
+      },
+      {
+       "n": 213,
+       "pt": "o museu",
+       "en": "the museum",
+       "ex": {
+        "pt": "O museu está fechado à segunda-feira.",
+        "en": "The museum is closed on Mondays."
+       }
+      },
+      {
+       "n": 214,
+       "pt": "a igreja",
+       "en": "the church",
+       "ex": {
+        "pt": "A igreja é muito antiga.",
+        "en": "The church is very old."
+       }
+      },
+      {
+       "n": 215,
+       "pt": "o castelo",
+       "en": "the castle",
+       "ex": {
+        "pt": "O Castelo de São Jorge fica em Lisboa.",
+        "en": "São Jorge Castle is in Lisbon."
+       }
+      },
+      {
+       "n": 216,
+       "pt": "o palácio",
+       "en": "the palace",
+       "ex": {
+        "pt": "Há um palácio muito bonito em Sintra.",
+        "en": "There's a very beautiful palace in Sintra."
+       }
+      },
+      {
+       "n": 217,
+       "pt": "o tribunal",
+       "en": "the courthouse",
+       "ex": {
+        "pt": "O tribunal fica na praça.",
+        "en": "The courthouse is on the square."
+       },
+       "note": "Plural: os tribunais."
+      },
+      {
+       "n": 218,
+       "pt": "a embaixada",
+       "en": "the embassy",
+       "ex": {
+        "pt": "Preciso de ir à embaixada.",
+        "en": "I need to go to the embassy."
+       }
+      },
+      {
+       "n": 219,
+       "pt": "o consulado",
+       "en": "the consulate",
+       "ex": {
+        "pt": "O consulado abre às nove.",
+        "en": "The consulate opens at nine."
+       }
+      },
+      {
+       "n": 220,
+       "pt": "a câmara municipal",
+       "en": "the city hall",
+       "ex": {
+        "pt": "A câmara municipal fica na praça principal.",
+        "en": "The city hall is on the main square."
+       }
+      },
+      {
+       "n": 221,
+       "pt": "o carro / o automóvel",
+       "en": "the car",
+       "ex": {
+        "pt": "O meu carro é azul.",
+        "en": "My car is blue."
+       }
+      },
+      {
+       "n": 222,
+       "pt": "o táxi",
+       "en": "the taxi",
+       "ex": {
+        "pt": "Apanhamos um táxi para o hotel.",
+        "en": "We take a taxi to the hotel."
+       }
+      },
+      {
+       "n": 223,
+       "pt": "o autocarro",
+       "en": "the bus",
+       "ex": {
+        "pt": "Apanho o autocarro às oito.",
+        "en": "I catch the bus at eight."
+       }
+      },
+      {
+       "n": 224,
+       "pt": "o camião",
+       "en": "the truck",
+       "ex": {
+        "pt": "O camião está parado na estrada.",
+        "en": "The truck is stopped on the road."
+       },
+       "note": "Plural: os camiões."
+      },
+      {
+       "n": 225,
+       "pt": "o comboio",
+       "en": "the train",
+       "ex": {
+        "pt": "O comboio para o Porto sai às dez.",
+        "en": "The train to Porto leaves at ten."
+       }
+      },
+      {
+       "n": 226,
+       "pt": "o elétrico",
+       "en": "the tram",
+       "ex": {
+        "pt": "O elétrico 28 passa pela Alfama.",
+        "en": "Tram 28 goes through Alfama."
+       }
+      },
+      {
+       "n": 227,
+       "pt": "a mota",
+       "en": "the motorcycle",
+       "ex": {
+        "pt": "O meu irmão tem uma mota.",
+        "en": "My brother has a motorbike."
+       }
+      },
+      {
+       "n": 228,
+       "pt": "a bicicleta",
+       "en": "the bicycle",
+       "ex": {
+        "pt": "Vou para a escola de bicicleta.",
+        "en": "I go to school by bike."
+       }
+      },
+      {
+       "n": 229,
+       "pt": "o barco",
+       "en": "the boat",
+       "ex": {
+        "pt": "Vamos de barco até à outra margem.",
+        "en": "We're going by boat to the other bank."
+       }
+      },
+      {
+       "n": 230,
+       "pt": "o avião",
+       "en": "the airplane",
+       "ex": {
+        "pt": "O avião sai às seis.",
+        "en": "The plane leaves at six."
+       },
+       "note": "Plural: os aviões."
+      }
+     ]
+    },
+    {
+     "title": "Divisões da casa e mobília",
+     "titleEn": "Rooms and furniture",
+     "items": [
+      {
+       "n": 231,
+       "pt": "a casa",
+       "en": "the house / the home",
+       "ex": {
+        "pt": "Hoje fico em casa.",
+        "en": "Today I'm staying at home."
+       },
+       "note": "em casa = at home (no article)."
+      },
+      {
+       "n": 232,
+       "pt": "o apartamento",
+       "en": "the apartment",
+       "ex": {
+        "pt": "Moro num apartamento pequeno.",
+        "en": "I live in a small apartment."
+       }
+      },
+      {
+       "n": 233,
+       "pt": "as escadas",
+       "en": "the stairs",
+       "ex": {
+        "pt": "Subo as escadas a pé.",
+        "en": "I walk up the stairs."
+       },
+       "note": "Usually plural: as escadas."
+      },
+      {
+       "n": 234,
+       "pt": "o elevador",
+       "en": "the elevator",
+       "ex": {
+        "pt": "O elevador não funciona.",
+        "en": "The lift isn't working."
+       }
+      },
+      {
+       "n": 235,
+       "pt": "a porta",
+       "en": "the door",
+       "ex": {
+        "pt": "Fecha a porta, por favor.",
+        "en": "Close the door, please."
+       }
+      },
+      {
+       "n": 236,
+       "pt": "o hall de entrada",
+       "en": "the entrance hall",
+       "ex": {
+        "pt": "Deixo os sapatos no hall de entrada.",
+        "en": "I leave my shoes in the entrance hall."
+       }
+      },
+      {
+       "n": 237,
+       "pt": "o corredor",
+       "en": "the hallway / the corridor",
+       "ex": {
+        "pt": "A casa de banho fica ao fundo do corredor.",
+        "en": "The bathroom is at the end of the corridor."
+       }
+      },
+      {
+       "n": 238,
+       "pt": "o quarto",
+       "en": "the bedroom",
+       "ex": {
+        "pt": "O meu quarto é pequeno.",
+        "en": "My bedroom is small."
+       },
+       "note": "Also means \"quarter\": um quarto de hora."
+      },
+      {
+       "n": 239,
+       "pt": "a sala de estar",
+       "en": "the living room",
+       "ex": {
+        "pt": "Vemos televisão na sala de estar.",
+        "en": "We watch TV in the living room."
+       }
+      },
+      {
+       "n": 240,
+       "pt": "a cozinha",
+       "en": "the kitchen",
+       "ex": {
+        "pt": "A minha mãe está na cozinha.",
+        "en": "My mother is in the kitchen."
+       }
+      },
+      {
+       "n": 241,
+       "pt": "a casa de banho",
+       "en": "the bathroom",
+       "ex": {
+        "pt": "Onde é a casa de banho?",
+        "en": "Where is the bathroom?"
+       }
+      },
+      {
+       "n": 242,
+       "pt": "o escritório",
+       "en": "the office",
+       "ex": {
+        "pt": "Trabalho no escritório de casa.",
+        "en": "I work in the home office."
+       }
+      },
+      {
+       "n": 243,
+       "pt": "a janela",
+       "en": "the window",
+       "ex": {
+        "pt": "Abre a janela, está calor.",
+        "en": "Open the window, it's hot."
+       }
+      },
+      {
+       "n": 244,
+       "pt": "as persianas / os estores",
+       "en": "the blinds",
+       "ex": {
+        "pt": "Fecho os estores à noite.",
+        "en": "I close the blinds at night."
+       }
+      },
+      {
+       "n": 245,
+       "pt": "a varanda",
+       "en": "the balcony",
+       "ex": {
+        "pt": "Tomo o pequeno-almoço na varanda.",
+        "en": "I have breakfast on the balcony."
+       }
+      },
+      {
+       "n": 246,
+       "pt": "o telhado",
+       "en": "the roof",
+       "ex": {
+        "pt": "O gato está no telhado.",
+        "en": "The cat is on the roof."
+       }
+      },
+      {
+       "n": 247,
+       "pt": "o teto",
+       "en": "the ceiling",
+       "ex": {
+        "pt": "O teto da sala é muito alto.",
+        "en": "The living room ceiling is very high."
+       }
+      },
+      {
+       "n": 248,
+       "pt": "a parede",
+       "en": "the wall",
+       "ex": {
+        "pt": "Há um quadro na parede.",
+        "en": "There's a painting on the wall."
+       }
+      },
+      {
+       "n": 249,
+       "pt": "o chão",
+       "en": "the floor",
+       "ex": {
+        "pt": "As chaves estão no chão.",
+        "en": "The keys are on the floor."
+       },
+       "note": "Irregular plural: os chãos (not -ões)."
+      },
+      {
+       "n": 250,
+       "pt": "a mesa",
+       "en": "the table",
+       "ex": {
+        "pt": "O jantar está na mesa.",
+        "en": "Dinner is on the table."
+       }
+      },
+      {
+       "n": 251,
+       "pt": "a cadeira",
+       "en": "the chair",
+       "ex": {
+        "pt": "Senta-te nesta cadeira.",
+        "en": "Sit on this chair."
+       }
+      },
+      {
+       "n": 252,
+       "pt": "o sofá",
+       "en": "the sofa / the couch",
+       "ex": {
+        "pt": "O gato dorme no sofá.",
+        "en": "The cat sleeps on the sofa."
+       }
+      },
+      {
+       "n": 253,
+       "pt": "a cama",
+       "en": "the bed",
+       "ex": {
+        "pt": "Vou para a cama às onze.",
+        "en": "I go to bed at eleven."
+       }
+      },
+      {
+       "n": 254,
+       "pt": "o colchão",
+       "en": "the mattress",
+       "ex": {
+        "pt": "Este colchão é muito confortável.",
+        "en": "This mattress is very comfortable."
+       },
+       "note": "Plural: os colchões."
+      },
+      {
+       "n": 255,
+       "pt": "a almofada",
+       "en": "the pillow",
+       "ex": {
+        "pt": "Preciso de outra almofada.",
+        "en": "I need another pillow."
+       },
+       "note": "Also a cushion on the sofa."
+      },
+      {
+       "n": 256,
+       "pt": "a mesa de cabeceira",
+       "en": "the nightstand",
+       "ex": {
+        "pt": "O telemóvel está na mesa de cabeceira.",
+        "en": "The phone is on the bedside table."
+       }
+      },
+      {
+       "n": 257,
+       "pt": "a secretária",
+       "en": "the desk",
+       "ex": {
+        "pt": "O computador está em cima da secretária.",
+        "en": "The computer is on the desk."
+       },
+       "note": "Also means \"the (female) secretary\"."
+      },
+      {
+       "n": 258,
+       "pt": "o armário",
+       "en": "the closet / the cupboard",
+       "ex": {
+        "pt": "Os copos estão no armário.",
+        "en": "The glasses are in the cupboard."
+       }
+      },
+      {
+       "n": 259,
+       "pt": "a estante",
+       "en": "the shelf",
+       "ex": {
+        "pt": "A estante está cheia de livros.",
+        "en": "The bookcase is full of books."
+       },
+       "note": "Usually a bookcase / shelving unit."
+      },
+      {
+       "n": 260,
+       "pt": "a gaveta",
+       "en": "the drawer",
+       "ex": {
+        "pt": "As facas estão na gaveta.",
+        "en": "The knives are in the drawer."
+       }
+      },
+      {
+       "n": 261,
+       "pt": "o espelho",
+       "en": "the mirror",
+       "ex": {
+        "pt": "Há um espelho na casa de banho.",
+        "en": "There's a mirror in the bathroom."
+       }
+      },
+      {
+       "n": 262,
+       "pt": "o candeeiro",
+       "en": "the lamp",
+       "ex": {
+        "pt": "Liga o candeeiro, por favor.",
+        "en": "Turn on the lamp, please."
+       }
+      },
+      {
+       "n": 263,
+       "pt": "a televisão",
+       "en": "the television",
+       "ex": {
+        "pt": "A televisão está na sala.",
+        "en": "The television is in the living room."
+       }
+      },
+      {
+       "n": 264,
+       "pt": "o eletrodoméstico",
+       "en": "the appliance",
+       "ex": {
+        "pt": "Esta loja vende eletrodomésticos.",
+        "en": "This shop sells household appliances."
+       }
+      },
+      {
+       "n": 265,
+       "pt": "o frigorífico",
+       "en": "the fridge",
+       "ex": {
+        "pt": "O leite está no frigorífico.",
+        "en": "The milk is in the fridge."
+       }
+      },
+      {
+       "n": 266,
+       "pt": "o congelador",
+       "en": "the freezer",
+       "ex": {
+        "pt": "Há gelado no congelador.",
+        "en": "There's ice cream in the freezer."
+       }
+      },
+      {
+       "n": 267,
+       "pt": "o forno",
+       "en": "the oven",
+       "ex": {
+        "pt": "O frango está no forno.",
+        "en": "The chicken is in the oven."
+       }
+      },
+      {
+       "n": 268,
+       "pt": "o fogão",
+       "en": "the stove",
+       "ex": {
+        "pt": "A panela está no fogão.",
+        "en": "The pot is on the stove."
+       },
+       "note": "Plural: os fogões."
+      },
+      {
+       "n": 269,
+       "pt": "o micro-ondas",
+       "en": "the microwave",
+       "ex": {
+        "pt": "Aqueço o leite no micro-ondas.",
+        "en": "I heat the milk in the microwave."
+       },
+       "note": "Same form in the plural: os micro-ondas."
+      },
+      {
+       "n": 270,
+       "pt": "a máquina de lavar a roupa",
+       "en": "the washing machine",
+       "ex": {
+        "pt": "A máquina de lavar a roupa está na cozinha.",
+        "en": "The washing machine is in the kitchen."
+       }
+      },
+      {
+       "n": 271,
+       "pt": "a máquina de secar",
+       "en": "the tumble dryer",
+       "ex": {
+        "pt": "Não tenho máquina de secar.",
+        "en": "I don't have a tumble dryer."
+       }
+      },
+      {
+       "n": 272,
+       "pt": "o estendal",
+       "en": "the drying rack",
+       "ex": {
+        "pt": "Ponho a roupa no estendal.",
+        "en": "I hang the clothes on the drying rack."
+       },
+       "note": "Plural: os estendais."
+      },
+      {
+       "n": 273,
+       "pt": "a tábua de engomar",
+       "en": "the ironing board",
+       "ex": {
+        "pt": "A tábua de engomar está atrás da porta.",
+        "en": "The ironing board is behind the door."
+       }
+      },
+      {
+       "n": 274,
+       "pt": "o ferro de engomar",
+       "en": "the iron",
+       "ex": {
+        "pt": "Cuidado, o ferro de engomar está quente!",
+        "en": "Careful, the iron is hot!"
+       }
+      },
+      {
+       "n": 275,
+       "pt": "a máquina de lavar a loiça",
+       "en": "the dishwasher",
+       "ex": {
+        "pt": "Põe os pratos na máquina de lavar a loiça.",
+        "en": "Put the plates in the dishwasher."
+       }
+      },
+      {
+       "n": 276,
+       "pt": "a torneira",
+       "en": "the faucet",
+       "ex": {
+        "pt": "Fecha a torneira!",
+        "en": "Turn off the tap!"
+       }
+      },
+      {
+       "n": 277,
+       "pt": "o lava-loiças",
+       "en": "the kitchen sink",
+       "ex": {
+        "pt": "Os pratos sujos estão no lava-loiças.",
+        "en": "The dirty plates are in the kitchen sink."
+       },
+       "note": "Same form in the plural: os lava-loiças."
+      },
+      {
+       "n": 278,
+       "pt": "o lavatório",
+       "en": "the bathroom sink",
+       "ex": {
+        "pt": "Lavo as mãos no lavatório.",
+        "en": "I wash my hands in the sink."
+       }
+      },
+      {
+       "n": 279,
+       "pt": "o duche / o chuveiro",
+       "en": "the shower",
+       "ex": {
+        "pt": "Tomo duche de manhã.",
+        "en": "I take a shower in the morning."
+       },
+       "note": "tomar duche = to have a shower."
+      },
+      {
+       "n": 280,
+       "pt": "a sanita",
+       "en": "the toilet",
+       "ex": {
+        "pt": "A sanita fica ao lado do lavatório.",
+        "en": "The toilet is next to the sink."
+       }
+      },
+      {
+       "n": 281,
+       "pt": "o caixote do lixo",
+       "en": "the trash can",
+       "ex": {
+        "pt": "Deita isso no caixote do lixo.",
+        "en": "Throw that in the bin."
+       }
+      },
+      {
+       "n": 282,
+       "pt": "o aspirador",
+       "en": "the vacuum cleaner",
+       "ex": {
+        "pt": "Passo o aspirador ao sábado.",
+        "en": "I vacuum on Saturdays."
+       }
+      },
+      {
+       "n": 283,
+       "pt": "a vassoura",
+       "en": "the broom",
+       "ex": {
+        "pt": "Onde está a vassoura?",
+        "en": "Where is the broom?"
+       }
+      },
+      {
+       "n": 284,
+       "pt": "o balde",
+       "en": "the bucket",
+       "ex": {
+        "pt": "Encho o balde de água.",
+        "en": "I fill the bucket with water."
+       }
+      },
+      {
+       "n": 285,
+       "pt": "a esfregona",
+       "en": "the mop",
+       "ex": {
+        "pt": "Limpo o chão com a esfregona.",
+        "en": "I clean the floor with the mop."
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

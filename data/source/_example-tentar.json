@@ -1,0 +1,100 @@
+{
+  "n": 7,
+  "inf": "tentar",
+  "en": "to try",
+  "regular": true,
+  "group": "ar",
+  "intro": "Tentar means to try, to attempt or to make an effort to do something. It's a regular -ar verb, and you'll use it constantly when talking about plans, learning something or making an effort.",
+  "quick": [
+    {"pt": "Vou tentar.", "en": "I'll try."},
+    {"pt": "Quero tentar.", "en": "I want to try."},
+    {"pt": "Estou a tentar.", "en": "I'm trying."},
+    {"pt": "Tentei!", "en": "I tried!"}
+  ],
+  "conj": {
+    "presente":    {"eu": "tento",    "tu": "tentas",    "ele": "tenta",   "nos": "tentamos",   "voces": "tentam",    "eles": "tentam"},
+    "perfeito":    {"eu": "tentei",   "tu": "tentaste",  "ele": "tentou",  "nos": "tentámos",   "voces": "tentaram",  "eles": "tentaram"},
+    "imperfeito":  {"eu": "tentava",  "tu": "tentavas",  "ele": "tentava", "nos": "tentávamos", "voces": "tentavam",  "eles": "tentavam"},
+    "futuro":      {"eu": "tentarei", "tu": "tentarás",  "ele": "tentará", "nos": "tentaremos", "voces": "tentarão",  "eles": "tentarão"},
+    "condicional": {"eu": "tentaria", "tu": "tentarias", "ele": "tentaria","nos": "tentaríamos","voces": "tentariam", "eles": "tentariam"}
+  },
+  "examples": {
+    "presente": [
+      {"p": "eu",   "pt": "Eu [tento] falar português todos os dias.", "en": "I try to speak Portuguese every day."},
+      {"p": "tu",   "pt": "Tu [tentas] aprender novas palavras?", "en": "Do you try to learn new words?"},
+      {"p": "ele",  "pt": "Ela [tenta] fazer exercício três vezes por semana.", "en": "She tries to exercise three times a week."},
+      {"p": "nos",  "pt": "Nós [tentamos] compreender o problema.", "en": "We try to understand the problem."},
+      {"p": "eles", "pt": "Eles [tentam] chegar a horas.", "en": "They try to arrive on time."}
+    ],
+    "perfeito": [
+      {"p": "eu",   "pt": "[Tentei] aprender turco.", "en": "I tried to learn Turkish."},
+      {"p": "tu",   "pt": "[Tentaste] ligar-me ontem?", "en": "Did you try to call me yesterday?"},
+      {"p": "ele",  "pt": "Ela [tentou] ajudar-me.", "en": "She tried to help me."},
+      {"p": "nos",  "pt": "[Tentámos] encontrar um restaurante.", "en": "We tried to find a restaurant."},
+      {"p": "eu",   "pt": "Não consegui, mas [tentei]!", "en": "I didn't manage it, but I tried!"}
+    ],
+    "imperfeito": [
+      {"p": "eu",   "pt": "Quando era criança, [tentava] aprender piano.", "en": "When I was a child, I used to try to learn piano."},
+      {"p": "eu",   "pt": "[Tentava] falar português, mas era difícil.", "en": "I was trying to speak Portuguese, but it was difficult."},
+      {"p": "ele",  "pt": "Ela [tentava] sempre ajudar os amigos.", "en": "She always tried to help her friends."},
+      {"p": "nos",  "pt": "Nós [tentávamos] jantar juntos aos domingos.", "en": "We used to try to have dinner together on Sundays."}
+    ],
+    "futuro": [
+      {"p": "eu",   "pt": "[Tentarei] novamente amanhã.", "en": "I'll try again tomorrow."},
+      {"p": "tu",   "pt": "[Tentarás] aprender português?", "en": "Will you try to learn Portuguese?"},
+      {"p": "nos",  "pt": "Nós [tentaremos] chegar cedo.", "en": "We will try to arrive early."},
+      {"p": "eles", "pt": "Eles [tentarão] ganhar o jogo.", "en": "They will try to win the game."}
+    ],
+    "condicional": [
+      {"p": "eu",   "pt": "Eu [tentaria], mas não tenho tempo.", "en": "I would try, but I don't have time."},
+      {"p": "tu",   "pt": "[Tentarias] outra vez?", "en": "Would you try again?"},
+      {"p": "ele",  "pt": "Ele [tentaria] ajudar, se pudesse.", "en": "He would try to help, if he could."},
+      {"p": "nos",  "pt": "Nós [tentaríamos] o restaurante novo.", "en": "We would try the new restaurant."}
+    ]
+  },
+  "practice": {
+    "presente": [
+      {"en": "I'm trying to learn Portuguese.", "pt": "Estou a tentar aprender português."},
+      {"en": "Do you understand what I'm trying to say?", "pt": "Percebes o que estou a tentar dizer?"},
+      {"en": "We try to speak Portuguese at home.", "pt": "Tentamos falar português em casa."}
+    ],
+    "perfeito": [
+      {"en": "I tried, but I couldn't.", "pt": "Tentei, mas não consegui."},
+      {"en": "She tried to call me yesterday.", "pt": "Ela tentou ligar-me ontem."},
+      {"en": "We tried to find the station.", "pt": "Tentámos encontrar a estação."}
+    ],
+    "imperfeito": [
+      {"en": "When I was younger, I tried to learn piano.", "pt": "Quando era mais novo, tentava aprender piano."},
+      {"en": "They always tried to arrive early.", "pt": "Eles tentavam sempre chegar cedo."},
+      {"en": "You used to try to cook every day.", "pt": "Tu tentavas cozinhar todos os dias."}
+    ],
+    "futuro": [
+      {"en": "We will try again tomorrow.", "pt": "Vamos tentar novamente amanhã."},
+      {"en": "I'm going to try to find a solution.", "pt": "Vou tentar encontrar uma solução."},
+      {"en": "Will you try to come?", "pt": "Vais tentar vir?"}
+    ],
+    "condicional": [
+      {"en": "I would try, but it's too late.", "pt": "Eu tentaria, mas é demasiado tarde."},
+      {"en": "Would you try this dish?", "pt": "Tentarias este prato?"},
+      {"en": "We would try to help.", "pt": "Nós tentaríamos ajudar."}
+    ]
+  },
+  "notes": {
+    "presente": "In Portugal the ongoing present uses estar a + infinitivo: Estou a tentar (I'm trying). Brazil says estou tentando.",
+    "perfeito": "European spelling: tentámos (Brazil: tentamos). Tentar = to try; conseguir = to manage. Tentei, mas não consegui.",
+    "imperfeito": "Tentei aprender português = one specific attempt. Tentava aprender português = I was trying / used to try.",
+    "futuro": "In everyday European Portuguese you'll more often hear ir + infinitivo: vou tentar, vais tentar, vai tentar, vamos tentar, vão tentar."
+  },
+  "patterns": [
+    {"pt": "tentar aprender", "en": "to try to learn"},
+    {"pt": "tentar compreender", "en": "to try to understand"},
+    {"pt": "tentar ajudar", "en": "to try to help"},
+    {"pt": "tentar encontrar", "en": "to try to find"},
+    {"pt": "tentar outra vez / novamente", "en": "to try again"}
+  ],
+  "compare": [
+    {"verb": "experimentar", "en": "to try something out / to test", "ex": "Quero experimentar este prato."},
+    {"verb": "procurar", "en": "to look for / to seek", "ex": "Estou a procurar um emprego."}
+  ],
+  "recap": "Vou tentar, porque quero conseguir! (I'm going to try, because I want to succeed!)"
+}
