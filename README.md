@@ -30,3 +30,4 @@ Progress and settings live in each browser's local storage, so the phone and the
 
 The PDFs in `resources/` and the extracted text (`data/source/raw.txt`) are git-ignored and never published.
 `tools/make_icons.py` regenerates the app icons.
+# Palavras
